@@ -1,0 +1,4068 @@
+1
+00:01:58,118 --> 00:02:01,037
+<c.thai><c.bg_transparent>&lrm;(8 กันยายน ปี 1979)</c.bg_transparent></c.thai>  2 
+
+2
+00:02:09,337 --> 00:02:15,593
+<c.thai><c.bg_transparent>&lrm;(ห้องปฏิบัติการแห่งชาติฮอว์กินส์)</c.bg_transparent></c.thai>  3 
+
+3
+00:03:08,229 --> 00:03:10,064
+<c.thai><c.bg_transparent>&lrm;นั่นของเล่นชิ้นโปรดใช่ไหม</c.bg_transparent></c.thai>  4 
+
+4
+00:03:12,066 --> 00:03:13,860
+<c.thai><c.bg_transparent>&lrm;วันนี้รู้สึกยังไงบ้างล่ะ</c.bg_transparent></c.thai>  5 
+
+5
+00:03:14,611 --> 00:03:15,570
+<c.thai><c.bg_transparent>&lrm;ก็ดี</c.bg_transparent></c.thai>  6 
+
+6
+00:03:16,613 --> 00:03:18,990
+<c.thai><c.bg_transparent>&lrm;พร้อมทำแบบฝึกหัดใหม่กันหรือยัง</c.bg_transparent></c.thai>  7 
+
+7
+00:03:22,952 --> 00:03:24,913
+<c.thai><c.bg_transparent>&lrm;(สัญญาณชี้ว่าใช่)</c.bg_transparent></c.thai>  8 
+
+8
+00:03:35,048 --> 00:03:36,507
+<c.thai><c.bg_transparent>&lrm;สวัสดีค่ะ ดร.เบรนเนอร์</c.bg_transparent></c.thai>  9 
+
+9
+00:03:36,591 --> 00:03:37,717
+<c.thai><c.bg_transparent>&lrm;ดร.เอลลิส</c.bg_transparent></c.thai>  10 
+
+10
+00:04:03,576 --> 00:04:04,452
+<c.thai><c.bg_transparent>&lrm;โอเค</c.bg_transparent></c.thai>  11 
+
+11
+00:04:05,370 --> 00:04:06,412
+<c.thai><c.bg_transparent>&lrm;เธอเห็นอะไร</c.bg_transparent></c.thai>  12 
+
+12
+00:04:13,795 --> 00:04:14,963
+<c.thai><c.bg_transparent>&lrm;อย่าไปเค้น</c.bg_transparent></c.thai>  13 
+
+13
+00:04:15,505 --> 00:04:16,756
+<c.thai><c.bg_transparent>&lrm;ให้ภาพมันมาเอง</c.bg_transparent></c.thai>  14 
+
+14
+00:04:17,340 --> 00:04:18,841
+<c.thai><c.bg_transparent>&lrm;เหมือนที่เราเคยซ้อมไว้</c.bg_transparent></c.thai>  15 
+
+15
+00:04:19,384 --> 00:04:20,426
+<c.thai><c.bg_transparent>&lrm;มันเป็น</c.bg_transparent></c.thai>  16 
+
+16
+00:04:20,927 --> 00:04:23,221
+<c.thai><c.bg_transparent>&lrm;วงกลมสีเหลือง</c.bg_transparent></c.thai>  17 
+
+17
+00:04:24,347 --> 00:04:25,181
+<c.thai><c.bg_transparent>&lrm;พระอาทิตย์</c.bg_transparent></c.thai>  18 
+
+18
+00:04:26,307 --> 00:04:28,726
+<c.thai><c.bg_transparent>&lrm;ดีมาก</c.bg_transparent></c.thai>  19 
+
+19
+00:04:31,187 --> 00:04:33,106
+<c.thai><c.bg_transparent>&lrm;โอเค ไหนดูซิ</c.bg_transparent></c.thai>  20 
+
+20
+00:04:38,820 --> 00:04:39,862
+<c.thai><c.bg_transparent>&lrm;โอเค</c.bg_transparent></c.thai>  21 
+
+21
+00:04:41,948 --> 00:04:43,157
+<c.thai><c.bg_transparent>&lrm;คราวนี้เห็นอะไร</c.bg_transparent></c.thai>  22 
+
+22
+00:04:46,035 --> 00:04:46,953
+<c.thai><c.bg_transparent>&lrm;เอ่อ…</c.bg_transparent></c.thai>  23 
+
+23
+00:04:48,121 --> 00:04:48,955
+<c.thai><c.bg_transparent>&lrm;วัว</c.bg_transparent></c.thai>  24 
+
+24
+00:04:54,043 --> 00:04:55,420
+<c.thai><c.bg_transparent>&lrm;มันเป็นรูปหมาต่างหาก</c.bg_transparent></c.thai>  25 
+
+25
+00:04:56,462 --> 00:04:57,755
+<c.thai><c.bg_transparent>&lrm;ก็เหมือนวัวนี่นา</c.bg_transparent></c.thai>  26 
+
+26
+00:04:59,757 --> 00:05:00,967
+<c.thai><c.bg_transparent>&lrm;เหมือนจริงๆ สินะ</c.bg_transparent></c.thai>  27 
+
+27
+00:05:03,052 --> 00:05:05,221
+<c.thai><c.bg_transparent>&lrm;ฉันไม่ค่อยมีหัวด้านศิลปะเท่าไรน่ะ</c.bg_transparent></c.thai>  28 
+
+28
+00:05:06,389 --> 00:05:10,018
+<c.thai><c.bg_transparent>&lrm;เอาละ มาลองอะไรที่ท้าทายขึ้นสักหน่อยกันดีกว่า</c.bg_transparent></c.thai>  29 
+
+29
+00:05:11,686 --> 00:05:12,603
+<c.thai><c.bg_transparent>&lrm;ได้ไหม</c.bg_transparent></c.thai>  30 
+
+30
+00:05:14,522 --> 00:05:17,650
+<c.thai><c.bg_transparent>&lrm;ฉันอยากให้เธอตามหาดร.เอลลิส</c.bg_transparent></c.thai>  31 
+
+31
+00:05:18,735 --> 00:05:19,736
+<c.thai><c.bg_transparent>&lrm;ทำได้ไหม</c.bg_transparent></c.thai>  32 
+
+32
+00:05:29,370 --> 00:05:30,580
+<c.thai><c.bg_transparent>&lrm;เจอหรือยัง</c.bg_transparent></c.thai>  33 
+
+33
+00:05:31,164 --> 00:05:32,123
+<c.thai><c.bg_transparent>&lrm;เจอแล้ว</c.bg_transparent></c.thai>  34 
+
+34
+00:05:33,541 --> 00:05:34,751
+<c.thai><c.bg_transparent>&lrm;เขาทำอะไรอยู่</c.bg_transparent></c.thai>  35 
+
+35
+00:05:35,418 --> 00:05:38,379
+<c.thai><c.bg_transparent>&lrm;สอนซิกซ์ทำแบบฝึกหัดในห้อง</c.bg_transparent></c.thai>  36 
+
+36
+00:05:38,463 --> 00:05:39,964
+<c.thai><c.bg_transparent>&lrm;แบบฝึกหัดอะไร</c.bg_transparent></c.thai>  37 
+
+37
+00:05:41,549 --> 00:05:43,634
+<c.thai><c.bg_transparent>&lrm;ซิกซ์พยายามขยับบล็อกอยู่</c.bg_transparent></c.thai>  38 
+
+38
+00:05:44,302 --> 00:05:45,386
+<c.thai><c.bg_transparent>&lrm;บล็อกสีแดง</c.bg_transparent></c.thai>  39 
+
+39
+00:05:47,889 --> 00:05:49,307
+<c.thai><c.bg_transparent>&lrm;(แบบฝึกหัด</c.bg_transparent> <c.bg_transparent>&lrm;บล็อกสีแดง)</c.bg_transparent></c.thai>  40 
+
+40
+00:05:49,390 --> 00:05:51,351
+<c.thai><c.bg_transparent>&lrm;ได้ยินที่พวกเขาคุยกันไหม</c.bg_transparent></c.thai>  41 
+
+41
+00:05:56,064 --> 00:05:58,024
+<c.thai><c.bg_transparent>&lrm;มีบางอย่างผิดปกติ</c.bg_transparent></c.thai>  42 
+
+42
+00:05:58,107 --> 00:06:01,819
+<c.thai><c.bg_transparent>&lrm;ถ้าภาพมันหายไปก็ปล่อยมันไปซะ ลองตั้งหลักใหม่</c.bg_transparent></c.thai>  43 
+
+43
+00:06:06,741 --> 00:06:08,034
+<c.thai><c.bg_transparent>&lrm;พวกเขากรีดร้อง</c.bg_transparent></c.thai>  44 
+
+44
+00:06:08,117 --> 00:06:09,369
+<c.thai><c.bg_transparent>&lrm;พวกเขากรีดร้องกันทำไม</c.bg_transparent></c.thai>  45 
+
+45
+00:06:12,413 --> 00:06:13,247
+<c.thai><c.bg_transparent>&lrm;เท็น</c.bg_transparent></c.thai>  46 
+
+46
+00:06:17,627 --> 00:06:20,880
+<c.thai><c.bg_transparent>&lrm;- ปีเตอร์ อเล็ค ข้างบนมีเรื่องอะไรกัน</c.bg_transparent> <c.bg_transparent>&lrm;- ท่านครับ เรามี…</c.bg_transparent></c.thai>  47 
+
+47
+00:06:22,465 --> 00:06:23,966
+<c.thai><c.bg_transparent>&lrm;ซิกซ์กับดร.เอลลิส</c.bg_transparent></c.thai>  48 
+
+48
+00:06:25,635 --> 00:06:26,469
+<c.thai><c.bg_transparent>&lrm;ตายแล้ว</c.bg_transparent></c.thai>  49 
+
+49
+00:06:27,428 --> 00:06:29,680
+<c.thai><c.bg_transparent>&lrm;พวกเขาตายแล้ว</c.bg_transparent></c.thai>  50 
+
+50
+00:08:32,887 --> 00:08:34,055
+<c.thai><c.bg_transparent>&lrm;เธอทำอะไรลงไป</c.bg_transparent></c.thai>  51 
+
+51
+00:08:40,269 --> 00:08:42,271
+<c.thai><c.bg_transparent>&lrm;เธอทำอะไรลงไป</c.bg_transparent></c.thai>  52 
+
+52
+00:08:49,570 --> 00:08:51,781
+<c.thai><c.bg_transparent>&lrm;(ซีรีส์จาก NETFLIX)</c.bg_transparent></c.thai>  53 
+
+53
+00:09:39,745 --> 00:09:46,711
+<c.thai><c.bg_transparent>&lrm;(บทที่ 1: เฮลไฟร์คลับ)</c.bg_transparent></c.thai>  54 
+
+54
+00:10:00,558 --> 00:10:01,767
+<c.thai><c.bg_transparent>&lrm;ถึงไมค์ที่รัก</c.bg_transparent></c.thai>  55 
+
+55
+00:10:01,851 --> 00:10:04,937
+<c.thai><c.bg_transparent>&lrm;วันนี้เป็นวันที่ 185</c.bg_transparent></c.thai>  56 
+
+56
+00:10:05,605 --> 00:10:07,315
+<c.thai><c.bg_transparent>&lrm;รู้สึกเหมือนสิบปีซะมากกว่า</c.bg_transparent></c.thai>  57 
+
+57
+00:10:08,107 --> 00:10:10,610
+<c.thai><c.bg_transparent>&lrm;จอยซ์บอกว่าเวลามันก็พิลึกแบบนี้แหละ</c.bg_transparent></c.thai>  58 
+
+58
+00:10:11,402 --> 00:10:14,447
+<c.thai><c.bg_transparent>&lrm;อารมณ์ของเราทำให้มันเร็วขึ้นหรือช้าลงได้</c.bg_transparent></c.thai>  59 
+
+59
+00:10:15,656 --> 00:10:18,492
+<c.thai><c.bg_transparent>&lrm;ถ้าลองคิดดูแล้ว</c.bg_transparent> <c.bg_transparent>&lrm;พวกเราก็เป็นนักเดินทางข้ามเวลากันทุกคน</c.bg_transparent></c.thai>  60 
+
+60
+00:10:19,243 --> 00:10:22,913
+<c.thai><c.bg_transparent>&lrm;ยกตัวอย่างนะ อาทิตย์นี้ผ่านไปไวมาก</c.bg_transparent></c.thai>  61 
+
+61
+00:10:22,997 --> 00:10:25,041
+<c.thai><c.bg_transparent>&lrm;น่าจะเป็นเพราะฉันยุ่งมาก</c.bg_transparent></c.thai>  62 
+
+62
+00:10:25,833 --> 00:10:28,961
+<c.thai><c.bg_transparent>&lrm;ฉันต้องทำสิ่งที่เรียกว่าทัศนูปกรณ์</c.bg_transparent></c.thai>  63 
+
+63
+00:10:30,129 --> 00:10:32,340
+<c.thai><c.bg_transparent>&lrm;ขอให้ครูเกรซี่ให้เกรดเอฉันทีเถอะ</c.bg_transparent></c.thai>  64 
+
+64
+00:10:33,215 --> 00:10:35,968
+<c.thai><c.bg_transparent>&lrm;ฉันส่งฉบับพิมพ์ครั้งที่แล้วไปให้ลองอ่านก่อนก็ได้</c.bg_transparent></c.thai>  65 
+
+65
+00:10:36,052 --> 00:10:39,805
+<c.thai><c.bg_transparent>&lrm;คุณจะได้รู้ว่าชอบสินค้าไหม</c.bg_transparent> <c.bg_transparent>&lrm;ก่อนที่จะตัดสินใจซื้อ…</c.bg_transparent></c.thai>  66 
+
+66
+00:10:39,889 --> 00:10:41,182
+<c.thai><c.bg_transparent>&lrm;มีข่าวน่าตื่นเต้นด้วย</c.bg_transparent></c.thai>  67 
+
+67
+00:10:41,766 --> 00:10:43,809
+<c.thai><c.bg_transparent>&lrm;จอยซ์ได้งานใหม่ที่แจ๋วมาก</c.bg_transparent></c.thai>  68 
+
+68
+00:10:44,352 --> 00:10:46,646
+<c.thai><c.bg_transparent>&lrm;ได้ทำงานจากที่บ้านด้วยแหละ</c.bg_transparent></c.thai>  69 
+
+69
+00:10:46,729 --> 00:10:49,940
+<c.thai><c.bg_transparent>&lrm;ค่ะ รู้ใช่ไหมคะว่าฉันไม่ใช่หุ่นยนต์</c.bg_transparent></c.thai>  70 
+
+70
+00:10:50,024 --> 00:10:52,610
+<c.thai><c.bg_transparent>&lrm;บอกว่าชอบที่มี "อิสรภาพ"</c.bg_transparent></c.thai>  71 
+
+71
+00:10:52,693 --> 00:10:53,527
+<c.thai><c.bg_transparent>&lrm;เฮงซวย</c.bg_transparent></c.thai>  72 
+
+72
+00:10:54,278 --> 00:10:56,072
+<c.thai><c.bg_transparent>&lrm;วิลวาดรูปบ่อยมาก</c.bg_transparent></c.thai>  73 
+
+73
+00:10:56,739 --> 00:10:58,866
+<c.thai><c.bg_transparent>&lrm;แต่เขาไม่ยอมให้ฉันดูผลงานเลย</c.bg_transparent></c.thai>  74 
+
+74
+00:10:58,949 --> 00:11:00,576
+<c.thai><c.bg_transparent>&lrm;คงจะวาดให้สาวมั้ง</c.bg_transparent></c.thai>  75 
+
+75
+00:11:01,118 --> 00:11:03,579
+<c.thai><c.bg_transparent>&lrm;ฉันว่าเขาแอบชอบใครคนนึง</c.bg_transparent></c.thai>  76 
+
+76
+00:11:03,663 --> 00:11:05,331
+<c.thai><c.bg_transparent>&lrm;เพราะช่วงนี้เขาทำตัว</c.bg_transparent></c.thai>  77 
+
+77
+00:11:06,415 --> 00:11:07,249
+<c.thai><c.bg_transparent>&lrm;แปลกๆ</c.bg_transparent></c.thai>  78 
+
+78
+00:11:08,292 --> 00:11:10,670
+<c.thai><c.bg_transparent>&lrm;โจนาธานก็ทำตัวแปลกๆ เหมือนกัน</c.bg_transparent></c.thai>  79 
+
+79
+00:11:10,753 --> 00:11:13,339
+<c.thai><c.bg_transparent>&lrm;ฉันว่าเขาแค่กังวลเรื่องเรียนต่อมหาลัย</c.bg_transparent></c.thai>  80 
+
+80
+00:11:13,839 --> 00:11:16,175
+<c.thai><c.bg_transparent>&lrm;เขายังรอจดหมายตอบรับอยู่</c.bg_transparent></c.thai>  81 
+
+81
+00:11:16,926 --> 00:11:19,136
+<c.thai><c.bg_transparent>&lrm;หวังว่าเขากับแนนซี่จะได้เรียนที่เดียวกันนะ</c.bg_transparent></c.thai>  82 
+
+82
+00:11:19,220 --> 00:11:20,429
+<c.thai><c.bg_transparent>&lrm;โธ่เว้ย</c.bg_transparent></c.thai>  83 
+
+83
+00:11:21,013 --> 00:11:24,809
+<c.thai><c.bg_transparent>&lrm;แต่เขาจะเดินทางไปเรียนยังไงก็ไม่รู้</c.bg_transparent> <c.bg_transparent>&lrm;เพราะรถยังพังอยู่เลย</c.bg_transparent></c.thai>  84 
+
+84
+00:11:24,892 --> 00:11:28,396
+<c.thai><c.bg_transparent>&lrm;(เซิร์ฟเฟอร์บอยพิซซ่า)</c.bg_transparent></c.thai>  85 
+
+85
+00:11:28,479 --> 00:11:31,816
+<c.thai><c.bg_transparent>&lrm;อาร์ไกล์ เพื่อนเพี้ยนๆ ของเขา</c.bg_transparent> <c.bg_transparent>&lrm;เป็นคนขับรถพาเราไปส่งที่โรงเรียน</c.bg_transparent></c.thai>  86 
+
+86
+00:11:31,899 --> 00:11:33,943
+<c.thai><c.bg_transparent>&lrm;ผมยาวกว่าฉันซะอีก</c.bg_transparent></c.thai>  87 
+
+87
+00:11:34,026 --> 00:11:37,196
+<c.thai><c.bg_transparent>&lrm;เขากับโจนาธานชอบสูบใบไม้เหม็นๆ ด้วยกัน</c.bg_transparent></c.thai>  88 
+
+88
+00:11:37,905 --> 00:11:42,076
+<c.thai><c.bg_transparent>&lrm;โจนาธานบอกว่ามันปลอดภัยสุดๆ</c.bg_transparent> <c.bg_transparent>&lrm;เพราะใช้ดินปลูก</c.bg_transparent></c.thai>  89 
+
+89
+00:11:42,159 --> 00:11:43,828
+<c.thai><c.bg_transparent>&lrm;แต่ห้ามฉันบอกจอยซ์</c.bg_transparent></c.thai>  90 
+
+90
+00:11:47,456 --> 00:11:48,374
+<c.thai><c.bg_transparent>&lrm;ส่วนฉันน่ะ</c.bg_transparent></c.thai>  91 
+
+91
+00:11:48,874 --> 00:11:50,835
+<c.thai><c.bg_transparent>&lrm;ตอนนี้มีความสุขกว่าเดิมเป็นสองเท่า</c.bg_transparent></c.thai>  92 
+
+92
+00:11:52,044 --> 00:11:54,171
+<c.thai><c.bg_transparent>&lrm;เธอพูดถูก มันแค่ต้องใช้เวลา</c.bg_transparent></c.thai>  93 
+
+93
+00:11:54,255 --> 00:11:55,381
+<c.thai><c.bg_transparent>&lrm;โอเค</c.bg_transparent></c.thai>  94 
+
+94
+00:11:55,464 --> 00:11:57,383
+<c.thai><c.bg_transparent>&lrm;เกาะให้แน่นๆ หน่อยนะน้องนะ</c.bg_transparent></c.thai>  95 
+
+95
+00:11:59,343 --> 00:12:02,471
+<c.thai><c.bg_transparent>&lrm;ฉันว่าในที่สุดฉันก็ปรับตัวได้แล้ว</c.bg_transparent></c.thai>  96 
+
+96
+00:12:02,555 --> 00:12:03,973
+<c.thai><c.bg_transparent>&lrm;ขับช้าๆ สิ!</c.bg_transparent></c.thai>  97 
+
+97
+00:12:16,944 --> 00:12:19,780
+<c.thai><c.bg_transparent>&lrm;ตอนแรกฉันคิดถึงพวกดอกไม้ฤดูใบไม้ผลิ</c.bg_transparent></c.thai>  98 
+
+98
+00:12:20,322 --> 00:12:22,533
+<c.thai><c.bg_transparent>&lrm;แต่ตอนนี้ฉันก็คิดว่าที่นี่สวยเหมือนกัน</c.bg_transparent></c.thai>  99 
+
+99
+00:12:24,076 --> 00:12:27,580
+<c.thai><c.bg_transparent>&lrm;(โรงเรียนมัธยมปลายเลนอราฮิลส์)</c.bg_transparent></c.thai>  100 
+
+100
+00:12:31,417 --> 00:12:33,002
+<c.thai><c.bg_transparent>&lrm;ตอนนี้ฉันชอบไปเรียนแล้วด้วย</c.bg_transparent></c.thai>  101 
+
+101
+00:12:33,711 --> 00:12:37,923
+<c.thai><c.bg_transparent>&lrm;ฉันยังเก่งเลขที่สุดเหมือนเดิม</c.bg_transparent> <c.bg_transparent>&lrm;แต่ไวยากรณ์ก็เริ่มดีแล้วเหมือนกัน</c.bg_transparent></c.thai>  102 
+
+102
+00:12:39,759 --> 00:12:44,180
+<c.thai><c.bg_transparent>&lrm;(เลนอราฮิลส์ รัฐแคลิฟอร์เนีย</c.bg_transparent> <c.bg_transparent>&lrm;21 มีนาคม 1986)</c.bg_transparent></c.thai>  103 
+
+103
+00:12:48,142 --> 00:12:50,561
+<c.thai><c.bg_transparent>&lrm;มันก็ช่วยได้นะที่ทุกคนที่นี่ใจดีมาก</c.bg_transparent></c.thai>  104 
+
+104
+00:12:50,644 --> 00:12:53,189
+<c.thai><c.bg_transparent>&lrm;ฉันหาเพื่อนใหม่ได้เยอะเลย</c.bg_transparent></c.thai>  105 
+
+105
+00:12:57,193 --> 00:13:03,365
+<c.thai><c.bg_transparent>&lrm;แต่ยังไงก็อยากให้ปิดเทอมสปริงเบรคแล้ว</c.bg_transparent> <c.bg_transparent>&lrm;หลักๆ ก็เพราะจะได้เจอเธอ</c.bg_transparent></c.thai>  106 
+
+106
+00:13:06,202 --> 00:13:09,121
+<c.thai><c.bg_transparent>&lrm;ตื่นเต้นมากเลยที่จะได้เจอเธอ</c.bg_transparent> <c.bg_transparent>&lrm;รู้สึกเหมือนจะขาดใจ</c.bg_transparent></c.thai>  107 
+
+107
+00:13:09,663 --> 00:13:10,748
+<c.thai><c.bg_transparent>&lrm;เธอตื่นเต้นเหมือนกันไหม</c.bg_transparent></c.thai>  108 
+
+108
+00:13:11,707 --> 00:13:13,667
+<c.thai><c.bg_transparent>&lrm;ฉันว่าเธอต้องชอบที่นี่เหมือนฉันแน่ๆ เลย</c.bg_transparent></c.thai>  109 
+
+109
+00:13:15,836 --> 00:13:20,508
+<c.thai><c.bg_transparent>&lrm;ฉันว่าเราจะมีสปริงเบรคที่สนุกสุดเหวี่ยงไปเลย</c.bg_transparent></c.thai>  110 
+
+110
+00:13:32,561 --> 00:13:34,688
+<c.thai><c.bg_transparent>&lrm;หวังว่าฉบับนี้สะกดผิดน้อยลง</c.bg_transparent></c.thai>  111 
+
+111
+00:13:35,314 --> 00:13:36,148
+<c.thai><c.bg_transparent>&lrm;คิดถึงนะ</c.bg_transparent></c.thai>  112 
+
+112
+00:13:36,649 --> 00:13:38,275
+<c.thai><c.bg_transparent>&lrm;ด้วยรัก จากแอล</c.bg_transparent></c.thai>  113 
+
+113
+00:13:40,528 --> 00:13:43,322
+<c.thai><c.bg_transparent>&lrm;- มัวทำบ้าอะไรอยู่ เลยเวลามาสิบนาทีแล้วนะ</c.bg_transparent> <c.bg_transparent>&lrm;- ฉิบหาย</c.bg_transparent></c.thai>  114 
+
+114
+00:13:43,405 --> 00:13:46,450
+<c.thai><c.bg_transparent>&lrm;ให้เวลา 30 วิ ไม่งั้นไปไม่รอแล้ว</c.bg_transparent> <c.bg_transparent>&lrm;โอเคนะ 30 วินาที</c.bg_transparent></c.thai>  115 
+
+115
+00:13:46,534 --> 00:13:48,285
+<c.thai><c.bg_transparent>&lrm;โอเค หากางเกงก่อน</c.bg_transparent></c.thai>  116 
+
+116
+00:13:51,080 --> 00:13:52,832
+<c.thai><c.bg_transparent>&lrm;(เฮลไฟร์คลับ)</c.bg_transparent></c.thai>  117 
+
+117
+00:13:55,751 --> 00:13:58,504
+<c.thai><c.bg_transparent>&lrm;- ไมเคิล แม่รู้ว่าชมรมดีแอนด์ดีนัดกันคืนนี้</c.bg_transparent> <c.bg_transparent>&lrm;- เฮลไฟร์</c.bg_transparent></c.thai>  118 
+
+118
+00:13:58,587 --> 00:14:00,923
+<c.thai><c.bg_transparent>&lrm;ไม่เรียกว่าชมรมเด็กเรียนม.ปลายไม่จบเลยล่ะ</c.bg_transparent></c.thai>  119 
+
+119
+00:14:01,006 --> 00:14:03,425
+<c.thai><c.bg_transparent>&lrm;- อย่ากลับบ้านดึกเกินสามทุ่มนะ</c.bg_transparent> <c.bg_transparent>&lrm;- จะพยายาม</c.bg_transparent></c.thai>  120 
+
+120
+00:14:03,509 --> 00:14:06,136
+<c.thai><c.bg_transparent>&lrm;- ไม่ได้ คืนนี้ลูกต้องเข้านอนเร็ว</c.bg_transparent> <c.bg_transparent>&lrm;- ทำไม</c.bg_transparent></c.thai>  121 
+
+121
+00:14:06,220 --> 00:14:08,973
+<c.thai><c.bg_transparent>&lrm;- เครื่องบินออก 6.30 นะไมเคิล</c.bg_transparent> <c.bg_transparent>&lrm;- เออ รู้แล้ว แต่…</c.bg_transparent></c.thai>  122 
+
+122
+00:14:09,056 --> 00:14:11,058
+<c.thai><c.bg_transparent>&lrm;ห้ามมีข้อแม้</c.bg_transparent> <c.bg_transparent>&lrm;สามทุ่ม ไม่งั้นอดไปแคลิฟอร์เนีย</c.bg_transparent></c.thai>  123 
+
+123
+00:14:11,141 --> 00:14:12,685
+<c.thai><c.bg_transparent>&lrm;และอดเจอหวานใจ</c.bg_transparent></c.thai>  124 
+
+124
+00:14:12,768 --> 00:14:13,686
+<c.thai><c.bg_transparent>&lrm;ไมค์!</c.bg_transparent></c.thai>  125 
+
+125
+00:14:14,395 --> 00:14:15,855
+<c.thai><c.bg_transparent>&lrm;ไปได้แล้ว</c.bg_transparent></c.thai>  126 
+
+126
+00:14:15,938 --> 00:14:19,233
+<c.thai><c.bg_transparent>&lrm;ให้ตายเถอะ ห่างทุกคนตั้งอาทิตย์นึง</c.bg_transparent> <c.bg_transparent>&lrm;ผมจะอยู่ยังไงนะเนี่ย</c.bg_transparent></c.thai>  127 
+
+127
+00:14:22,486 --> 00:14:23,529
+<c.thai><c.bg_transparent>&lrm;สามทุ่มนะ!</c.bg_transparent></c.thai>  128 
+
+128
+00:14:25,656 --> 00:14:30,202
+<c.thai><c.bg_transparent>&lrm;เตือนความจำผมที เมื่อไรเด็กจะโตขึ้น</c.bg_transparent> <c.bg_transparent>&lrm;เป็นมนุษย์ที่มีเหตุผลซะที</c.bg_transparent></c.thai>  129 
+
+129
+00:14:40,087 --> 00:14:41,755
+<c.thai><c.bg_transparent>&lrm;ไม่สำเร็จ ดัสตี้บัน</c.bg_transparent></c.thai>  130 
+
+130
+00:14:42,423 --> 00:14:43,632
+<c.thai><c.bg_transparent>&lrm;เวรตะไล</c.bg_transparent></c.thai>  131 
+
+131
+00:14:44,550 --> 00:14:45,676
+<c.thai><c.bg_transparent>&lrm;ลอง "ไทเกอร์86"</c.bg_transparent></c.thai>  132 
+
+132
+00:14:46,343 --> 00:14:47,928
+<c.thai><c.bg_transparent>&lrm;"ไทเกอร์86" รับทราบ</c.bg_transparent></c.thai>  133 
+
+133
+00:14:48,012 --> 00:14:49,221
+<c.thai><c.bg_transparent>&lrm;(ดาต้าเน็ตเขตโรแอน)</c.bg_transparent></c.thai>  134 
+
+134
+00:14:49,889 --> 00:14:52,266
+<c.thai><c.bg_transparent>&lrm;(สารบบ: ครู</c.bg_transparent> <c.bg_transparent>&lrm;บันทึกโรงเรียนมัธยมปลายฮอว์กินส์)</c.bg_transparent></c.thai>  135 
+
+135
+00:14:52,349 --> 00:14:54,268
+<c.thai><c.bg_transparent>&lrm;พระเจ้าช่วยกล้วยทอด ดัสตี้ เข้าได้แล้ว</c.bg_transparent></c.thai>  136 
+
+136
+00:14:54,351 --> 00:14:55,394
+<c.thai><c.bg_transparent>&lrm;แม่เจ้าโว้ย</c.bg_transparent></c.thai>  137 
+
+137
+00:14:56,812 --> 00:14:58,939
+<c.thai><c.bg_transparent>&lrm;ทำอะไรอยู่เหรอดัสตี้ เดี๋ยวก็ไปสายหรอก</c.bg_transparent></c.thai>  138 
+
+138
+00:14:59,023 --> 00:15:00,524
+<c.thai><c.bg_transparent>&lrm;อย่าเข้ามา ผมโป๊!</c.bg_transparent></c.thai>  139 
+
+139
+00:15:01,233 --> 00:15:02,610
+<c.thai><c.bg_transparent>&lrm;เวลาจะหมดแล้วนะ</c.bg_transparent></c.thai>  140 
+
+140
+00:15:02,693 --> 00:15:03,652
+<c.thai><c.bg_transparent>&lrm;ใจเย็นๆ ก่อน ดัสตี้บัน</c.bg_transparent></c.thai>  141 
+
+141
+00:15:03,736 --> 00:15:05,446
+<c.thai><c.bg_transparent>&lrm;(ป้อนชื่อนักเรียน:</c.bg_transparent> <c.bg_transparent>&lrm;ดัสติน เฮนเดอร์สัน)</c.bg_transparent></c.thai>  142 
+
+142
+00:15:07,907 --> 00:15:08,908
+<c.thai><c.bg_transparent>&lrm;(ชื่อวิชา) (เกรด)</c.bg_transparent></c.thai>  143 
+
+143
+00:15:08,991 --> 00:15:10,326
+<c.thai><c.bg_transparent>&lrm;(ละติน เกรดดีลบ)</c.bg_transparent></c.thai>  144 
+
+144
+00:15:10,409 --> 00:15:11,452
+<c.thai><c.bg_transparent>&lrm;เห็นหรือยัง</c.bg_transparent></c.thai>  145 
+
+145
+00:15:11,535 --> 00:15:12,870
+<c.thai><c.bg_transparent>&lrm;อือ เห็นแล้ว</c.bg_transparent></c.thai>  146 
+
+146
+00:15:13,829 --> 00:15:14,788
+<c.thai><c.bg_transparent>&lrm;แย่เลย ดัสตี้</c.bg_transparent></c.thai>  147 
+
+147
+00:15:14,872 --> 00:15:15,789
+<c.thai><c.bg_transparent>&lrm;ใช่</c.bg_transparent></c.thai>  148 
+
+148
+00:15:16,874 --> 00:15:17,917
+<c.thai><c.bg_transparent>&lrm;(ไม่เมาตามเพื่อนก็ได้)</c.bg_transparent></c.thai>  149 
+
+149
+00:15:21,879 --> 00:15:23,297
+<c.thai><c.bg_transparent>&lrm;ไว้ค่อยสำนึกบาปเจ้าค่ะ</c.bg_transparent></c.thai>  150 
+
+150
+00:15:28,218 --> 00:15:31,180
+<c.thai><c.bg_transparent>&lrm;แล้วคืนพรุ่งนี้ก็มีไฮดี้ แต่ปัญหาคือ</c.bg_transparent></c.thai>  151 
+
+151
+00:15:31,263 --> 00:15:33,474
+<c.thai><c.bg_transparent>&lrm;สาวจะไปเรียนต่อมหาลัยที่รัฐอื่น</c.bg_transparent></c.thai>  152 
+
+152
+00:15:33,557 --> 00:15:37,645
+<c.thai><c.bg_transparent>&lrm;ฉันอยากจะเริ่มความสัมพันธ์ใหม่</c.bg_transparent> <c.bg_transparent>&lrm;ที่ไม่มีจุดประสงค์อะไรนอกจากเซ็กซ์อีกไหม</c.bg_transparent></c.thai>  153 
+
+153
+00:15:37,728 --> 00:15:40,230
+<c.thai><c.bg_transparent>&lrm;คือไม่รู้สิ เข้าใจที่พูดมามะ</c.bg_transparent></c.thai>  154 
+
+154
+00:15:40,314 --> 00:15:42,066
+<c.thai><c.bg_transparent>&lrm;- โรบิน นี่ฟังอยู่ไหมเนี่ย</c.bg_transparent> <c.bg_transparent>&lrm;- ฟัง</c.bg_transparent></c.thai>  155 
+
+155
+00:15:42,149 --> 00:15:44,902
+<c.thai><c.bg_transparent>&lrm;- ฉันพูดว่าไง</c.bg_transparent> <c.bg_transparent>&lrm;- เซ็กซ์กับลินดาอะไรสักอย่าง</c.bg_transparent></c.thai>  156 
+
+156
+00:15:44,985 --> 00:15:46,528
+<c.thai><c.bg_transparent>&lrm;ไม่ใช่ ฉันพูดถึงไฮดี้!</c.bg_transparent></c.thai>  157 
+
+157
+00:15:46,612 --> 00:15:48,572
+<c.thai><c.bg_transparent>&lrm;- อย่าโมโหแรงได้ไหม ขอร้อง</c.bg_transparent> <c.bg_transparent>&lrm;- ก็…</c.bg_transparent></c.thai>  158 
+
+158
+00:15:48,656 --> 00:15:50,783
+<c.thai><c.bg_transparent>&lrm;ชีวิตรักของนายซับซ้อนอย่างกับเขาวงกต</c.bg_transparent></c.thai>  159 
+
+159
+00:15:50,866 --> 00:15:55,454
+<c.thai><c.bg_transparent>&lrm;นี่เจ็ดโมงเช้า เราต้องไปร่วมงานปลุกใจงี่เง่า</c.bg_transparent> <c.bg_transparent>&lrm;และฉันหน้าเหมือนศพตั้งแต่เช้า</c.bg_transparent></c.thai>  160 
+
+160
+00:15:55,537 --> 00:15:58,415
+<c.thai><c.bg_transparent>&lrm;จะให้ฉันเชื่อว่า</c.bg_transparent> <c.bg_transparent>&lrm;ห่วงเรื่องงานปลุกใจบาสเก็ตบอลเนี่ยนะ</c.bg_transparent></c.thai>  161 
+
+161
+00:15:58,499 --> 00:16:01,085
+<c.thai><c.bg_transparent>&lrm;- ใช่ แล้วไง</c.bg_transparent> <c.bg_transparent>&lrm;- เราต่างรู้ดีว่าที่จริงแล้วห่วงเรื่องอะไร</c.bg_transparent></c.thai>  162 
+
+162
+00:16:01,168 --> 00:16:04,088
+<c.thai><c.bg_transparent>&lrm;- ฉันไม่เชื่อเธอหรอก นี่มันเรื่องวิคกี้</c.bg_transparent> <c.bg_transparent>&lrm;- ไม่ใช่ซะหน่อย</c.bg_transparent></c.thai>  163 
+
+163
+00:16:04,171 --> 00:16:06,298
+<c.thai><c.bg_transparent>&lrm;- อย่าปากแข็ง แล้วรู้ไหมว่าอะไรอีก</c.bg_transparent> <c.bg_transparent>&lrm;- ฉันไม่แคร์</c.bg_transparent></c.thai>  164 
+
+164
+00:16:06,382 --> 00:16:09,593
+<c.thai><c.bg_transparent>&lrm;ฉันว่าเธอต้องเลิกวางมาดเวลาอยู่ใกล้เขา</c.bg_transparent></c.thai>  165 
+
+165
+00:16:09,677 --> 00:16:11,428
+<c.thai><c.bg_transparent>&lrm;ต้องเป็นตัวของตัวเอง</c.bg_transparent></c.thai>  166 
+
+166
+00:16:11,512 --> 00:16:14,473
+<c.thai><c.bg_transparent>&lrm;นี่รู้ตัวใช่ไหมว่าก๊อปคำพูดฉันมาสอนฉัน</c.bg_transparent></c.thai>  167 
+
+167
+00:16:14,556 --> 00:16:17,226
+<c.thai><c.bg_transparent>&lrm;งั้นฟังคำแนะนำตัวเองสิ เคยคิดจะทำบ้างไหม</c.bg_transparent></c.thai>  168 
+
+168
+00:16:17,309 --> 00:16:19,561
+<c.thai><c.bg_transparent>&lrm;ฉันยังฟังเธอ</c.bg_transparent> <c.bg_transparent>&lrm;แล้วเป็นไงล่ะ ขายออกแล้ว</c.bg_transparent></c.thai>  169 
+
+169
+00:16:19,645 --> 00:16:21,772
+<c.thai><c.bg_transparent>&lrm;- มันไม่เหมือนกัน จบนะ</c.bg_transparent> <c.bg_transparent>&lrm;- คือ…</c.bg_transparent></c.thai>  170 
+
+170
+00:16:21,855 --> 00:16:23,774
+<c.thai><c.bg_transparent>&lrm;นายชวนสาวไปเดต สาวปฏิเสธ</c.bg_transparent></c.thai>  171 
+
+171
+00:16:23,857 --> 00:16:26,819
+<c.thai><c.bg_transparent>&lrm;จิ๊บจ๊อย ไม่เห็นเป็นไร</c.bg_transparent> <c.bg_transparent>&lrm;อีโก้อาจบอบช้ำบ้างนิดนึง</c.bg_transparent></c.thai>  172 
+
+172
+00:16:26,902 --> 00:16:29,738
+<c.thai><c.bg_transparent>&lrm;แต่ถ้าฉันไปชวนสาวผิดคน</c.bg_transparent> <c.bg_transparent>&lrm;ก็ตู้ม ชาวเมืองรังเกียจทันที</c.bg_transparent></c.thai>  173 
+
+173
+00:16:29,822 --> 00:16:32,950
+<c.thai><c.bg_transparent>&lrm;ก็อยากเชื่อข้ออ้างนั้นนะ</c.bg_transparent> <c.bg_transparent>&lrm;แต่วิคกี้ไม่ใช่ผิดคนอย่างแน่นอน</c.bg_transparent></c.thai>  174 
+
+174
+00:16:33,033 --> 00:16:34,910
+<c.thai><c.bg_transparent>&lrm;เราไม่รู้แน่ชัด จริงไหม</c.bg_transparent></c.thai>  175 
+
+175
+00:16:34,994 --> 00:16:38,539
+<c.thai><c.bg_transparent>&lrm;วิคกี้เอาเรื่อง "ลองรัก" มาคืน</c.bg_transparent> <c.bg_transparent>&lrm;เทปถูกหยุดไว้นาทีที่ 53.05</c.bg_transparent></c.thai>  176 
+
+176
+00:16:38,622 --> 00:16:41,333
+<c.thai><c.bg_transparent>&lrm;รู้ไหมว่าคนแบบไหน</c.bg_transparent> <c.bg_transparent>&lrm;หยุดหนังลองรักในนาทีที่ 53.05</c.bg_transparent></c.thai>  177 
+
+177
+00:16:42,960 --> 00:16:44,503
+<c.thai><c.bg_transparent>&lrm;คนที่ชอบหน่มน้ม โรบิน</c.bg_transparent></c.thai>  178 
+
+178
+00:16:44,586 --> 00:16:46,463
+<c.thai><c.bg_transparent>&lrm;- ยี้ อย่าพูดว่าหน่มน้ม</c.bg_transparent> <c.bg_transparent>&lrm;- หน่มน้ม</c.bg_transparent></c.thai>  179 
+
+179
+00:16:46,547 --> 00:16:50,092
+<c.thai><c.bg_transparent>&lrm;ไม่ใช่เรื่องใหญ่ซะหน่อย</c.bg_transparent> <c.bg_transparent>&lrm;ฉันชอบหน่มน้ม เธอก็ชอบ!</c.bg_transparent></c.thai>  180 
+
+180
+00:16:50,801 --> 00:16:53,220
+<c.thai><c.bg_transparent>&lrm;วิคกี้ชอบหน่มน้ม ชัวร์ป้าบ</c.bg_transparent></c.thai>  181 
+
+181
+00:16:55,180 --> 00:16:56,348
+<c.thai><c.bg_transparent>&lrm;ชอบหน่มน้ม</c.bg_transparent></c.thai>  182 
+
+182
+00:17:05,566 --> 00:17:09,903
+<c.thai><c.bg_transparent>&lrm;(โรงเรียนมัธยมปลายฮอว์กินส์)</c.bg_transparent></c.thai>  183 
+
+183
+00:17:10,571 --> 00:17:13,323
+<c.thai><c.bg_transparent>&lrm;- ไปที่โรงยิมเร็วทุกคน</c.bg_transparent> <c.bg_transparent>&lrm;- เฮ้ย รอด้วย!</c.bg_transparent></c.thai>  184 
+
+184
+00:17:13,824 --> 00:17:15,826
+<c.thai><c.bg_transparent>&lrm;งานปลุกใจ!</c.bg_transparent></c.thai>  185 
+
+185
+00:17:16,827 --> 00:17:18,579
+<c.thai><c.bg_transparent>&lrm;ไคล์ ดีใจที่ได้เจอหน้า</c.bg_transparent></c.thai>  186 
+
+186
+00:17:19,163 --> 00:17:21,999
+<c.thai><c.bg_transparent>&lrm;ไงจอช ไปที่โรงยิมเลยทุกคน</c.bg_transparent></c.thai>  187 
+
+187
+00:17:22,541 --> 00:17:25,794
+<c.thai><c.bg_transparent>&lrm;ไปให้กำลังใจทีมไทเกอร์ ไทเกอร์สู้ๆ!</c.bg_transparent></c.thai>  188 
+
+188
+00:17:25,878 --> 00:17:27,588
+<c.thai><c.bg_transparent>&lrm;ไปที่โรงยิม ไงจ๊ะแอมเบอร์</c.bg_transparent></c.thai>  189 
+
+189
+00:17:27,671 --> 00:17:29,757
+<c.thai><c.bg_transparent>&lrm;แม็กซ์!</c.bg_transparent></c.thai>  190 
+
+190
+00:17:32,342 --> 00:17:33,552
+<c.thai><c.bg_transparent>&lrm;เมื่อวานทำไมไม่มาล่ะ</c.bg_transparent></c.thai>  191 
+
+191
+00:17:33,635 --> 00:17:36,638
+<c.thai><c.bg_transparent>&lrm;อ๋อ ค่ะ โทษที ลืมไปว่าเป็นวันพฤหัสฯ</c.bg_transparent></c.thai>  192 
+
+192
+00:17:36,722 --> 00:17:39,975
+<c.thai><c.bg_transparent>&lrm;งั้นวันนี้ครูอยากคุยกับเธอ</c.bg_transparent> <c.bg_transparent>&lrm;พักเที่ยงเสร็จแล้วมาหาครูเลยนะ</c.bg_transparent></c.thai>  193 
+
+193
+00:17:50,027 --> 00:17:52,780
+<c.thai><c.bg_transparent>&lrm;(ฮอว์กินส์ไทเกอร์</c.bg_transparent> <c.bg_transparent>&lrm;ไม่แพ้ใคร)</c.bg_transparent></c.thai>  194 
+
+194
+00:18:24,937 --> 00:18:28,023
+<c.thai><c.bg_transparent>&lrm;ฟังนะ ฉันไม่ได้จะพูดว่า</c.bg_transparent> <c.bg_transparent>&lrm;แฟนฉันเจ๋งกว่าแฟนนาย</c.bg_transparent></c.thai>  195 
+
+195
+00:18:28,107 --> 00:18:30,317
+<c.thai><c.bg_transparent>&lrm;แค่จะบอกว่าซูซี่อัจฉริยะสุดๆ</c.bg_transparent></c.thai>  196 
+
+196
+00:18:30,400 --> 00:18:32,778
+<c.thai><c.bg_transparent>&lrm;รู้ใช่ไหมว่าแอลกอบกู้โลกตั้งสองรอบ</c.bg_transparent></c.thai>  197 
+
+197
+00:18:33,362 --> 00:18:36,073
+<c.thai><c.bg_transparent>&lrm;แต่นายก็ยังได้เกรดซีวิชาภาษาสเปนอยู่ดี</c.bg_transparent></c.thai>  198 
+
+198
+00:18:47,459 --> 00:18:50,045
+<c.thai><c.bg_transparent>&lrm;ขอเสียงเชียร์ทีมไทเกอร์หน่อย!</c.bg_transparent></c.thai>  199 
+
+199
+00:19:03,517 --> 00:19:05,727
+<c.thai><c.bg_transparent>&lrm;อรุณสวัสดิ์ ม.ปลายฮอว์กินส์</c.bg_transparent></c.thai>  200 
+
+200
+00:19:08,021 --> 00:19:09,898
+<c.thai><c.bg_transparent>&lrm;ก่อนอื่นเลย… นี่</c.bg_transparent></c.thai>  201 
+
+201
+00:19:09,982 --> 00:19:12,693
+<c.thai><c.bg_transparent>&lrm;ก่อนอื่นฉันอยากขอบใจทุกๆ คน</c.bg_transparent></c.thai>  202 
+
+202
+00:19:12,776 --> 00:19:15,070
+<c.thai><c.bg_transparent>&lrm;ถ้าไม่ได้กำลังใจจากทุกคน</c.bg_transparent> <c.bg_transparent>&lrm;เราคงไม่ได้มายืนจุดนี้</c.bg_transparent></c.thai>  203 
+
+203
+00:19:15,154 --> 00:19:16,780
+<c.thai><c.bg_transparent>&lrm;ปรบมือให้ตัวเองดังๆ</c.bg_transparent></c.thai>  204 
+
+204
+00:19:24,955 --> 00:19:28,750
+<c.thai><c.bg_transparent>&lrm;และแน่นอนว่าต้องขอแสดงความขอบคุณเป็นพิเศษ</c.bg_transparent></c.thai>  205 
+
+205
+00:19:28,834 --> 00:19:31,712
+<c.thai><c.bg_transparent>&lrm;ให้กับแฟนคลับที่ยอดเยี่ยมและสวยที่สุดที่เคยมีมา</c.bg_transparent></c.thai>  206 
+
+206
+00:19:31,795 --> 00:19:33,505
+<c.thai><c.bg_transparent>&lrm;ไทเกอร์เชียร์สควอด!</c.bg_transparent></c.thai>  207 
+
+207
+00:19:34,965 --> 00:19:36,133
+<c.thai><c.bg_transparent>&lrm;ใช่!</c.bg_transparent></c.thai>  208 
+
+208
+00:19:36,216 --> 00:19:37,384
+<c.thai><c.bg_transparent>&lrm;คริสซี่…</c.bg_transparent></c.thai>  209 
+
+209
+00:19:40,554 --> 00:19:41,763
+<c.thai><c.bg_transparent>&lrm;คริสซี่ ฉันรักเธอนะ</c.bg_transparent></c.thai>  210 
+
+210
+00:19:47,769 --> 00:19:48,979
+<c.thai><c.bg_transparent>&lrm;คือว่า…</c.bg_transparent></c.thai>  211 
+
+211
+00:19:51,773 --> 00:19:54,943
+<c.thai><c.bg_transparent>&lrm;ฉันว่าคำพูดนี้คงแทนใจทุกคน</c.bg_transparent></c.thai>  212 
+
+212
+00:19:55,444 --> 00:19:57,404
+<c.thai><c.bg_transparent>&lrm;ปีนี้เมืองฮอว์กินส์เจอมาหนักมาก</c.bg_transparent></c.thai>  213 
+
+213
+00:19:58,822 --> 00:19:59,990
+<c.thai><c.bg_transparent>&lrm;เกิดความสูญเสียมากมาย</c.bg_transparent></c.thai>  214 
+
+214
+00:20:02,534 --> 00:20:06,496
+<c.thai><c.bg_transparent>&lrm;และบางครั้งฉันก็สงสัยว่า</c.bg_transparent> <c.bg_transparent>&lrm;ชุมชนเดียวจะทนต่อการสูญเสียได้มากแค่ไหน</c.bg_transparent></c.thai>  215 
+
+215
+00:20:09,374 --> 00:20:12,628
+<c.thai><c.bg_transparent>&lrm;ในวันที่มืดมนแบบนี้ เราต้องการสิ่งยึดเหนี่ยวใจ</c.bg_transparent></c.thai>  216 
+
+216
+00:20:14,254 --> 00:20:15,214
+<c.thai><c.bg_transparent>&lrm;เมื่อคืน</c.bg_transparent></c.thai>  217 
+
+217
+00:20:16,298 --> 00:20:19,384
+<c.thai><c.bg_transparent>&lrm;ช่วงพักครึ่งที่เราตามคริสเตียนอคาเดมี่อยู่สิบแต้ม</c.bg_transparent></c.thai>  218 
+
+218
+00:20:19,468 --> 00:20:21,011
+<c.thai><c.bg_transparent>&lrm;ฉันมองทีมของฉัน</c.bg_transparent></c.thai>  219 
+
+219
+00:20:21,970 --> 00:20:22,930
+<c.thai><c.bg_transparent>&lrm;แล้วพูดว่า</c.bg_transparent></c.thai>  220 
+
+220
+00:20:24,389 --> 00:20:25,349
+<c.thai><c.bg_transparent>&lrm;"คิดถึงแจ็ค"</c.bg_transparent></c.thai>  221 
+
+221
+00:20:26,725 --> 00:20:27,851
+<c.thai><c.bg_transparent>&lrm;"คิดถึงเมลิสซ่า"</c.bg_transparent></c.thai>  222 
+
+222
+00:20:28,518 --> 00:20:29,686
+<c.thai><c.bg_transparent>&lrm;"คิดถึงเฮเธอร์"</c.bg_transparent></c.thai>  223 
+
+223
+00:20:30,771 --> 00:20:32,064
+<c.thai><c.bg_transparent>&lrm;"คิดถึงบิลลี่"</c.bg_transparent></c.thai>  224 
+
+224
+00:20:34,399 --> 00:20:37,069
+<c.thai><c.bg_transparent>&lrm;"คิดถึงหัวหน้าตำรวจ</c.bg_transparent> <c.bg_transparent>&lrm;ผู้กล้าหาญของเรา จิม ฮ็อปเปอร์"</c.bg_transparent></c.thai>  225 
+
+225
+00:20:38,195 --> 00:20:41,615
+<c.thai><c.bg_transparent>&lrm;"คิดถึงผองเพื่อนทุกคน</c.bg_transparent> <c.bg_transparent>&lrm;ที่เสียชีวิตในเหตุไฟไหม้ครั้งนั้น"</c.bg_transparent></c.thai>  226 
+
+226
+00:20:41,698 --> 00:20:43,116
+<c.thai><c.bg_transparent>&lrm;"พวกเขาตายเพื่ออะไร"</c.bg_transparent></c.thai>  227 
+
+227
+00:20:43,200 --> 00:20:45,452
+<c.thai><c.bg_transparent>&lrm;"เพื่อให้เราแพ้ให้กับไอ้โรงเรียนกากนี่เหรอ"</c.bg_transparent></c.thai>  228 
+
+228
+00:20:45,535 --> 00:20:46,495
+<c.thai><c.bg_transparent>&lrm;- "ไม่"</c.bg_transparent> <c.bg_transparent>&lrm;- ไม่!</c.bg_transparent></c.thai>  229 
+
+229
+00:20:46,578 --> 00:20:49,456
+<c.thai><c.bg_transparent>&lrm;"เพื่อให้เราคอตกกลับบ้านเพราะพ่ายแพ้เหรอ"</c.bg_transparent></c.thai>  230 
+
+230
+00:20:49,539 --> 00:20:51,375
+<c.thai><c.bg_transparent>&lrm;- "ไม่!"</c.bg_transparent> <c.bg_transparent>&lrm;- ไม่!</c.bg_transparent></c.thai>  231 
+
+231
+00:20:51,458 --> 00:20:52,751
+<c.thai><c.bg_transparent>&lrm;"ไม่"</c.bg_transparent></c.thai>  232 
+
+232
+00:20:52,834 --> 00:20:54,211
+<c.thai><c.bg_transparent>&lrm;"มาชนะเกมนี้กันเถอะ"</c.bg_transparent></c.thai>  233 
+
+233
+00:20:54,920 --> 00:20:58,173
+<c.thai><c.bg_transparent>&lrm;"ชนะเกมนี้เพื่อพวกเขา"</c.bg_transparent> <c.bg_transparent>&lrm;และนั่นคือสิ่งที่เราทำ!</c.bg_transparent></c.thai>  234 
+
+234
+00:21:03,053 --> 00:21:06,556
+<c.thai><c.bg_transparent>&lrm;เราหักหน้าไอ้ทีมขี้ขลาดในถิ่นของพวกมันเลย</c.bg_transparent></c.thai>  235 
+
+235
+00:21:06,640 --> 00:21:08,809
+<c.thai><c.bg_transparent>&lrm;และในคืนนี้</c.bg_transparent></c.thai>  236 
+
+236
+00:21:08,892 --> 00:21:11,937
+<c.thai><c.bg_transparent>&lrm;เราจะเอาถ้วยรางวัลแชมเปี้ยนกลับมาฝาก!</c.bg_transparent></c.thai>  237 
+
+237
+00:21:13,021 --> 00:21:13,981
+<c.thai><c.bg_transparent>&lrm;ลุยโว้ย!</c.bg_transparent></c.thai>  238 
+
+238
+00:21:17,526 --> 00:21:18,527
+<c.thai><c.bg_transparent>&lrm;คืนนี้เหรอ</c.bg_transparent></c.thai>  239 
+
+239
+00:21:19,069 --> 00:21:21,613
+<c.thai><c.bg_transparent>&lrm;- เป็นไปได้ไง</c.bg_transparent> <c.bg_transparent>&lrm;- มันเรียกว่าทัวร์นาเมนต์</c.bg_transparent></c.thai>  240 
+
+240
+00:21:21,697 --> 00:21:24,658
+<c.thai><c.bg_transparent>&lrm;ถ้าแข่งชนะก็ผ่านเข้ารอบ</c.bg_transparent> <c.bg_transparent>&lrm;แข่งไปเรื่อยๆ จนเหลือแค่ทีมเดียว</c.bg_transparent></c.thai>  241 
+
+241
+00:21:37,379 --> 00:21:39,381
+<c.thai><c.bg_transparent>&lrm;เรื่องแค่นี้เอง ไปคุยกับเอ็ดดี้สิ</c.bg_transparent></c.thai>  242 
+
+242
+00:21:39,464 --> 00:21:41,383
+<c.thai><c.bg_transparent>&lrm;ให้เขาย้ายเฮลไฟร์ไปคืนอื่น</c.bg_transparent></c.thai>  243 
+
+243
+00:21:41,466 --> 00:21:42,551
+<c.thai><c.bg_transparent>&lrm;พูดมาได้</c.bg_transparent></c.thai>  244 
+
+244
+00:21:42,634 --> 00:21:45,512
+<c.thai><c.bg_transparent>&lrm;งั้นนายไปคุยกับโค้ชให้เขาเปลี่ยนคืนแข่งสิ</c.bg_transparent></c.thai>  245 
+
+245
+00:21:45,595 --> 00:21:48,140
+<c.thai><c.bg_transparent>&lrm;- ความคิดแจ่ม ไมค์</c.bg_transparent> <c.bg_transparent>&lrm;- ขอบใจ ดัสติน</c.bg_transparent></c.thai>  246 
+
+246
+00:21:48,223 --> 00:21:52,144
+<c.thai><c.bg_transparent>&lrm;- นี่รอบชิงแชมป์เชียวนะ</c.bg_transparent> <c.bg_transparent>&lrm;- และนี่คือฉากจบของแคมเปญเอ็ดดี้</c.bg_transparent></c.thai>  247 
+
+247
+00:21:52,227 --> 00:21:55,314
+<c.thai><c.bg_transparent>&lrm;เราผจญภัยกันมาทั้งเทอม</c.bg_transparent> <c.bg_transparent>&lrm;เพื่อมาถึงจุดนี้ และเราต้องการนาย</c.bg_transparent></c.thai>  248 
+
+248
+00:21:55,397 --> 00:21:57,983
+<c.thai><c.bg_transparent>&lrm;แต่ทีมไทเกอร์ไม่ต้องการนาย</c.bg_transparent> <c.bg_transparent>&lrm;เป็นตัวสำรองมาทั้งปี</c.bg_transparent></c.thai>  249 
+
+249
+00:21:58,567 --> 00:21:59,818
+<c.thai><c.bg_transparent>&lrm;นั่นไม่ใช่ประเด็น</c.bg_transparent></c.thai>  250 
+
+250
+00:21:59,901 --> 00:22:02,195
+<c.thai><c.bg_transparent>&lrm;กรุณาเข้าประเด็นซะที</c.bg_transparent></c.thai>  251 
+
+251
+00:22:02,279 --> 00:22:04,114
+<c.thai><c.bg_transparent>&lrm;ถ้าพวกนี้ยอมรับฉัน</c.bg_transparent></c.thai>  252 
+
+252
+00:22:04,197 --> 00:22:06,908
+<c.thai><c.bg_transparent>&lrm;ฉันจะได้เข้ากลุ่มเด็กป๊อป และพวกนายก็ด้วย</c.bg_transparent></c.thai>  253 
+
+253
+00:22:06,992 --> 00:22:10,662
+<c.thai><c.bg_transparent>&lrm;เคยคิดบ้างไหมว่าเราไม่อยากเป็นเด็กป๊อป</c.bg_transparent></c.thai>  254 
+
+254
+00:22:10,746 --> 00:22:13,707
+<c.thai><c.bg_transparent>&lrm;นี่อยากติดอยู่กับพวกเนิร์ด</c.bg_transparent> <c.bg_transparent>&lrm;และตัวประหลาดไปอีกสามปีเหรอ</c.bg_transparent></c.thai>  255 
+
+255
+00:22:13,790 --> 00:22:15,125
+<c.thai><c.bg_transparent>&lrm;ก็เราเนิร์ดและประหลาดจริงๆ</c.bg_transparent></c.thai>  256 
+
+256
+00:22:15,208 --> 00:22:16,835
+<c.thai><c.bg_transparent>&lrm;แต่อาจไม่ต้องเป็นก็ได้นี่</c.bg_transparent></c.thai>  257 
+
+257
+00:22:18,253 --> 00:22:21,798
+<c.thai><c.bg_transparent>&lrm;ฟังนะ ฉันเบื่อการโดนบูลลี่เต็มทีแล้ว</c.bg_transparent></c.thai>  258 
+
+258
+00:22:21,882 --> 00:22:24,134
+<c.thai><c.bg_transparent>&lrm;ฉันเบื่อที่พวกสาวๆ หัวเราะเยาะเรา</c.bg_transparent></c.thai>  259 
+
+259
+00:22:24,217 --> 00:22:26,094
+<c.thai><c.bg_transparent>&lrm;เบื่อที่ต้องรู้สึกเหมือนคนขี้แพ้</c.bg_transparent></c.thai>  260 
+
+260
+00:22:26,845 --> 00:22:29,806
+<c.thai><c.bg_transparent>&lrm;เราอยากให้ช่วงม.ปลาย</c.bg_transparent> <c.bg_transparent>&lrm;ทุกอย่างต่างจากเดิมไม่ใช่เหรอ</c.bg_transparent></c.thai>  261 
+
+261
+00:22:31,183 --> 00:22:33,143
+<c.thai><c.bg_transparent>&lrm;ตอนนี้มีโอกาสทำได้แล้ว</c.bg_transparent></c.thai>  262 
+
+262
+00:22:33,226 --> 00:22:35,729
+<c.thai><c.bg_transparent>&lrm;ถ้าคืนนี้ฉันไม่ไปแข่งก็หมดหวัง</c.bg_transparent></c.thai>  263 
+
+263
+00:22:35,812 --> 00:22:37,314
+<c.thai><c.bg_transparent>&lrm;เพราะงั้นฉันขอละ</c.bg_transparent></c.thai>  264 
+
+264
+00:22:37,898 --> 00:22:38,732
+<c.thai><c.bg_transparent>&lrm;ในฐานะเพื่อน</c.bg_transparent></c.thai>  265 
+
+265
+00:22:38,815 --> 00:22:39,816
+<c.thai><c.bg_transparent>&lrm;ไปคุยกับเอ็ดดี้</c.bg_transparent></c.thai>  266 
+
+266
+00:22:39,900 --> 00:22:41,276
+<c.thai><c.bg_transparent>&lrm;ขอให้เขาย้ายเฮลไฟร์</c.bg_transparent></c.thai>  267 
+
+267
+00:22:41,360 --> 00:22:42,819
+<c.thai><c.bg_transparent>&lrm;มาดูฉันแข่ง</c.bg_transparent></c.thai>  268 
+
+268
+00:22:44,363 --> 00:22:45,489
+<c.thai><c.bg_transparent>&lrm;ขอร้อง</c.bg_transparent></c.thai>  269 
+
+269
+00:22:54,331 --> 00:22:55,332
+<c.thai><c.bg_transparent>&lrm;โธ่เว้ย</c.bg_transparent></c.thai>  270 
+
+270
+00:23:05,592 --> 00:23:08,804
+<c.thai><c.bg_transparent>&lrm;(ไปรษณีย์สหรัฐฯ)</c.bg_transparent></c.thai>  271 
+
+271
+00:23:10,514 --> 00:23:12,432
+<c.thai><c.bg_transparent>&lrm;คุณนายเออร์เกนไบรต์ ฉันขอถามค่ะ</c.bg_transparent></c.thai>  272 
+
+272
+00:23:13,141 --> 00:23:16,311
+<c.thai><c.bg_transparent>&lrm;คุณเคยคิดอยากมีคำตอบสำหรับทุกคำถาม</c.bg_transparent></c.thai>  273 
+
+273
+00:23:16,395 --> 00:23:17,604
+<c.thai><c.bg_transparent>&lrm;อยู่ที่ปลายนิ้วไหมคะ</c.bg_transparent></c.thai>  274 
+
+274
+00:23:17,687 --> 00:23:18,814
+<c.thai><c.bg_transparent>&lrm;คุณพระ</c.bg_transparent></c.thai>  275 
+
+275
+00:23:18,897 --> 00:23:23,235
+<c.thai><c.bg_transparent>&lrm;ใช่ค่ะ มันเหมือนพวกหนังสือหรูๆ ที่เห็นทางทีวี</c.bg_transparent></c.thai>  276 
+
+276
+00:23:23,318 --> 00:23:24,903
+<c.thai><c.bg_transparent>&lrm;ค่ะ มันสวยมาก</c.bg_transparent></c.thai>  277 
+
+277
+00:23:24,986 --> 00:23:28,865
+<c.thai><c.bg_transparent>&lrm;ค่ะ ลองนึกดูสิคะ</c.bg_transparent> <c.bg_transparent>&lrm;คุณจะไม่ต้องไปห้องสมุดอีกเลย</c.bg_transparent></c.thai>  278 
+
+278
+00:23:28,949 --> 00:23:33,120
+<c.thai><c.bg_transparent>&lrm;คิดดูสิคะ แค่ค่าน้ำมันอย่างเดียว</c.bg_transparent> <c.bg_transparent>&lrm;ก็ประหยัดไปได้เยอะแล้ว</c.bg_transparent></c.thai>  279 
+
+279
+00:23:33,203 --> 00:23:34,579
+<c.thai><c.bg_transparent>&lrm;- ก็มีประเด็นค่ะ</c.bg_transparent> <c.bg_transparent>&lrm;- มีมาบ้างไหม</c.bg_transparent></c.thai>  280 
+
+280
+00:23:34,663 --> 00:23:35,747
+<c.thai><c.bg_transparent>&lrm;ไม่มีเลยครับ</c.bg_transparent></c.thai>  281 
+
+281
+00:23:35,831 --> 00:23:38,708
+<c.thai><c.bg_transparent>&lrm;จดหมายตอบรับมักจะส่งมา</c.bg_transparent> <c.bg_transparent>&lrm;ช่วงปลายสัปดาห์เพื่อให้เราลุ้น</c.bg_transparent></c.thai>  282 
+
+282
+00:23:38,792 --> 00:23:40,502
+<c.thai><c.bg_transparent>&lrm;- ลุ้นเหงื่อแตกแล้ว</c.bg_transparent> <c.bg_transparent>&lrm;- ฮัลโหล…</c.bg_transparent></c.thai>  283 
+
+283
+00:23:40,585 --> 00:23:42,337
+<c.thai><c.bg_transparent>&lrm;เดี๋ยวก็ส่งมาครับ ไม่ต้องกังวล</c.bg_transparent></c.thai>  284 
+
+284
+00:23:42,421 --> 00:23:44,464
+<c.thai><c.bg_transparent>&lrm;ฉันกังวลเสมอค่ะ ขอบคุณ</c.bg_transparent></c.thai>  285 
+
+285
+00:23:44,548 --> 00:23:46,800
+<c.thai><c.bg_transparent>&lrm;ตายแล้ว สายหลุดเหรอคะ ฮัลโหล</c.bg_transparent></c.thai>  286 
+
+286
+00:23:46,883 --> 00:23:49,886
+<c.thai><c.bg_transparent>&lrm;ไม่หลุด ขออภัยค่ะ แครอล</c.bg_transparent> <c.bg_transparent>&lrm;ขอเรียกแครอลได้ไหม</c.bg_transparent></c.thai>  287 
+
+287
+00:23:49,970 --> 00:23:52,889
+<c.thai><c.bg_transparent>&lrm;- ได้สิคะ</c.bg_transparent> <c.bg_transparent>&lrm;- ดีเลย แล้วเอายังไงดีคะ</c.bg_transparent></c.thai>  288 
+
+288
+00:23:52,973 --> 00:23:58,228
+<c.thai><c.bg_transparent>&lrm;อยากได้เล่มเอถึงซี</c.bg_transparent> <c.bg_transparent>&lrm;หรือว่าซื้อยกชุดครบทุกตัวอักษรคะ</c.bg_transparent></c.thai>  289 
+
+289
+00:23:58,311 --> 00:24:01,398
+<c.thai><c.bg_transparent>&lrm;ไหนบอกอีกทีสิคะว่ามันราคา…</c.bg_transparent></c.thai>  290 
+
+290
+00:24:02,774 --> 00:24:03,900
+<c.thai><c.bg_transparent>&lrm;ฉันจำไม่ได้…</c.bg_transparent></c.thai>  291 
+
+291
+00:24:03,984 --> 00:24:06,486
+<c.thai><c.bg_transparent>&lrm;แครอล ขอโทรกลับทีหลังได้ไหม</c.bg_transparent></c.thai>  292 
+
+292
+00:24:06,570 --> 00:24:08,029
+<c.thai><c.bg_transparent>&lrm;อ้าว ได้สิ</c.bg_transparent></c.thai>  293 
+
+293
+00:24:50,864 --> 00:24:52,240
+<c.thai><c.bg_transparent>&lrm;หลังได้หัดพูดแล้ว</c.bg_transparent></c.thai>  294 
+
+294
+00:24:52,324 --> 00:24:54,701
+<c.thai><c.bg_transparent>&lrm;เธอออกท่องโลกเพื่อเผยแพร่สารของเธอ</c.bg_transparent></c.thai>  295 
+
+295
+00:24:54,784 --> 00:24:56,036
+<c.thai><c.bg_transparent>&lrm;และในเส้นทางนั้น</c.bg_transparent></c.thai>  296 
+
+296
+00:24:56,119 --> 00:25:00,207
+<c.thai><c.bg_transparent>&lrm;เธอก็ได้เปลี่ยนมุมมอง</c.bg_transparent> <c.bg_transparent>&lrm;ที่โลกมีต่อคนพิการอย่างเธอ</c.bg_transparent></c.thai>  297 
+
+297
+00:25:01,625 --> 00:25:04,377
+<c.thai><c.bg_transparent>&lrm;และนั่นคือเหตุผลที่ฉันเลือก</c.bg_transparent></c.thai>  298 
+
+298
+00:25:04,461 --> 00:25:06,880
+<c.thai><c.bg_transparent>&lrm;เฮเลน เคลเลอร์เป็นฮีโร่ในดวงใจ</c.bg_transparent></c.thai>  299 
+
+299
+00:25:07,547 --> 00:25:08,381
+<c.thai><c.bg_transparent>&lrm;(จบ)</c.bg_transparent></c.thai>  300 
+
+300
+00:25:10,842 --> 00:25:13,094
+<c.thai><c.bg_transparent>&lrm;เยี่ยมไปเลยจ้ะแองเจล่า</c.bg_transparent></c.thai>  301 
+
+301
+00:25:14,054 --> 00:25:15,138
+<c.thai><c.bg_transparent>&lrm;ยอดเยี่ยมจริงๆ</c.bg_transparent></c.thai>  302 
+
+302
+00:25:15,222 --> 00:25:16,973
+<c.thai><c.bg_transparent>&lrm;ช่างเป็นเรื่องราวที่จับใจ</c.bg_transparent></c.thai>  303 
+
+303
+00:25:17,807 --> 00:25:20,435
+<c.thai><c.bg_transparent>&lrm;เอาละ ไหนดูซิว่า</c.bg_transparent> <c.bg_transparent>&lrm;ใครต้องขึ้นมานำเสนอต่อจากเธอ</c.bg_transparent></c.thai>  304 
+
+304
+00:25:25,023 --> 00:25:25,857
+<c.thai><c.bg_transparent>&lrm;เจน</c.bg_transparent></c.thai>  305 
+
+305
+00:25:41,915 --> 00:25:42,958
+<c.thai><c.bg_transparent>&lrm;หวัดดี</c.bg_transparent></c.thai>  306 
+
+306
+00:25:45,460 --> 00:25:47,170
+<c.thai><c.bg_transparent>&lrm;สำหรับฮีโร่ในดวงใจฉัน</c.bg_transparent></c.thai>  307 
+
+307
+00:25:48,338 --> 00:25:49,214
+<c.thai><c.bg_transparent>&lrm;ฉัน…</c.bg_transparent></c.thai>  308 
+
+308
+00:25:51,007 --> 00:25:52,217
+<c.thai><c.bg_transparent>&lrm;ฉันเลือกพ่อ</c.bg_transparent></c.thai>  309 
+
+309
+00:25:54,386 --> 00:25:55,804
+<c.thai><c.bg_transparent>&lrm;และสำหรับทัศนูปกรณ์ของฉัน</c.bg_transparent></c.thai>  310 
+
+310
+00:25:56,596 --> 00:26:00,225
+<c.thai><c.bg_transparent>&lrm;ฉันได้ทำฉากจำแลงบ้านของเรา</c.bg_transparent></c.thai>  311 
+
+311
+00:26:00,308 --> 00:26:01,601
+<c.thai><c.bg_transparent>&lrm;ฉากชำแหละมากกว่ามั้ง</c.bg_transparent></c.thai>  312 
+
+312
+00:26:04,062 --> 00:26:05,063
+<c.thai><c.bg_transparent>&lrm;ทุกคนเงียบๆ</c.bg_transparent></c.thai>  313 
+
+313
+00:26:05,146 --> 00:26:06,481
+<c.thai><c.bg_transparent>&lrm;ให้เกียรติเพื่อนหน่อย</c.bg_transparent></c.thai>  314 
+
+314
+00:26:10,694 --> 00:26:12,070
+<c.thai><c.bg_transparent>&lrm;นี่คือพ่อของฉัน</c.bg_transparent></c.thai>  315 
+
+315
+00:26:13,029 --> 00:26:14,656
+<c.thai><c.bg_transparent>&lrm;เขาชื่อฮ็อปเปอร์</c.bg_transparent></c.thai>  316 
+
+316
+00:26:15,448 --> 00:26:17,450
+<c.thai><c.bg_transparent>&lrm;เอ็กโกที่เขาทำอร่อยที่สุด</c.bg_transparent></c.thai>  317 
+
+317
+00:26:17,534 --> 00:26:21,788
+<c.thai><c.bg_transparent>&lrm;และทุกวันศุกร์เราชอบดูคู่เดือดไมอามี่</c.bg_transparent></c.thai>  318 
+
+318
+00:26:23,373 --> 00:26:25,208
+<c.thai><c.bg_transparent>&lrm;อันนี้มิสเตอร์ฟิบบลี่</c.bg_transparent></c.thai>  319 
+
+319
+00:26:27,752 --> 00:26:29,004
+<c.thai><c.bg_transparent>&lrm;มันเป็นกระรอก</c.bg_transparent></c.thai>  320 
+
+320
+00:26:30,672 --> 00:26:31,881
+<c.thai><c.bg_transparent>&lrm;อะไรวะ</c.bg_transparent></c.thai>  321 
+
+321
+00:26:36,886 --> 00:26:40,390
+<c.thai><c.bg_transparent>&lrm;และนี่คือสัญญาณเตือนภัยที่พ่อเป็นคนทำ</c.bg_transparent></c.thai>  322 
+
+322
+00:26:42,100 --> 00:26:44,185
+<c.thai><c.bg_transparent>&lrm;ฉันไม่เคยกลัวอะไรเพราะว่า…</c.bg_transparent></c.thai>  323 
+
+323
+00:26:45,729 --> 00:26:46,980
+<c.thai><c.bg_transparent>&lrm;เพราะว่า…</c.bg_transparent></c.thai>  324 
+
+324
+00:26:47,564 --> 00:26:51,234
+<c.thai><c.bg_transparent>&lrm;แองเจล่า ไว้ค่อยถามคำถาม</c.bg_transparent> <c.bg_transparent>&lrm;ตอนเจนนำเสนอเสร็จแล้วดีกว่า</c.bg_transparent></c.thai>  325 
+
+325
+00:26:51,318 --> 00:26:52,944
+<c.thai><c.bg_transparent>&lrm;ค่ะ ขอโทษที</c.bg_transparent></c.thai>  326 
+
+326
+00:26:53,028 --> 00:26:54,821
+<c.thai><c.bg_transparent>&lrm;หนูก็แค่งงๆ</c.bg_transparent></c.thai>  327 
+
+327
+00:26:54,904 --> 00:26:59,075
+<c.thai><c.bg_transparent>&lrm;นึกว่าเราต้องนำเสนอ</c.bg_transparent> <c.bg_transparent>&lrm;เกี่ยวกับฮีโร่ในประวัติศาสตร์</c.bg_transparent></c.thai>  328 
+
+328
+00:26:59,159 --> 00:27:00,827
+<c.thai><c.bg_transparent>&lrm;พ่อฉันลงข่าวในหนังสือพิมพ์</c.bg_transparent></c.thai>  329 
+
+329
+00:27:00,910 --> 00:27:02,454
+<c.thai><c.bg_transparent>&lrm;หนังสือพิมพ์ท้องถิ่นน่ะเหรอ</c.bg_transparent></c.thai>  330 
+
+330
+00:27:06,499 --> 00:27:10,086
+<c.thai><c.bg_transparent>&lrm;คำว่า "ประวัติศาสตร์" ของครูเกรซี่</c.bg_transparent> <c.bg_transparent>&lrm;คงไม่ได้หมายความแบบนั้นน่ะสิ</c.bg_transparent></c.thai>  331 
+
+331
+00:27:10,629 --> 00:27:13,381
+<c.thai><c.bg_transparent>&lrm;นี่มันควรจะเกี่ยวกับคนดังนะ</c.bg_transparent></c.thai>  332 
+
+332
+00:27:14,591 --> 00:27:16,051
+<c.thai><c.bg_transparent>&lrm;พ่อฉันดังนะ</c.bg_transparent></c.thai>  333 
+
+333
+00:27:16,593 --> 00:27:18,261
+<c.thai><c.bg_transparent>&lrm;เขาช่วยชีวิตคนไว้มากมาย</c.bg_transparent></c.thai>  334 
+
+334
+00:27:19,429 --> 00:27:20,388
+<c.thai><c.bg_transparent>&lrm;ตอนไฟไหม้ห้าง</c.bg_transparent></c.thai>  335 
+
+335
+00:27:22,641 --> 00:27:25,685
+<c.thai><c.bg_transparent>&lrm;เขาเป็นฮีโร่ของผู้คน</c.bg_transparent></c.thai>  336 
+
+336
+00:27:26,895 --> 00:27:28,938
+<c.thai><c.bg_transparent>&lrm;และเขาก็เป็นฮีโร่ของฉันด้วย</c.bg_transparent></c.thai>  337 
+
+337
+00:27:33,693 --> 00:27:37,197
+<c.thai><c.bg_transparent>&lrm;ฉันไม่ได้จะสื่อแบบนั้นเลยนะ แต่ไม่เป็นไร</c.bg_transparent></c.thai>  338 
+
+338
+00:27:38,156 --> 00:27:40,241
+<c.thai><c.bg_transparent>&lrm;ขอโทษจริงๆ ค่ะ ครูเกรซี่</c.bg_transparent></c.thai>  339 
+
+339
+00:27:40,325 --> 00:27:41,785
+<c.thai><c.bg_transparent>&lrm;หนูไม่ได้ตั้งใจจะขัดจังหวะ</c.bg_transparent></c.thai>  340 
+
+340
+00:27:41,868 --> 00:27:45,163
+<c.thai><c.bg_transparent>&lrm;ก็แค่อยากมีความชัดเจนเรื่องการบ้านนี้</c.bg_transparent></c.thai>  341 
+
+341
+00:27:45,997 --> 00:27:48,667
+<c.thai><c.bg_transparent>&lrm;โดยหลักการเธอก็พูดถูกจ้ะ</c.bg_transparent></c.thai>  342 
+
+342
+00:27:48,750 --> 00:27:51,920
+<c.thai><c.bg_transparent>&lrm;แต่เจนเลือกจะนำเสนอเรื่องพ่อ</c.bg_transparent></c.thai>  343 
+
+343
+00:27:52,003 --> 00:27:52,879
+<c.thai><c.bg_transparent>&lrm;ดังนั้น</c.bg_transparent></c.thai>  344 
+
+344
+00:27:53,672 --> 00:27:55,757
+<c.thai><c.bg_transparent>&lrm;เชิญนำเสนอต่อเลยจ้ะเจน</c.bg_transparent></c.thai>  345 
+
+345
+00:28:02,347 --> 00:28:04,224
+<c.thai><c.bg_transparent>&lrm;แอล มันไม่ได้แย่ขนาดนั้นเลย</c.bg_transparent></c.thai>  346 
+
+346
+00:28:04,307 --> 00:28:05,475
+<c.thai><c.bg_transparent>&lrm;เพื่อนไม่โกหกกัน</c.bg_transparent></c.thai>  347 
+
+347
+00:28:05,558 --> 00:28:06,601
+<c.thai><c.bg_transparent>&lrm;ฉันไม่ได้โกหก</c.bg_transparent></c.thai>  348 
+
+348
+00:28:07,227 --> 00:28:08,061
+<c.thai><c.bg_transparent>&lrm;แอล</c.bg_transparent></c.thai>  349 
+
+349
+00:28:08,645 --> 00:28:09,646
+<c.thai><c.bg_transparent>&lrm;ไม่เอาน่า</c.bg_transparent></c.thai>  350 
+
+350
+00:29:12,917 --> 00:29:15,378
+<c.thai><c.bg_transparent>&lrm;(ครูที่ปรึกษา)</c.bg_transparent></c.thai>  351 
+
+351
+00:29:18,882 --> 00:29:22,093
+<c.thai><c.bg_transparent>&lrm;ช่วยถอดหูฟังได้ไหม</c.bg_transparent></c.thai>  352 
+
+352
+00:29:24,929 --> 00:29:25,764
+<c.thai><c.bg_transparent>&lrm;โทษค่ะ</c.bg_transparent></c.thai>  353 
+
+353
+00:29:26,306 --> 00:29:27,891
+<c.thai><c.bg_transparent>&lrm;(ที่นี่ต้อนรับทุกคน)</c.bg_transparent></c.thai>  354 
+
+354
+00:29:27,974 --> 00:29:32,437
+<c.thai><c.bg_transparent>&lrm;วิชาภาษาอังกฤษได้เกรดซี</c.bg_transparent> <c.bg_transparent>&lrm;ส่วนภาษาสเปนได้ซีลบ</c.bg_transparent></c.thai>  355 
+
+355
+00:29:35,356 --> 00:29:36,357
+<c.thai><c.bg_transparent>&lrm;ใช่</c.bg_transparent></c.thai>  356 
+
+356
+00:29:36,441 --> 00:29:38,067
+<c.thai><c.bg_transparent>&lrm;ไม่สมกับที่เป็นเธอเลยนะ</c.bg_transparent></c.thai>  357 
+
+357
+00:29:39,068 --> 00:29:39,903
+<c.thai><c.bg_transparent>&lrm;คงงั้นมั้ง</c.bg_transparent></c.thai>  358 
+
+358
+00:29:41,154 --> 00:29:42,572
+<c.thai><c.bg_transparent>&lrm;แม่เป็นยังไงบ้าง</c.bg_transparent></c.thai>  359 
+
+359
+00:29:43,490 --> 00:29:44,491
+<c.thai><c.bg_transparent>&lrm;แม่สบายดี</c.bg_transparent></c.thai>  360 
+
+360
+00:29:45,784 --> 00:29:48,536
+<c.thai><c.bg_transparent>&lrm;แม่เกลียดบ้านใหม่ของเรา ซึ่งก็…</c.bg_transparent></c.thai>  361 
+
+361
+00:29:49,454 --> 00:29:51,206
+<c.thai><c.bg_transparent>&lrm;ใช่ มันห่วยแตก แต่…</c.bg_transparent></c.thai>  362 
+
+362
+00:29:52,332 --> 00:29:53,374
+<c.thai><c.bg_transparent>&lrm;แม่สบายดี</c.bg_transparent></c.thai>  363 
+
+363
+00:29:54,250 --> 00:29:55,418
+<c.thai><c.bg_transparent>&lrm;แม่ยังดื่มหนักอยู่ไหม</c.bg_transparent></c.thai>  364 
+
+364
+00:29:56,836 --> 00:29:59,172
+<c.thai><c.bg_transparent>&lrm;ก็นิดนึง แต่ว่า…</c.bg_transparent></c.thai>  365 
+
+365
+00:30:00,715 --> 00:30:02,717
+<c.thai><c.bg_transparent>&lrm;แม่ต้องทำงานสองที่</c.bg_transparent></c.thai>  366 
+
+366
+00:30:03,301 --> 00:30:04,636
+<c.thai><c.bg_transparent>&lrm;ชีวิตเลยไม่ง่าย</c.bg_transparent></c.thai>  367 
+
+367
+00:30:04,719 --> 00:30:08,097
+<c.thai><c.bg_transparent>&lrm;ชีวิตคงไม่ง่ายสำหรับเธอเหมือนกันนี่</c.bg_transparent> <c.bg_transparent>&lrm;เพราะพ่อเลี้ยงไม่อยู่แล้ว</c.bg_transparent></c.thai>  368 
+
+368
+00:30:08,181 --> 00:30:10,725
+<c.thai><c.bg_transparent>&lrm;พูดตรงๆ ชีวิตดีขึ้น</c.bg_transparent></c.thai>  369 
+
+369
+00:30:10,809 --> 00:30:11,726
+<c.thai><c.bg_transparent>&lrm;ดีขึ้นยังไง</c.bg_transparent></c.thai>  370 
+
+370
+00:30:13,770 --> 00:30:14,938
+<c.thai><c.bg_transparent>&lrm;เขาเป็นคนจัญไร</c.bg_transparent></c.thai>  371 
+
+371
+00:30:15,522 --> 00:30:16,606
+<c.thai><c.bg_transparent>&lrm;ก็เลยเจอความ…</c.bg_transparent></c.thai>  372 
+
+372
+00:30:17,482 --> 00:30:18,566
+<c.thai><c.bg_transparent>&lrm;จัญไรน้อยลง</c.bg_transparent></c.thai>  373 
+
+373
+00:30:19,943 --> 00:30:21,444
+<c.thai><c.bg_transparent>&lrm;นอนหลับสนิทขึ้นไหม</c.bg_transparent></c.thai>  374 
+
+374
+00:30:22,695 --> 00:30:23,780
+<c.thai><c.bg_transparent>&lrm;อือ สนิท</c.bg_transparent></c.thai>  375 
+
+375
+00:30:24,656 --> 00:30:25,698
+<c.thai><c.bg_transparent>&lrm;ไม่ปวดหัวแล้วสินะ</c.bg_transparent></c.thai>  376 
+
+376
+00:30:28,117 --> 00:30:29,244
+<c.thai><c.bg_transparent>&lrm;ฝันร้ายล่ะ</c.bg_transparent></c.thai>  377 
+
+377
+00:30:31,913 --> 00:30:32,997
+<c.thai><c.bg_transparent>&lrm;บิลลี่!</c.bg_transparent></c.thai>  378 
+
+378
+00:30:38,169 --> 00:30:39,003
+<c.thai><c.bg_transparent>&lrm;ไม่มี</c.bg_transparent></c.thai>  379 
+
+379
+00:30:42,257 --> 00:30:43,424
+<c.thai><c.bg_transparent>&lrm;แม็กซ์</c.bg_transparent></c.thai>  380 
+
+380
+00:30:45,176 --> 00:30:48,805
+<c.thai><c.bg_transparent>&lrm;สิ่งที่เธอพบเจอ สิ่งที่เธอยังทำใจไม่ได้</c.bg_transparent></c.thai>  381 
+
+381
+00:30:49,389 --> 00:30:51,349
+<c.thai><c.bg_transparent>&lrm;มันหนักมาก ไม่ว่าจะสำหรับใคร</c.bg_transparent></c.thai>  382 
+
+382
+00:30:51,891 --> 00:30:54,102
+<c.thai><c.bg_transparent>&lrm;และถ้าไม่ไหวก็อย่าฝืนจ้ะ</c.bg_transparent></c.thai>  383 
+
+383
+00:30:54,644 --> 00:30:57,063
+<c.thai><c.bg_transparent>&lrm;แต่ครูช่วยเธอไม่ได้ถ้าเธอไม่พูดความจริง</c.bg_transparent></c.thai>  384 
+
+384
+00:30:57,897 --> 00:31:00,275
+<c.thai><c.bg_transparent>&lrm;เธอต้องจริงใจกับครู</c.bg_transparent></c.thai>  385 
+
+385
+00:31:00,358 --> 00:31:02,569
+<c.thai><c.bg_transparent>&lrm;ค่ะ หนูรู้</c.bg_transparent></c.thai>  386 
+
+386
+00:31:02,652 --> 00:31:04,112
+<c.thai><c.bg_transparent>&lrm;ก็จริงใจแล้วนี่ไง</c.bg_transparent></c.thai>  387 
+
+387
+00:31:07,574 --> 00:31:08,783
+<c.thai><c.bg_transparent>&lrm;หนูบอกหมดแล้ว</c.bg_transparent></c.thai>  388 
+
+388
+00:31:12,245 --> 00:31:13,371
+<c.thai><c.bg_transparent>&lrm;แม็กซ์ ไง</c.bg_transparent></c.thai>  389 
+
+389
+00:31:14,581 --> 00:31:16,207
+<c.thai><c.bg_transparent>&lrm;แอบตามฉันหรือยังไง</c.bg_transparent></c.thai>  390 
+
+390
+00:31:16,291 --> 00:31:18,126
+<c.thai><c.bg_transparent>&lrm;เปล่า แค่เอานี่มาให้</c.bg_transparent></c.thai>  391 
+
+391
+00:31:18,626 --> 00:31:20,461
+<c.thai><c.bg_transparent>&lrm;- คืออะไร</c.bg_transparent> <c.bg_transparent>&lrm;- ตั๋วไปดูแข่ง</c.bg_transparent></c.thai>  392 
+
+392
+00:31:20,962 --> 00:31:24,382
+<c.thai><c.bg_transparent>&lrm;ฉันรู้ว่าเธอไม่เคยอยากมาดูฉันแข่ง</c.bg_transparent> <c.bg_transparent>&lrm;แต่นัดนี้สำคัญจริงๆ</c.bg_transparent></c.thai>  393 
+
+393
+00:31:24,465 --> 00:31:26,926
+<c.thai><c.bg_transparent>&lrm;สำคัญเหรอ</c.bg_transparent> <c.bg_transparent>&lrm;ลูคัส แคร์เรื่องแบบนี้จริงๆ เหรอ</c.bg_transparent></c.thai>  394 
+
+394
+00:31:27,010 --> 00:31:30,680
+<c.thai><c.bg_transparent>&lrm;ใช่ไง เธอก็น่าจะหา</c.bg_transparent> <c.bg_transparent>&lrm;อะไรที่เธอแคร์เหมือนกันนะ</c.bg_transparent></c.thai>  395 
+
+395
+00:31:32,557 --> 00:31:34,017
+<c.thai><c.bg_transparent>&lrm;หมายความว่าไงวะ</c.bg_transparent></c.thai>  396 
+
+396
+00:31:35,602 --> 00:31:36,436
+<c.thai><c.bg_transparent>&lrm;ก็เธอ…</c.bg_transparent></c.thai>  397 
+
+397
+00:31:38,771 --> 00:31:41,399
+<c.thai><c.bg_transparent>&lrm;มันเหมือนเธอไม่อยู่ตรงนี้แล้ว</c.bg_transparent></c.thai>  398 
+
+398
+00:31:42,066 --> 00:31:44,360
+<c.thai><c.bg_transparent>&lrm;เหมือนเธอเป็นผีไปแล้ว</c.bg_transparent></c.thai>  399 
+
+399
+00:31:46,404 --> 00:31:47,447
+<c.thai><c.bg_transparent>&lrm;ผีเหรอ</c.bg_transparent></c.thai>  400 
+
+400
+00:31:48,990 --> 00:31:49,824
+<c.thai><c.bg_transparent>&lrm;ถามจริง</c.bg_transparent></c.thai>  401 
+
+401
+00:31:51,284 --> 00:31:52,160
+<c.thai><c.bg_transparent>&lrm;แม็กซ์</c.bg_transparent></c.thai>  402 
+
+402
+00:31:52,952 --> 00:31:55,538
+<c.thai><c.bg_transparent>&lrm;ฉันรู้ว่ามีบางอย่างผิดปกติ</c.bg_transparent></c.thai>  403 
+
+403
+00:31:56,331 --> 00:31:57,373
+<c.thai><c.bg_transparent>&lrm;ใช่สิ</c.bg_transparent></c.thai>  404 
+
+404
+00:31:57,957 --> 00:32:00,668
+<c.thai><c.bg_transparent>&lrm;ฉันต้องผิดปกติแน่เลยเนอะ</c.bg_transparent> <c.bg_transparent>&lrm;เพราะฉันเลิกกับนาย</c.bg_transparent></c.thai>  405 
+
+405
+00:32:00,752 --> 00:32:01,753
+<c.thai><c.bg_transparent>&lrm;ไม่ใช่</c.bg_transparent></c.thai>  406 
+
+406
+00:32:02,253 --> 00:32:04,172
+<c.thai><c.bg_transparent>&lrm;ฉันไม่ได้หมายความแบบนั้น</c.bg_transparent></c.thai>  407 
+
+407
+00:32:04,255 --> 00:32:05,298
+<c.thai><c.bg_transparent>&lrm;ลูคัส ฟังนะ</c.bg_transparent></c.thai>  408 
+
+408
+00:32:06,007 --> 00:32:08,468
+<c.thai><c.bg_transparent>&lrm;คนเราก็แค่เปลี่ยนได้ จบนะ</c.bg_transparent></c.thai>  409 
+
+409
+00:32:08,551 --> 00:32:10,011
+<c.thai><c.bg_transparent>&lrm;แค่นั้น</c.bg_transparent></c.thai>  410 
+
+410
+00:32:10,094 --> 00:32:11,137
+<c.thai><c.bg_transparent>&lrm;ฉันเปลี่ยนไปแล้ว</c.bg_transparent></c.thai>  411 
+
+411
+00:32:12,388 --> 00:32:13,348
+<c.thai><c.bg_transparent>&lrm;ง่ายแค่นั้นเลย</c.bg_transparent></c.thai>  412 
+
+412
+00:32:19,228 --> 00:32:20,146
+<c.thai><c.bg_transparent>&lrm;โชคดีนะ</c.bg_transparent></c.thai>  413 
+
+413
+00:32:48,132 --> 00:32:49,509
+<c.thai><c.bg_transparent>&lrm;(ไทลินอล)</c.bg_transparent></c.thai>  414 
+
+414
+00:33:09,529 --> 00:33:11,239
+<c.thai><c.bg_transparent>&lrm;นี่ เป็นอะไรหรือเปล่า</c.bg_transparent></c.thai>  415 
+
+415
+00:33:12,699 --> 00:33:13,658
+<c.thai><c.bg_transparent>&lrm;ไม่ ฉัน…</c.bg_transparent></c.thai>  416 
+
+416
+00:33:14,742 --> 00:33:15,660
+<c.thai><c.bg_transparent>&lrm;ฉันสบายดี</c.bg_transparent></c.thai>  417 
+
+417
+00:33:19,372 --> 00:33:20,331
+<c.thai><c.bg_transparent>&lrm;โอเค…</c.bg_transparent></c.thai>  418 
+
+418
+00:33:21,749 --> 00:33:22,792
+<c.thai><c.bg_transparent>&lrm;แน่ใจนะ</c.bg_transparent></c.thai>  419 
+
+419
+00:33:24,252 --> 00:33:25,920
+<c.thai><c.bg_transparent>&lrm;ขอร้อง ออกไปซะ</c.bg_transparent></c.thai>  420 
+
+420
+00:33:40,768 --> 00:33:42,687
+<c.thai><c.bg_transparent>&lrm;หูหนวกหรือไง ฉันบอกให้ออกไป</c.bg_transparent></c.thai>  421 
+
+421
+00:33:43,771 --> 00:33:44,731
+<c.thai><c.bg_transparent>&lrm;คริสซี่</c.bg_transparent></c.thai>  422 
+
+422
+00:33:48,401 --> 00:33:49,277
+<c.thai><c.bg_transparent>&lrm;คริสซี่</c.bg_transparent></c.thai>  423 
+
+423
+00:33:50,111 --> 00:33:51,320
+<c.thai><c.bg_transparent>&lrm;แม่เหรอคะ</c.bg_transparent></c.thai>  424 
+
+424
+00:33:51,404 --> 00:33:53,781
+<c.thai><c.bg_transparent>&lrm;พร้อมจะลองชุดอีกครั้งยังจ๊ะ</c.bg_transparent></c.thai>  425 
+
+425
+00:33:53,865 --> 00:33:55,700
+<c.thai><c.bg_transparent>&lrm;แม่ขยายด้านหลังให้นิดนึงแล้วนะ</c.bg_transparent></c.thai>  426 
+
+426
+00:34:03,624 --> 00:34:05,334
+<c.thai><c.bg_transparent>&lrm;คริสซี่ ได้ยินไหม!</c.bg_transparent></c.thai>  427 
+
+427
+00:34:05,418 --> 00:34:07,295
+<c.thai><c.bg_transparent>&lrm;เปิดประตูซะทีสิคริสซี่</c.bg_transparent></c.thai>  428 
+
+428
+00:34:07,378 --> 00:34:10,465
+<c.thai><c.bg_transparent>&lrm;เปิดประตู ไม่งั้นฉันจะควักไส้แก</c.bg_transparent> <c.bg_transparent>&lrm;เพราะแกมันอ้วนเหมือนหมู!</c.bg_transparent></c.thai>  429 
+
+429
+00:34:10,548 --> 00:34:13,259
+<c.thai><c.bg_transparent>&lrm;ไปให้พ้น!</c.bg_transparent></c.thai>  430 
+
+430
+00:34:13,342 --> 00:34:15,219
+<c.thai><c.bg_transparent>&lrm;- ได้ยินไหม!</c.bg_transparent> <c.bg_transparent>&lrm;- ไปให้พ้น!</c.bg_transparent></c.thai>  431 
+
+431
+00:34:15,303 --> 00:34:18,306
+<c.thai><c.bg_transparent>&lrm;ไปให้พ้น!</c.bg_transparent></c.thai>  432 
+
+432
+00:34:18,389 --> 00:34:19,724
+<c.thai><c.bg_transparent>&lrm;ได้ยินไหม!</c.bg_transparent></c.thai>  433 
+
+433
+00:34:45,500 --> 00:34:49,212
+<c.thai><c.bg_transparent>&lrm;"จอมมารได้มาเยือนอเมริกาแล้ว"</c.bg_transparent></c.thai>  434 
+
+434
+00:34:50,129 --> 00:34:53,091
+<c.thai><c.bg_transparent>&lrm;"ดันเจียนแอนด์ดรากอน</c.bg_transparent></c.thai>  435 
+
+435
+00:34:53,174 --> 00:34:55,718
+<c.thai><c.bg_transparent>&lrm;ตอนแรกถูกมองว่าเป็นเกมสมมุติที่ไม่มีพิษภัย</c.bg_transparent></c.thai>  436 
+
+436
+00:34:55,802 --> 00:34:58,721
+<c.thai><c.bg_transparent>&lrm;แต่ตอนนี้ผู้ปกครองและจิตแพทย์ต่างกังวล</c.bg_transparent></c.thai>  437 
+
+437
+00:34:59,430 --> 00:35:02,975
+<c.thai><c.bg_transparent>&lrm;วิจัยพบว่าเกมนี้ทำให้มีพฤติกรรมรุนแรง</c.bg_transparent></c.thai>  438 
+
+438
+00:35:03,059 --> 00:35:05,478
+<c.thai><c.bg_transparent>&lrm;มันส่งเสริมให้มีการบูชาซาตาน</c.bg_transparent></c.thai>  439 
+
+439
+00:35:05,561 --> 00:35:07,438
+<c.thai><c.bg_transparent>&lrm;ทำพิธีบูชายัญ</c.bg_transparent></c.thai>  440 
+
+440
+00:35:07,522 --> 00:35:08,856
+<c.thai><c.bg_transparent>&lrm;เล่นสังวาสผิดธรรมชาติ</c.bg_transparent></c.thai>  441 
+
+441
+00:35:08,940 --> 00:35:10,316
+<c.thai><c.bg_transparent>&lrm;ฆ่าตัวตาย</c.bg_transparent></c.thai>  442 
+
+442
+00:35:10,399 --> 00:35:11,651
+<c.thai><c.bg_transparent>&lrm;และแม้กระทั่ง…</c.bg_transparent></c.thai>  443 
+
+443
+00:35:12,360 --> 00:35:13,194
+<c.thai><c.bg_transparent>&lrm;ฆาตกรรม!</c.bg_transparent></c.thai>  444 
+
+444
+00:35:17,490 --> 00:35:19,575
+<c.thai><c.bg_transparent>&lrm;เวร วันนี้เขาดีดแรงเป็นพิเศษว่ะ</c.bg_transparent></c.thai>  445 
+
+445
+00:35:19,659 --> 00:35:21,077
+<c.thai><c.bg_transparent>&lrm;เขาก็ดีดอยู่ตลอดแหละ</c.bg_transparent></c.thai>  446 
+
+446
+00:35:21,160 --> 00:35:22,787
+<c.thai><c.bg_transparent>&lrm;เราจะทำตัวสบายๆ</c.bg_transparent></c.thai>  447 
+
+447
+00:35:23,538 --> 00:35:24,372
+<c.thai><c.bg_transparent>&lrm;- สบายๆ</c.bg_transparent> <c.bg_transparent>&lrm;- สบายๆ</c.bg_transparent></c.thai>  448 
+
+448
+00:35:24,455 --> 00:35:25,623
+<c.thai><c.bg_transparent>&lrm;ได้ โอเค</c.bg_transparent></c.thai>  449 
+
+449
+00:35:26,332 --> 00:35:27,458
+<c.thai><c.bg_transparent>&lrm;สบายมาก</c.bg_transparent></c.thai>  450 
+
+450
+00:35:28,793 --> 00:35:30,211
+<c.thai><c.bg_transparent>&lrm;สังคมก็ต้องโทษใครสักคนน่ะนะ</c.bg_transparent></c.thai>  451 
+
+451
+00:35:30,711 --> 00:35:32,421
+<c.thai><c.bg_transparent>&lrm;- พวกเรามันเป้านิ่ง</c.bg_transparent> <c.bg_transparent>&lrm;- ถูกต้อง</c.bg_transparent></c.thai>  452 
+
+452
+00:35:32,505 --> 00:35:35,758
+<c.thai><c.bg_transparent>&lrm;เราเป็นตัวประหลาดเพราะชอบเล่นเกมแฟนตาซี</c.bg_transparent></c.thai>  453 
+
+453
+00:35:36,717 --> 00:35:39,846
+<c.thai><c.bg_transparent>&lrm;แต่ตราบใดที่เราชอบวงดนตรี</c.bg_transparent></c.thai>  454 
+
+454
+00:35:39,929 --> 00:35:41,472
+<c.thai><c.bg_transparent>&lrm;หรือวิทยาศาสตร์</c.bg_transparent></c.thai>  455 
+
+455
+00:35:41,556 --> 00:35:44,600
+<c.thai><c.bg_transparent>&lrm;หรือปาร์ตี้</c.bg_transparent></c.thai>  456 
+
+456
+00:35:44,684 --> 00:35:49,856
+<c.thai><c.bg_transparent>&lrm;หรือเกมที่ปาลูกบอลใส่ตะกร้าเสื้อผ้า!</c.bg_transparent></c.thai>  457 
+
+457
+00:35:50,398 --> 00:35:51,858
+<c.thai><c.bg_transparent>&lrm;หาเรื่องเหรอไอ้ตัวประหลาด</c.bg_transparent></c.thai>  458 
+
+458
+00:35:59,157 --> 00:35:59,991
+<c.thai><c.bg_transparent>&lrm;กวนตีน</c.bg_transparent></c.thai>  459 
+
+459
+00:36:00,074 --> 00:36:02,076
+<c.thai><c.bg_transparent>&lrm;การบังคับให้คล้อยตาม</c.bg_transparent></c.thai>  460 
+
+460
+00:36:02,160 --> 00:36:04,662
+<c.thai><c.bg_transparent>&lrm;นั่นต่างหากที่กำลังฆ่าพวกเด็กๆ!</c.bg_transparent></c.thai>  461 
+
+461
+00:36:11,043 --> 00:36:12,461
+<c.thai><c.bg_transparent>&lrm;นั่นแหละปีศาจตัวจริง</c.bg_transparent></c.thai>  462 
+
+462
+00:36:14,172 --> 00:36:16,841
+<c.thai><c.bg_transparent>&lrm;เออนี่ ไหนๆ ก็พูดถึงปีศาจ</c.bg_transparent></c.thai>  463 
+
+463
+00:36:18,050 --> 00:36:20,219
+<c.thai><c.bg_transparent>&lrm;ลูคัสเขาต้อง…</c.bg_transparent></c.thai>  464 
+
+464
+00:36:21,304 --> 00:36:22,972
+<c.thai><c.bg_transparent>&lrm;เล่นเกมโยนลูกบอลใส่ตะกร้าเสื้อผ้า</c.bg_transparent></c.thai>  465 
+
+465
+00:36:23,055 --> 00:36:24,056
+<c.thai><c.bg_transparent>&lrm;เพราะงั้น</c.bg_transparent></c.thai>  466 
+
+466
+00:36:24,140 --> 00:36:28,311
+<c.thai><c.bg_transparent>&lrm;คืนนี้เขามาเล่นเฮลไฟร์ไม่ได้</c.bg_transparent></c.thai>  467 
+
+467
+00:36:29,020 --> 00:36:33,566
+<c.thai><c.bg_transparent>&lrm;และฉันรู้ว่าเราไม่มีทางเอาชนะ</c.bg_transparent> <c.bg_transparent>&lrm;แคมเปญซาดิสต์ของนายได้ถ้าขาดเขาไป</c.bg_transparent></c.thai>  468 
+
+468
+00:36:33,649 --> 00:36:34,817
+<c.thai><c.bg_transparent>&lrm;ฉันกับไมค์</c.bg_transparent></c.thai>  469 
+
+469
+00:36:35,526 --> 00:36:36,903
+<c.thai><c.bg_transparent>&lrm;ก็เลยคุยกัน</c.bg_transparent></c.thai>  470 
+
+470
+00:36:36,986 --> 00:36:38,237
+<c.thai><c.bg_transparent>&lrm;เจ๊าะแจ๊ะ</c.bg_transparent></c.thai>  471 
+
+471
+00:36:38,321 --> 00:36:42,617
+<c.thai><c.bg_transparent>&lrm;และเราคิดว่าบางทีเราน่าจะ…</c.bg_transparent></c.thai>  472 
+
+472
+00:36:43,117 --> 00:36:43,993
+<c.thai><c.bg_transparent>&lrm;เลื่อนเกม</c.bg_transparent></c.thai>  473 
+
+473
+00:36:44,076 --> 00:36:47,205
+<c.thai><c.bg_transparent>&lrm;- เลื่อนเกมเหรอ กล้าพูดออกมาได้ไง</c.bg_transparent> <c.bg_transparent>&lrm;- ข้ามศพฉันไปก่อนเถอะ</c.bg_transparent></c.thai>  474 
+
+474
+00:36:47,288 --> 00:36:48,456
+<c.thai><c.bg_transparent>&lrm;หุบปาก!</c.bg_transparent></c.thai>  475 
+
+475
+00:36:49,415 --> 00:36:51,792
+<c.thai><c.bg_transparent>&lrm;นี่จะบอกว่าซินแคลร์ถูกฝ่ายมืดชิงตัวไปแล้วเหรอ</c.bg_transparent></c.thai>  476 
+
+476
+00:36:51,876 --> 00:36:52,835
+<c.thai><c.bg_transparent>&lrm;ประมาณนั้น</c.bg_transparent></c.thai>  477 
+
+477
+00:36:52,919 --> 00:36:54,670
+<c.thai><c.bg_transparent>&lrm;- ประมาณนั้นเหรอ</c.bg_transparent> <c.bg_transparent>&lrm;- ให้ตายเถอะ</c.bg_transparent></c.thai>  478 
+
+478
+00:36:54,754 --> 00:36:58,758
+<c.thai><c.bg_transparent>&lrm;แล้วแทนที่จะหาคนมาแทนเขา</c.bg_transparent></c.thai>  479 
+
+479
+00:36:58,841 --> 00:37:01,719
+<c.thai><c.bg_transparent>&lrm;พวกนายอยากให้เลื่อน</c.bg_transparent></c.thai>  480 
+
+480
+00:37:01,802 --> 00:37:03,721
+<c.thai><c.bg_transparent>&lrm;"ลัทธิแห่งเว็คนา" ไปงั้นเหรอ</c.bg_transparent></c.thai>  481 
+
+481
+00:37:03,804 --> 00:37:06,515
+<c.thai><c.bg_transparent>&lrm;ฉันไม่อยากเลื่อน เราไม่อยากเลื่อน</c.bg_transparent></c.thai>  482 
+
+482
+00:37:06,599 --> 00:37:11,103
+<c.thai><c.bg_transparent>&lrm;มันก็แค่ คนเล่นแทนส่วนใหญ่</c.bg_transparent> <c.bg_transparent>&lrm;จะไปดูแข่งชิงแชมป์ด้วย</c.bg_transparent></c.thai>  483 
+
+483
+00:37:11,187 --> 00:37:13,648
+<c.thai><c.bg_transparent>&lrm;- อ้าว แข่งชิงแชมป์หรอกเหรอ</c.bg_transparent> <c.bg_transparent>&lrm;- ใช่</c.bg_transparent></c.thai>  484 
+
+484
+00:37:13,731 --> 00:37:15,024
+<c.thai><c.bg_transparent>&lrm;ขอพูดกันตรงๆ ได้มะ</c.bg_transparent></c.thai>  485 
+
+485
+00:37:15,608 --> 00:37:16,817
+<c.thai><c.bg_transparent>&lrm;เจฟฟ์จะเรียนจบปีนี้</c.bg_transparent></c.thai>  486 
+
+486
+00:37:16,901 --> 00:37:19,737
+<c.thai><c.bg_transparent>&lrm;แกเร็ธยังเหลืออีกแค่ปีครึ่งได้มั้ง</c.bg_transparent></c.thai>  487 
+
+487
+00:37:19,820 --> 00:37:24,784
+<c.thai><c.bg_transparent>&lrm;ส่วนฉันน่ะ ฉันกำลังตะกายสุดแรง</c.bg_transparent> <c.bg_transparent>&lrm;เพื่อให้ได้เกรดดีวิชาของครูโอดอนเนล</c.bg_transparent></c.thai>  488 
+
+488
+00:37:24,867 --> 00:37:26,494
+<c.thai><c.bg_transparent>&lrm;ถ้าไม่สอบตกปลายภาค</c.bg_transparent></c.thai>  489 
+
+489
+00:37:27,370 --> 00:37:30,206
+<c.thai><c.bg_transparent>&lrm;เดือนหน้าฉันจะได้ขึ้นไปเดินบนเวทีนั้น</c.bg_transparent></c.thai>  490 
+
+490
+00:37:30,289 --> 00:37:33,501
+<c.thai><c.bg_transparent>&lrm;จ้องตาครูใหญ่ฮิกกิ้นส์</c.bg_transparent></c.thai>  491 
+
+491
+00:37:34,168 --> 00:37:35,836
+<c.thai><c.bg_transparent>&lrm;แจกนิ้วให้มัน</c.bg_transparent></c.thai>  492 
+
+492
+00:37:36,379 --> 00:37:38,172
+<c.thai><c.bg_transparent>&lrm;คว้าใบประกาศนียบัตร</c.bg_transparent></c.thai>  493 
+
+493
+00:37:38,256 --> 00:37:41,050
+<c.thai><c.bg_transparent>&lrm;แล้วรีบวิ่งปร๊าดออกไปโดยเร็ว</c.bg_transparent></c.thai>  494 
+
+494
+00:37:41,676 --> 00:37:44,053
+<c.thai><c.bg_transparent>&lrm;- ปีที่แล้วก็พูดงั้นนี่หว่า</c.bg_transparent> <c.bg_transparent>&lrm;- ปีก่อนหน้านั้นด้วย</c.bg_transparent></c.thai>  495 
+
+495
+00:37:44,136 --> 00:37:46,138
+<c.thai><c.bg_transparent>&lrm;เออ และฉันตอแหลเว้ย</c.bg_transparent></c.thai>  496 
+
+496
+00:37:46,222 --> 00:37:47,723
+<c.thai><c.bg_transparent>&lrm;ปีนี้ไม่เหมือนเดิม</c.bg_transparent></c.thai>  497 
+
+497
+00:37:47,807 --> 00:37:50,393
+<c.thai><c.bg_transparent>&lrm;ปีนี้เป็นปีของฉัน</c.bg_transparent></c.thai>  498 
+
+498
+00:37:51,435 --> 00:37:52,520
+<c.thai><c.bg_transparent>&lrm;รู้สึกได้เลย</c.bg_transparent></c.thai>  499 
+
+499
+00:37:53,604 --> 00:37:54,689
+<c.thai><c.bg_transparent>&lrm;ปี 86 เนี่ยแหละจ้ะ</c.bg_transparent></c.thai>  500 
+
+500
+00:37:55,982 --> 00:37:57,400
+<c.thai><c.bg_transparent>&lrm;รู้ไหมว่ามันหมายความว่าไง</c.bg_transparent></c.thai>  501 
+
+501
+00:37:57,900 --> 00:37:59,902
+<c.thai><c.bg_transparent>&lrm;หมายความว่าพวกนาย</c.bg_transparent></c.thai>  502 
+
+502
+00:38:00,778 --> 00:38:03,114
+<c.thai><c.bg_transparent>&lrm;คืออนาคตของเฮลไฟร์</c.bg_transparent></c.thai>  503 
+
+503
+00:38:04,573 --> 00:38:06,284
+<c.thai><c.bg_transparent>&lrm;เห็นหน้าครั้งแรกก็รู้เลย</c.bg_transparent></c.thai>  504 
+
+504
+00:38:06,367 --> 00:38:09,370
+<c.thai><c.bg_transparent>&lrm;นายนั่งที่โต๊ะนั้น ท่าทางเหมือน…</c.bg_transparent></c.thai>  505 
+
+505
+00:38:09,996 --> 00:38:11,872
+<c.thai><c.bg_transparent>&lrm;แกะน้อยหลงทางสองตัว</c.bg_transparent></c.thai>  506 
+
+506
+00:38:12,915 --> 00:38:14,834
+<c.thai><c.bg_transparent>&lrm;นายใส่เสื้อยืดหน้าเวียร์ดอัล</c.bg_transparent></c.thai>  507 
+
+507
+00:38:14,917 --> 00:38:16,168
+<c.thai><c.bg_transparent>&lrm;ฉันว่ากล้ามากที่ใส่</c.bg_transparent></c.thai>  508 
+
+508
+00:38:16,752 --> 00:38:17,878
+<c.thai><c.bg_transparent>&lrm;ขอบคุณ</c.bg_transparent></c.thai>  509 
+
+509
+00:38:17,962 --> 00:38:21,841
+<c.thai><c.bg_transparent>&lrm;ไมค์ นายใส่เสื้ออะไรไม่รู้</c.bg_transparent> <c.bg_transparent>&lrm;ที่แม่ซื้อมาให้จากร้านแก๊ป</c.bg_transparent></c.thai>  510 
+
+510
+00:38:26,012 --> 00:38:27,346
+<c.thai><c.bg_transparent>&lrm;และเราทำให้นายเห็น</c.bg_transparent></c.thai>  511 
+
+511
+00:38:27,430 --> 00:38:30,975
+<c.thai><c.bg_transparent>&lrm;ว่าโรงเรียนไม่ต้องเป็น</c.bg_transparent> <c.bg_transparent>&lrm;ช่วงชีวิตที่แย่ที่สุดก็ได้ จริงไหม</c.bg_transparent></c.thai>  512 
+
+512
+00:38:31,058 --> 00:38:32,560
+<c.thai><c.bg_transparent>&lrm;- ใช่</c.bg_transparent> <c.bg_transparent>&lrm;- โอเค ใช่</c.bg_transparent></c.thai>  513 
+
+513
+00:38:32,643 --> 00:38:34,145
+<c.thai><c.bg_transparent>&lrm;ฉันอยากจะบอกว่า</c.bg_transparent></c.thai>  514 
+
+514
+00:38:34,228 --> 00:38:38,232
+<c.thai><c.bg_transparent>&lrm;ยังมีลูกแกะหลงทางอีกหลายตัว</c.bg_transparent> <c.bg_transparent>&lrm;ที่ต้องการความช่วยเหลือ</c.bg_transparent></c.thai>  515 
+
+515
+00:38:38,316 --> 00:38:40,901
+<c.thai><c.bg_transparent>&lrm;คนที่ต้องการพวกนาย</c.bg_transparent></c.thai>  516 
+
+516
+00:38:41,444 --> 00:38:43,070
+<c.thai><c.bg_transparent>&lrm;และที่พวกนายต้องทำ</c.bg_transparent></c.thai>  517 
+
+517
+00:38:43,154 --> 00:38:46,407
+<c.thai><c.bg_transparent>&lrm;ก็คือสวมวิญญาณเด็กเลี้ยงแกะ</c.bg_transparent> <c.bg_transparent>&lrm;แล้วไปจับมาสักตัวนึง</c.bg_transparent></c.thai>  518 
+
+518
+00:38:48,200 --> 00:38:49,493
+<c.thai><c.bg_transparent>&lrm;ไปมุดหัวอยู่ไหนมา</c.bg_transparent></c.thai>  519 
+
+519
+00:38:50,286 --> 00:38:54,123
+<c.thai><c.bg_transparent>&lrm;ฉันเรียนคาราเต้</c.bg_transparent> <c.bg_transparent>&lrm;ตั้งแต่บ่ายโมงถึงบ่ายสามทุกวันศุกร์</c.bg_transparent></c.thai>  520 
+
+520
+00:38:56,375 --> 00:38:58,210
+<c.thai><c.bg_transparent>&lrm;มาทวนกันว่าฉันเข้าใจถูกไหม</c.bg_transparent></c.thai>  521 
+
+521
+00:38:58,961 --> 00:39:02,465
+<c.thai><c.bg_transparent>&lrm;เธอได้รับตุ๊กตาทางไปรษณีย์</c.bg_transparent></c.thai>  522 
+
+522
+00:39:02,548 --> 00:39:04,842
+<c.thai><c.bg_transparent>&lrm;- ใช่</c.bg_transparent> <c.bg_transparent>&lrm;- และมันน่าขนลุก</c.bg_transparent></c.thai>  523 
+
+523
+00:39:04,925 --> 00:39:05,760
+<c.thai><c.bg_transparent>&lrm;สุดๆ</c.bg_transparent></c.thai>  524 
+
+524
+00:39:05,843 --> 00:39:08,387
+<c.thai><c.bg_transparent>&lrm;และคิดว่ามันมาจากรัสเซียเหรอ</c.bg_transparent></c.thai>  525 
+
+525
+00:39:08,471 --> 00:39:09,889
+<c.thai><c.bg_transparent>&lrm;มั่นใจเลยแหละ</c.bg_transparent></c.thai>  526 
+
+526
+00:39:09,972 --> 00:39:14,727
+<c.thai><c.bg_transparent>&lrm;ตราประทับบนกล่อง</c.bg_transparent> <c.bg_transparent>&lrm;มันมีรูปค้อนกับไอ้ตะขออะไรนั่นน่ะ</c.bg_transparent></c.thai>  527 
+
+527
+00:39:14,810 --> 00:39:16,645
+<c.thai><c.bg_transparent>&lrm;- เคียว</c.bg_transparent> <c.bg_transparent>&lrm;- นั่นแหละ</c.bg_transparent></c.thai>  528 
+
+528
+00:39:16,729 --> 00:39:19,482
+<c.thai><c.bg_transparent>&lrm;ฟังดูเหมือนส่งมาจากรัสเซียจริงๆ</c.bg_transparent></c.thai>  529 
+
+529
+00:39:19,565 --> 00:39:21,525
+<c.thai><c.bg_transparent>&lrm;ว้าว ดีใจจังที่โทรไปถาม</c.bg_transparent></c.thai>  530 
+
+530
+00:39:22,151 --> 00:39:23,861
+<c.thai><c.bg_transparent>&lrm;ฉันควรจะกังวลไหม</c.bg_transparent></c.thai>  531 
+
+531
+00:39:23,944 --> 00:39:24,945
+<c.thai><c.bg_transparent>&lrm;ก็สมควรนะ</c.bg_transparent></c.thai>  532 
+
+532
+00:39:28,157 --> 00:39:29,200
+<c.thai><c.bg_transparent>&lrm;อาจเป็นคำขู่</c.bg_transparent></c.thai>  533 
+
+533
+00:39:29,742 --> 00:39:33,996
+<c.thai><c.bg_transparent>&lrm;เพราะยังไงซะ</c.bg_transparent> <c.bg_transparent>&lrm;เธอทำลายปฏิบัติการของมันในสหรัฐฯ</c.bg_transparent></c.thai>  534 
+
+534
+00:39:34,080 --> 00:39:36,916
+<c.thai><c.bg_transparent>&lrm;แล้วฆ่าสหายมันไป 20 กว่าคนได้มั้ง</c.bg_transparent></c.thai>  535 
+
+535
+00:39:36,999 --> 00:39:38,959
+<c.thai><c.bg_transparent>&lrm;แต่พวกมันรู้ชื่อฉันได้ยังไง</c.bg_transparent></c.thai>  536 
+
+536
+00:39:39,043 --> 00:39:40,628
+<c.thai><c.bg_transparent>&lrm;ถ้าพวกมันเป็นเคจีบี</c.bg_transparent></c.thai>  537 
+
+537
+00:39:40,711 --> 00:39:43,798
+<c.thai><c.bg_transparent>&lrm;ที่อยากตามหาตัวเธอนะจอยซ์ ยังไงก็หาเจอ</c.bg_transparent></c.thai>  538 
+
+538
+00:39:45,383 --> 00:39:46,467
+<c.thai><c.bg_transparent>&lrm;เดี๋ยว ถอดชุดมันได้ไหม</c.bg_transparent></c.thai>  539 
+
+539
+00:39:47,551 --> 00:39:48,969
+<c.thai><c.bg_transparent>&lrm;- ว่าไงนะ</c.bg_transparent> <c.bg_transparent>&lrm;- ตุ๊กตาน่าขนลุกน่ะ</c.bg_transparent></c.thai>  540 
+
+540
+00:39:49,053 --> 00:39:51,931
+<c.thai><c.bg_transparent>&lrm;ถอดชุดของมันออกมาได้ไหม</c.bg_transparent></c.thai>  541 
+
+541
+00:39:52,598 --> 00:39:53,474
+<c.thai><c.bg_transparent>&lrm;คือว่า…</c.bg_transparent></c.thai>  542 
+
+542
+00:39:54,225 --> 00:39:55,184
+<c.thai><c.bg_transparent>&lrm;ก็ได้</c.bg_transparent></c.thai>  543 
+
+543
+00:39:58,521 --> 00:39:59,397
+<c.thai><c.bg_transparent>&lrm;ต๊ายตาย</c.bg_transparent></c.thai>  544 
+
+544
+00:39:59,480 --> 00:40:00,689
+<c.thai><c.bg_transparent>&lrm;อะไร</c.bg_transparent></c.thai>  545 
+
+545
+00:40:00,773 --> 00:40:02,358
+<c.thai><c.bg_transparent>&lrm;มันมีหัวนมด้วย</c.bg_transparent></c.thai>  546 
+
+546
+00:40:04,276 --> 00:40:05,403
+<c.thai><c.bg_transparent>&lrm;ใช่เลย!</c.bg_transparent></c.thai>  547 
+
+547
+00:40:10,157 --> 00:40:13,244
+<c.thai><c.bg_transparent>&lrm;โอเค แล้วมีอะไรเทปติดตัวไหม</c.bg_transparent></c.thai>  548 
+
+548
+00:40:13,327 --> 00:40:16,038
+<c.thai><c.bg_transparent>&lrm;อย่างสายไฟหรือเครื่องดักฟัง</c.bg_transparent></c.thai>  549 
+
+549
+00:40:16,122 --> 00:40:18,457
+<c.thai><c.bg_transparent>&lrm;ไม่รู้สิ มันมีรอยแตก</c.bg_transparent></c.thai>  550 
+
+550
+00:40:18,541 --> 00:40:19,667
+<c.thai><c.bg_transparent>&lrm;มีรอยแตกเหรอ</c.bg_transparent></c.thai>  551 
+
+551
+00:40:19,750 --> 00:40:23,796
+<c.thai><c.bg_transparent>&lrm;ใช่ กระเบื้องเคลือบมันแตก</c.bg_transparent> <c.bg_transparent>&lrm;แล้วเขาเอากาวมาติดกลับเข้าที่เดิม</c.bg_transparent></c.thai>  552 
+
+552
+00:40:23,879 --> 00:40:26,632
+<c.thai><c.bg_transparent>&lrm;โอเค มีเชือก</c.bg_transparent></c.thai>  553 
+
+553
+00:40:26,715 --> 00:40:28,092
+<c.thai><c.bg_transparent>&lrm;กับของหนักๆ ไหม</c.bg_transparent></c.thai>  554 
+
+554
+00:40:28,676 --> 00:40:29,510
+<c.thai><c.bg_transparent>&lrm;เอามาทำอะไร</c.bg_transparent></c.thai>  555 
+
+555
+00:40:30,094 --> 00:40:31,429
+<c.thai><c.bg_transparent>&lrm;เอามาบี้ไง</c.bg_transparent></c.thai>  556 
+
+556
+00:40:37,017 --> 00:40:38,519
+<c.thai><c.bg_transparent>&lrm;นายคิดว่าไง ไบเออร์ส</c.bg_transparent></c.thai>  557 
+
+557
+00:40:39,770 --> 00:40:40,938
+<c.thai><c.bg_transparent>&lrm;ตั้งชื่อว่าบ้านเขียว</c.bg_transparent></c.thai>  558 
+
+558
+00:40:41,730 --> 00:40:43,566
+<c.thai><c.bg_transparent>&lrm;เข้าใจมะ บ้านนกแต่สายเขียว</c.bg_transparent></c.thai>  559 
+
+559
+00:40:44,483 --> 00:40:45,317
+<c.thai><c.bg_transparent>&lrm;บ้านเขียว</c.bg_transparent></c.thai>  560 
+
+560
+00:40:45,818 --> 00:40:46,694
+<c.thai><c.bg_transparent>&lrm;เข้าใจคิด</c.bg_transparent></c.thai>  561 
+
+561
+00:40:46,777 --> 00:40:48,362
+<c.thai><c.bg_transparent>&lrm;นี่ จะไปไหนวะ</c.bg_transparent></c.thai>  562 
+
+562
+00:40:48,946 --> 00:40:51,907
+<c.thai><c.bg_transparent>&lrm;ฉันแค่อยากทำให้นายยิ้มออก</c.bg_transparent></c.thai>  563 
+
+563
+00:40:51,991 --> 00:40:53,117
+<c.thai><c.bg_transparent>&lrm;เออ</c.bg_transparent></c.thai>  564 
+
+564
+00:40:53,200 --> 00:40:54,535
+<c.thai><c.bg_transparent>&lrm;โอเค ไม่เอาน่าเพื่อน</c.bg_transparent></c.thai>  565 
+
+565
+00:40:54,618 --> 00:40:57,455
+<c.thai><c.bg_transparent>&lrm;นี่นายจะนั่งหน้าบึ้งไปตลอดปิดเทอมเลยไหม</c.bg_transparent></c.thai>  566 
+
+566
+00:40:57,538 --> 00:40:59,123
+<c.thai><c.bg_transparent>&lrm;- ไม่ได้หน้าบึ้ง</c.bg_transparent> <c.bg_transparent>&lrm;- นายหน้าบึ้ง</c.bg_transparent></c.thai>  567 
+
+567
+00:40:59,206 --> 00:41:00,916
+<c.thai><c.bg_transparent>&lrm;- เหรอ</c.bg_transparent> <c.bg_transparent>&lrm;- โมบึ้ง ดิ๊ค</c.bg_transparent></c.thai>  568 
+
+568
+00:41:01,542 --> 00:41:02,877
+<c.thai><c.bg_transparent>&lrm;ว้าว ล้ำมาก</c.bg_transparent></c.thai>  569 
+
+569
+00:41:02,960 --> 00:41:05,129
+<c.thai><c.bg_transparent>&lrm;โอเค เพราะแฟนจะทิ้งนายเหรอ</c.bg_transparent></c.thai>  570 
+
+570
+00:41:05,212 --> 00:41:06,755
+<c.thai><c.bg_transparent>&lrm;อะไร แนนซี่ไม่ได้จะทิ้งฉันซะหน่อย</c.bg_transparent></c.thai>  571 
+
+571
+00:41:06,839 --> 00:41:08,132
+<c.thai><c.bg_transparent>&lrm;อ้าว งั้นจะมาหาเหรอ</c.bg_transparent></c.thai>  572 
+
+572
+00:41:09,175 --> 00:41:10,176
+<c.thai><c.bg_transparent>&lrm;เปล่า</c.bg_transparent></c.thai>  573 
+
+573
+00:41:10,718 --> 00:41:11,760
+<c.thai><c.bg_transparent>&lrm;แปลว่าทิ้ง</c.bg_transparent></c.thai>  574 
+
+574
+00:41:11,844 --> 00:41:13,721
+<c.thai><c.bg_transparent>&lrm;เพื่อน เธอไม่ได้ทิ้งฉัน</c.bg_transparent></c.thai>  575 
+
+575
+00:41:13,804 --> 00:41:14,889
+<c.thai><c.bg_transparent>&lrm;เธอต้องทำงาน</c.bg_transparent></c.thai>  576 
+
+576
+00:41:14,972 --> 00:41:17,016
+<c.thai><c.bg_transparent>&lrm;ใครบ้าที่ไหนทำงานช่วงสปริงเบรควะ</c.bg_transparent></c.thai>  577 
+
+577
+00:41:17,099 --> 00:41:18,893
+<c.thai><c.bg_transparent>&lrm;แนนซี่ไง เธอทำงาน</c.bg_transparent></c.thai>  578 
+
+578
+00:41:18,976 --> 00:41:23,397
+<c.thai><c.bg_transparent>&lrm;ฉันอาจไม่เข้าใจอะไร</c.bg_transparent> <c.bg_transparent>&lrm;แต่ทำไมโจนาธานถึงมาหาช่วงปิดเทอมไม่ได้ล่ะ</c.bg_transparent></c.thai>  579 
+
+579
+00:41:23,481 --> 00:41:25,441
+<c.thai><c.bg_transparent>&lrm;- ก็มาไม่ได้</c.bg_transparent> <c.bg_transparent>&lrm;- เพราะอะไร</c.bg_transparent></c.thai>  580 
+
+580
+00:41:25,524 --> 00:41:27,401
+<c.thai><c.bg_transparent>&lrm;เหตุผลเยอะแยะ</c.bg_transparent></c.thai>  581 
+
+581
+00:41:27,485 --> 00:41:28,319
+<c.thai><c.bg_transparent>&lrm;น่าสงสัยจัง</c.bg_transparent></c.thai>  582 
+
+582
+00:41:30,488 --> 00:41:31,697
+<c.thai><c.bg_transparent>&lrm;(วีคลี่สตรีค</c.bg_transparent> <c.bg_transparent>&lrm;ไทเกอร์ชนะ!)</c.bg_transparent></c.thai>  583 
+
+583
+00:41:31,780 --> 00:41:33,616
+<c.thai><c.bg_transparent>&lrm;ฉันขอลองทำเองได้ไหม แคนดิซ</c.bg_transparent></c.thai>  584 
+
+584
+00:41:33,699 --> 00:41:35,117
+<c.thai><c.bg_transparent>&lrm;เอาสิ ทำไปเลย</c.bg_transparent></c.thai>  585 
+
+585
+00:41:36,827 --> 00:41:39,747
+<c.thai><c.bg_transparent>&lrm;เธอบอกว่ามีเหตุผลเยอะแยะ</c.bg_transparent> <c.bg_transparent>&lrm;ที่เขาไม่มา ยกตัวอย่างซิ</c.bg_transparent></c.thai>  586 
+
+586
+00:41:39,830 --> 00:41:42,917
+<c.thai><c.bg_transparent>&lrm;- ทำไมถึงสอดรู้สอดเห็นจังเลย</c.bg_transparent> <c.bg_transparent>&lrm;- เรียกว่าสัญชาตญาณนักข่าวดีกว่า</c.bg_transparent></c.thai>  587 
+
+587
+00:41:43,000 --> 00:41:46,795
+<c.thai><c.bg_transparent>&lrm;โอเค เรื่องนี้ทำข่าวไม่ได้หรอก</c.bg_transparent> <c.bg_transparent>&lrm;ถ้าถามหาเรื่องนั้นน่ะนะ</c.bg_transparent></c.thai>  588 
+
+588
+00:41:46,879 --> 00:41:48,047
+<c.thai><c.bg_transparent>&lrm;แม่เขาทำงาน</c.bg_transparent></c.thai>  589 
+
+589
+00:41:48,130 --> 00:41:50,382
+<c.thai><c.bg_transparent>&lrm;เขาเลยต้องเฝ้าน้อง</c.bg_transparent></c.thai>  590 
+
+590
+00:41:50,466 --> 00:41:52,843
+<c.thai><c.bg_transparent>&lrm;ยิ่งไปกว่านั้น เขาไม่ได้สอบติดมหาลัยล่วงหน้า</c.bg_transparent></c.thai>  591 
+
+591
+00:41:52,927 --> 00:41:56,597
+<c.thai><c.bg_transparent>&lrm;ก็เลยต้องรอจดหมายตอบรับ</c.bg_transparent> <c.bg_transparent>&lrm;และเขาอยากอยู่บ้านตอนมันมาถึง</c.bg_transparent></c.thai>  592 
+
+592
+00:41:56,680 --> 00:41:57,765
+<c.thai><c.bg_transparent>&lrm;ซึ่งฉันเข้าใจสุดๆ</c.bg_transparent></c.thai>  593 
+
+593
+00:41:57,848 --> 00:41:58,766
+<c.thai><c.bg_transparent>&lrm;โอเค</c.bg_transparent></c.thai>  594 
+
+594
+00:42:00,100 --> 00:42:01,685
+<c.thai><c.bg_transparent>&lrm;ฉันไม่เข้าใจ คือมัน…</c.bg_transparent></c.thai>  595 
+
+595
+00:42:01,769 --> 00:42:03,395
+<c.thai><c.bg_transparent>&lrm;ไม่มีเหตุผลเลยสักนิด</c.bg_transparent></c.thai>  596 
+
+596
+00:42:03,479 --> 00:42:05,356
+<c.thai><c.bg_transparent>&lrm;โอเค ขอฉันสรุปทุกอย่างนะ</c.bg_transparent></c.thai>  597 
+
+597
+00:42:05,439 --> 00:42:07,983
+<c.thai><c.bg_transparent>&lrm;นายว่าแนนซี่เป็นเนื้อคู่ของนาย</c.bg_transparent></c.thai>  598 
+
+598
+00:42:08,067 --> 00:42:11,070
+<c.thai><c.bg_transparent>&lrm;ที่จริงแล้วนายรักเธอหัวปักหัวปำจนวางแผน</c.bg_transparent></c.thai>  599 
+
+599
+00:42:11,153 --> 00:42:14,657
+<c.thai><c.bg_transparent>&lrm;จะไปเรียนมหาลัยหรูหราหมาเห่า</c.bg_transparent> <c.bg_transparent>&lrm;ซึ่งจะสูบเงินนาย กับเธอเนี่ยนะ</c.bg_transparent></c.thai>  600 
+
+600
+00:42:14,740 --> 00:42:16,951
+<c.thai><c.bg_transparent>&lrm;แต่เขากังวลเรื่องจดหมายตอบรับ</c.bg_transparent></c.thai>  601 
+
+601
+00:42:17,034 --> 00:42:20,454
+<c.thai><c.bg_transparent>&lrm;มากซะจนไม่มีเวลามาหาสาวสวย</c.bg_transparent> <c.bg_transparent>&lrm;ที่ทุกคนหมายปองในฮอว์กินส์เนี่ยนะ</c.bg_transparent></c.thai>  602 
+
+602
+00:42:20,538 --> 00:42:22,414
+<c.thai><c.bg_transparent>&lrm;ฉันว่ากลิ่นตุๆ ว่ะ</c.bg_transparent></c.thai>  603 
+
+603
+00:42:22,498 --> 00:42:24,458
+<c.thai><c.bg_transparent>&lrm;เหม็นฉึ่งไปถึงสวรรค์ชั้นเจ็ดเลย</c.bg_transparent></c.thai>  604 
+
+604
+00:42:25,626 --> 00:42:27,878
+<c.thai><c.bg_transparent>&lrm;ฟังนะ นายเป็นเด็กดี</c.bg_transparent></c.thai>  605 
+
+605
+00:42:27,962 --> 00:42:29,505
+<c.thai><c.bg_transparent>&lrm;นายเป็นเด็กดีไปแล้ว</c.bg_transparent></c.thai>  606 
+
+606
+00:42:29,588 --> 00:42:33,300
+<c.thai><c.bg_transparent>&lrm;และฉันว่ามันถึงเวลา</c.bg_transparent> <c.bg_transparent>&lrm;ที่นายต้องพักมือจากการสไลด์หนอน</c.bg_transparent></c.thai>  607 
+
+607
+00:42:33,384 --> 00:42:35,511
+<c.thai><c.bg_transparent>&lrm;แล้วให้รางวัลตัวเองด้วยการแอ้มสาวสักคน</c.bg_transparent></c.thai>  608 
+
+608
+00:42:35,594 --> 00:42:39,848
+<c.thai><c.bg_transparent>&lrm;โอเค ก่อนอื่นเลยนะเฟรด</c.bg_transparent> <c.bg_transparent>&lrm;ฉันจะพยายามลืมทุกอย่างที่นายเพิ่งพูดออกไป</c.bg_transparent></c.thai>  609 
+
+609
+00:42:39,932 --> 00:42:41,267
+<c.thai><c.bg_transparent>&lrm;- มัน</c.bg_transparent> <c.bg_transparent>&lrm;- ยี้ว่ะ</c.bg_transparent></c.thai>  610 
+
+610
+00:42:41,350 --> 00:42:43,227
+<c.thai><c.bg_transparent>&lrm;- ธรรมชาติออก</c.bg_transparent> <c.bg_transparent>&lrm;- นายไม่เข้าใจแนนซี่</c.bg_transparent></c.thai>  611 
+
+611
+00:42:43,310 --> 00:42:44,478
+<c.thai><c.bg_transparent>&lrm;เขาไม่เหมือนนาย</c.bg_transparent></c.thai>  612 
+
+612
+00:42:44,562 --> 00:42:47,815
+<c.thai><c.bg_transparent>&lrm;เขาใส่ใจและเห็นอกเห็นใจคนและ…</c.bg_transparent></c.thai>  613 
+
+613
+00:42:47,898 --> 00:42:51,402
+<c.thai><c.bg_transparent>&lrm;ทะเยอทะยานสุดขีด</c.bg_transparent> <c.bg_transparent>&lrm;ชีวิตนี้เธอไม่เคยทำอะไรครึ่งๆ กลางๆ เลย</c.bg_transparent></c.thai>  614 
+
+614
+00:42:51,485 --> 00:42:54,572
+<c.thai><c.bg_transparent>&lrm;เขาปกป้องคนที่เขารักมาก</c.bg_transparent></c.thai>  615 
+
+615
+00:42:54,655 --> 00:42:56,782
+<c.thai><c.bg_transparent>&lrm;ถ้าเธอได้เป็นบรรณาธิการหนังสือพิมพ์โรงเรียน</c.bg_transparent></c.thai>  616 
+
+616
+00:42:56,865 --> 00:42:59,577
+<c.thai><c.bg_transparent>&lrm;เธอจะทำให้มันเป็น</c.bg_transparent> <c.bg_transparent>&lrm;หนังสือพิมพ์ที่เจ๋งที่สุดที่เคยมีมา</c.bg_transparent></c.thai>  617 
+
+617
+00:42:59,660 --> 00:43:02,621
+<c.thai><c.bg_transparent>&lrm;เขาต่อสู้เพื่อสิ่งที่ถูกต้องดีงามอย่างไม่ลดละ</c.bg_transparent></c.thai>  618 
+
+618
+00:43:02,705 --> 00:43:05,374
+<c.thai><c.bg_transparent>&lrm;ไม่ว่าจะถูกกดดันแค่ไหน ต้องเสียสละแค่ไหน…</c.bg_transparent></c.thai>  619 
+
+619
+00:43:05,457 --> 00:43:08,002
+<c.thai><c.bg_transparent>&lrm;- ฉันถึงรักเธอไง</c.bg_transparent> <c.bg_transparent>&lrm;- ฉันถึงรักเขาไง</c.bg_transparent></c.thai>  620 
+
+620
+00:43:08,085 --> 00:43:10,212
+<c.thai><c.bg_transparent>&lrm;- ทุกอย่างระหว่างเรามัน…</c.bg_transparent> <c.bg_transparent>&lrm;- สมบูรณ์แบบ</c.bg_transparent></c.thai>  621 
+
+621
+00:43:11,130 --> 00:43:12,840
+<c.thai><c.bg_transparent>&lrm;ฉันยังเชียร์พาดหัวข่าวสำรองอยู่</c.bg_transparent></c.thai>  622 
+
+622
+00:43:12,923 --> 00:43:14,842
+<c.thai><c.bg_transparent>&lrm;(ไทเกอร์ถูกเขมือบ เสียทั้งเลือดทั้งน้ำตา)</c.bg_transparent></c.thai>  623 
+
+623
+00:43:14,925 --> 00:43:15,759
+<c.thai><c.bg_transparent>&lrm;แนนซี่!</c.bg_transparent></c.thai>  624 
+
+624
+00:43:25,311 --> 00:43:26,312
+<c.thai><c.bg_transparent>&lrm;แนนซี่ หวัดดี</c.bg_transparent></c.thai>  625 
+
+625
+00:43:27,730 --> 00:43:29,231
+<c.thai><c.bg_transparent>&lrm;คืนนี้อยากไปเล่นเฮลไฟร์กันไหม</c.bg_transparent></c.thai>  626 
+
+626
+00:43:31,650 --> 00:43:34,987
+<c.thai><c.bg_transparent>&lrm;เลื่อนเดตครั้งนี้ครั้งเดียวไม่ได้หรือไง โธ่</c.bg_transparent></c.thai>  627 
+
+627
+00:43:35,070 --> 00:43:37,740
+<c.thai><c.bg_transparent>&lrm;อะไร ให้ไปแกร่วกับนาย</c.bg_transparent> <c.bg_transparent>&lrm;และไอ้เพี้ยนเอ็ดดี้ มันสันเนี่ยนะ</c.bg_transparent></c.thai>  628 
+
+628
+00:43:37,823 --> 00:43:39,158
+<c.thai><c.bg_transparent>&lrm;เออ ไม่เอาดีกว่า</c.bg_transparent></c.thai>  629 
+
+629
+00:43:39,241 --> 00:43:41,619
+<c.thai><c.bg_transparent>&lrm;นายก็แค่หึงที่ฉันมีเพื่อนรุ่นพี่ผู้ชายอีกคน</c.bg_transparent></c.thai>  630 
+
+630
+00:43:42,453 --> 00:43:43,412
+<c.thai><c.bg_transparent>&lrm;เอาที่สบายใจ</c.bg_transparent></c.thai>  631 
+
+631
+00:43:43,495 --> 00:43:45,539
+<c.thai><c.bg_transparent>&lrm;อีกอย่าง ฉันชอบสาวคนนี้จริงๆ</c.bg_transparent></c.thai>  632 
+
+632
+00:43:45,623 --> 00:43:46,874
+<c.thai><c.bg_transparent>&lrm;ฉันว่าเธออาจจะ…</c.bg_transparent></c.thai>  633 
+
+633
+00:43:46,957 --> 00:43:48,959
+<c.thai><c.bg_transparent>&lrm;ใครจะไปรู้ อาจเป็นคนที่ใช่ก็ได้</c.bg_transparent></c.thai>  634 
+
+634
+00:43:50,002 --> 00:43:52,212
+<c.thai><c.bg_transparent>&lrm;ลูกค้ามา เดี๋ยวโทรกลับนะ บาย</c.bg_transparent></c.thai>  635 
+
+635
+00:43:52,296 --> 00:43:53,922
+<c.thai><c.bg_transparent>&lrm;โทรกลับได้ที่ไหน ฉันอยู่…</c.bg_transparent></c.thai>  636 
+
+636
+00:43:54,506 --> 00:43:55,424
+<c.thai><c.bg_transparent>&lrm;โรงเรียน</c.bg_transparent></c.thai>  637 
+
+637
+00:44:01,680 --> 00:44:04,600
+<c.thai><c.bg_transparent>&lrm;งั้นสู้กันด้วยลูกเต๋าเหรอ</c.bg_transparent></c.thai>  638 
+
+638
+00:44:04,683 --> 00:44:08,312
+<c.thai><c.bg_transparent>&lrm;ใช่ แต่ไม่ใช่ลูกเต๋าธรรมดาทั่วไปนะ</c.bg_transparent></c.thai>  639 
+
+639
+00:44:08,395 --> 00:44:11,398
+<c.thai><c.bg_transparent>&lrm;มันมีได้มากถึง 20 ด้าน</c.bg_transparent></c.thai>  640 
+
+640
+00:44:14,360 --> 00:44:17,071
+<c.thai><c.bg_transparent>&lrm;ถ้ายอมเล่นด้วย</c.bg_transparent> <c.bg_transparent>&lrm;จะได้เสื้อยืดเจ๋งๆ แบบนั้นสักตัวไหม</c.bg_transparent></c.thai>  641 
+
+641
+00:44:17,154 --> 00:44:18,530
+<c.thai><c.bg_transparent>&lrm;- ได้สิ</c.bg_transparent> <c.bg_transparent>&lrm;- จริงนะ</c.bg_transparent></c.thai>  642 
+
+642
+00:44:18,614 --> 00:44:22,201
+<c.thai><c.bg_transparent>&lrm;ได้กันทุกคน</c.bg_transparent> <c.bg_transparent>&lrm;เราพิมพ์ลายเอง แล้วถ้าเธอ…</c.bg_transparent></c.thai>  643 
+
+643
+00:44:23,410 --> 00:44:24,995
+<c.thai><c.bg_transparent>&lrm;นี่ประชดอยู่สินะ</c.bg_transparent></c.thai>  644 
+
+644
+00:44:25,954 --> 00:44:27,498
+<c.thai><c.bg_transparent>&lrm;ประชดใช่ไหม</c.bg_transparent></c.thai>  645 
+
+645
+00:44:30,167 --> 00:44:31,835
+<c.thai><c.bg_transparent>&lrm;เธอประชด</c.bg_transparent></c.thai>  646 
+
+646
+00:44:31,919 --> 00:44:34,421
+<c.thai><c.bg_transparent>&lrm;แม่บอกว่าเกมนั้นส่งเสริม</c.bg_transparent> <c.bg_transparent>&lrm;ให้บูชาซาตานและทารุณสัตว์</c.bg_transparent></c.thai>  647 
+
+647
+00:44:34,505 --> 00:44:36,423
+<c.thai><c.bg_transparent>&lrm;นั่นมันโฆษณาชวนเชื่องี่เง่า</c.bg_transparent></c.thai>  648 
+
+648
+00:44:36,507 --> 00:44:38,384
+<c.thai><c.bg_transparent>&lrm;รายการ 60 นาทีบอกว่าไม่ใช่</c.bg_transparent></c.thai>  649 
+
+649
+00:44:41,345 --> 00:44:42,846
+<c.thai><c.bg_transparent>&lrm;- ไม่</c.bg_transparent> <c.bg_transparent>&lrm;- ไม่</c.bg_transparent></c.thai>  650 
+
+650
+00:44:42,930 --> 00:44:43,972
+<c.thai><c.bg_transparent>&lrm;ไม่</c.bg_transparent></c.thai>  651 
+
+651
+00:44:44,056 --> 00:44:44,973
+<c.thai><c.bg_transparent>&lrm;- ไม่</c.bg_transparent> <c.bg_transparent>&lrm;- ไม่</c.bg_transparent></c.thai>  652 
+
+652
+00:44:48,686 --> 00:44:49,812
+<c.thai><c.bg_transparent>&lrm;เกลียดม.ปลายว่ะ</c.bg_transparent></c.thai>  653 
+
+653
+00:44:56,777 --> 00:44:57,903
+<c.thai><c.bg_transparent>&lrm;งั้นก็ช่างหัวมัน</c.bg_transparent></c.thai>  654 
+
+654
+00:44:58,737 --> 00:44:59,571
+<c.thai><c.bg_transparent>&lrm;ช่างหัวอะไร</c.bg_transparent></c.thai>  655 
+
+655
+00:45:00,280 --> 00:45:01,699
+<c.thai><c.bg_transparent>&lrm;ช่างหัวม.ปลาย</c.bg_transparent></c.thai>  656 
+
+656
+00:45:02,991 --> 00:45:05,703
+<c.thai><c.bg_transparent>&lrm;ไงนะ ดัสติน นายจะไปไหน</c.bg_transparent></c.thai>  657 
+
+657
+00:45:05,786 --> 00:45:06,745
+<c.thai><c.bg_transparent>&lrm;เชื่อฉันเถอะน่า</c.bg_transparent></c.thai>  658 
+
+658
+00:45:07,579 --> 00:45:09,081
+<c.thai><c.bg_transparent>&lrm;นี่ บอกฉันมาสิ</c.bg_transparent></c.thai>  659 
+
+659
+00:45:09,623 --> 00:45:10,833
+<c.thai><c.bg_transparent>&lrm;บอกมาสิ</c.bg_transparent></c.thai>  660 
+
+660
+00:45:10,916 --> 00:45:12,042
+<c.thai><c.bg_transparent>&lrm;สวมหมวกกันน็อกสิวะ</c.bg_transparent></c.thai>  661 
+
+661
+00:45:12,126 --> 00:45:13,419
+<c.thai><c.bg_transparent>&lrm;พูดเรื่องอะไรของนาย</c.bg_transparent></c.thai>  662 
+
+662
+00:46:14,480 --> 00:46:15,355
+<c.thai><c.bg_transparent>&lrm;สวัสดี</c.bg_transparent></c.thai>  663 
+
+663
+00:46:53,393 --> 00:46:54,645
+<c.thai><c.bg_transparent>&lrm;เฮ้ยๆ</c.bg_transparent></c.thai>  664 
+
+664
+00:46:54,728 --> 00:46:55,813
+<c.thai><c.bg_transparent>&lrm;โทษที</c.bg_transparent></c.thai>  665 
+
+665
+00:46:56,647 --> 00:46:57,815
+<c.thai><c.bg_transparent>&lrm;ไม่ได้ตั้งใจทำให้กลัว</c.bg_transparent></c.thai>  666 
+
+666
+00:46:59,149 --> 00:46:59,983
+<c.thai><c.bg_transparent>&lrm;ไหวไหมเนี่ย</c.bg_transparent></c.thai>  667 
+
+667
+00:47:13,997 --> 00:47:16,542
+<c.thai><c.bg_transparent>&lrm;ไม่ต้องห่วงหรอก โอเคไหม</c.bg_transparent></c.thai>  668 
+
+668
+00:47:16,625 --> 00:47:18,293
+<c.thai><c.bg_transparent>&lrm;ไม่มีใครออกมาแถวนี้กันหรอก</c.bg_transparent></c.thai>  669 
+
+669
+00:47:19,169 --> 00:47:20,003
+<c.thai><c.bg_transparent>&lrm;เราปลอดภัย</c.bg_transparent></c.thai>  670 
+
+670
+00:47:22,130 --> 00:47:23,048
+<c.thai><c.bg_transparent>&lrm;ฉันสัญญา</c.bg_transparent></c.thai>  671 
+
+671
+00:47:27,886 --> 00:47:31,098
+<c.thai><c.bg_transparent>&lrm;แล้วนี่ต้องทำยังไงเหรอ</c.bg_transparent></c.thai>  672 
+
+672
+00:47:31,640 --> 00:47:34,643
+<c.thai><c.bg_transparent>&lrm;ก็เหมือนการซื้อขายทั่วไป ยกเว้น</c.bg_transparent></c.thai>  673 
+
+673
+00:47:35,269 --> 00:47:38,105
+<c.thai><c.bg_transparent>&lrm;จ่ายเงินสดเท่านั้น และแน่นอนว่า</c.bg_transparent></c.thai>  674 
+
+674
+00:47:38,730 --> 00:47:39,898
+<c.thai><c.bg_transparent>&lrm;ไม่ออกใบเสร็จ</c.bg_transparent></c.thai>  675 
+
+675
+00:47:42,192 --> 00:47:46,154
+<c.thai><c.bg_transparent>&lrm;ฉันขายครึ่งออนซ์ให้สัก… 20 ดอลลาร์ ไหวไหม</c.bg_transparent></c.thai>  676 
+
+676
+00:47:46,238 --> 00:47:48,615
+<c.thai><c.bg_transparent>&lrm;คุ้มค่าราคา น่าจะดูดได้ไปอีกนาน</c.bg_transparent></c.thai>  677 
+
+677
+00:47:52,119 --> 00:47:53,829
+<c.thai><c.bg_transparent>&lrm;นี่ ไม่ต้องซื้อก็ได้นะ</c.bg_transparent></c.thai>  678 
+
+678
+00:47:53,912 --> 00:47:56,039
+<c.thai><c.bg_transparent>&lrm;แค่บอกมาแล้วฉันจะไปเดี๋ยวนี้</c.bg_transparent></c.thai>  679 
+
+679
+00:47:56,123 --> 00:47:58,500
+<c.thai><c.bg_transparent>&lrm;- โอเคนะ</c.bg_transparent> <c.bg_transparent>&lrm;- ไม่ใช่แบบนั้น ฉันไม่อยากให้นายไป</c.bg_transparent></c.thai>  680 
+
+680
+00:47:59,793 --> 00:48:00,711
+<c.thai><c.bg_transparent>&lrm;ก็แค่…</c.bg_transparent></c.thai>  681 
+
+681
+00:48:02,004 --> 00:48:03,589
+<c.thai><c.bg_transparent>&lrm;นายเคยรู้สึกเหมือน</c.bg_transparent></c.thai>  682 
+
+682
+00:48:04,715 --> 00:48:06,300
+<c.thai><c.bg_transparent>&lrm;ตัวเองกำลังเสียสติมะ</c.bg_transparent></c.thai>  683 
+
+683
+00:48:10,888 --> 00:48:12,306
+<c.thai><c.bg_transparent>&lrm;ก็แบบ</c.bg_transparent></c.thai>  684 
+
+684
+00:48:13,098 --> 00:48:14,725
+<c.thai><c.bg_transparent>&lrm;แค่เป็นประจำทุกวัน</c.bg_transparent></c.thai>  685 
+
+685
+00:48:15,434 --> 00:48:17,519
+<c.thai><c.bg_transparent>&lrm;ตอนนี้ก็รู้สึกว่ากำลังเสียสติ</c.bg_transparent></c.thai>  686 
+
+686
+00:48:17,603 --> 00:48:20,731
+<c.thai><c.bg_transparent>&lrm;เพราะได้มาขายยาให้กับคริสซี่ คันนิงแฮม</c.bg_transparent></c.thai>  687 
+
+687
+00:48:20,814 --> 00:48:23,317
+<c.thai><c.bg_transparent>&lrm;ราชินีแห่งโรงเรียนมัธยมปลายฮอว์กินส์</c.bg_transparent></c.thai>  688 
+
+688
+00:48:27,487 --> 00:48:30,324
+<c.thai><c.bg_transparent>&lrm;นี่ไม่ใช่ครั้งแรกที่เรา…</c.bg_transparent></c.thai>  689 
+
+689
+00:48:31,366 --> 00:48:32,200
+<c.thai><c.bg_transparent>&lrm;อยู่ด้วยกัน</c.bg_transparent></c.thai>  690 
+
+690
+00:48:32,284 --> 00:48:33,160
+<c.thai><c.bg_transparent>&lrm;เหรอ</c.bg_transparent></c.thai>  691 
+
+691
+00:48:33,243 --> 00:48:34,411
+<c.thai><c.bg_transparent>&lrm;จำไม่ได้เหรอ</c.bg_transparent></c.thai>  692 
+
+692
+00:48:34,494 --> 00:48:35,704
+<c.thai><c.bg_transparent>&lrm;ฉันขอโทษ ฉัน…</c.bg_transparent></c.thai>  693 
+
+693
+00:48:35,787 --> 00:48:36,622
+<c.thai><c.bg_transparent>&lrm;ไม่เป็นไร</c.bg_transparent></c.thai>  694 
+
+694
+00:48:39,583 --> 00:48:41,835
+<c.thai><c.bg_transparent>&lrm;เป็นฉันก็คงจำฉันไม่ได้เหมือนกัน คริสซี่</c.bg_transparent></c.thai>  695 
+
+695
+00:48:41,919 --> 00:48:44,504
+<c.thai><c.bg_transparent>&lrm;บอกตรงๆ ฉันมีอะไรติดผมเหรอ</c.bg_transparent></c.thai>  696 
+
+696
+00:48:46,131 --> 00:48:47,507
+<c.thai><c.bg_transparent>&lrm;จำกันไม่ได้เลยเหรอ</c.bg_transparent></c.thai>  697 
+
+697
+00:48:47,591 --> 00:48:48,926
+<c.thai><c.bg_transparent>&lrm;ฉันขอโทษ</c.bg_transparent></c.thai>  698 
+
+698
+00:48:49,009 --> 00:48:50,761
+<c.thai><c.bg_transparent>&lrm;มัธยมต้น ประกวดความสามารถพิเศษ</c.bg_transparent></c.thai>  699 
+
+699
+00:48:50,844 --> 00:48:52,638
+<c.thai><c.bg_transparent>&lrm;เธอขึ้นไปเต้นเชียร์</c.bg_transparent></c.thai>  700 
+
+700
+00:48:52,721 --> 00:48:55,641
+<c.thai><c.bg_transparent>&lrm;ไอ้นั่นน่ะ ที่เธอทำ</c.bg_transparent></c.thai>  701 
+
+701
+00:48:55,724 --> 00:48:57,309
+<c.thai><c.bg_transparent>&lrm;ที่จริงมันก็เจ๋งดีนะ</c.bg_transparent></c.thai>  702 
+
+702
+00:48:57,392 --> 00:48:58,727
+<c.thai><c.bg_transparent>&lrm;ส่วนฉัน…</c.bg_transparent></c.thai>  703 
+
+703
+00:48:59,227 --> 00:49:01,104
+<c.thai><c.bg_transparent>&lrm;- ฉันขึ้นไปกับวง</c.bg_transparent> <c.bg_transparent>&lrm;- วงโลงศพผุพัง</c.bg_transparent></c.thai>  704 
+
+704
+00:49:01,188 --> 00:49:03,607
+<c.thai><c.bg_transparent>&lrm;- โลงศพ… เธอจำได้</c.bg_transparent> <c.bg_transparent>&lrm;- ตายแล้ว จำได้สิ</c.bg_transparent></c.thai>  705 
+
+705
+00:49:03,690 --> 00:49:05,400
+<c.thai><c.bg_transparent>&lrm;ใครจะลืมชื่อแบบนั้นได้ล่ะ</c.bg_transparent></c.thai>  706 
+
+706
+00:49:05,484 --> 00:49:06,693
+<c.thai><c.bg_transparent>&lrm;ไม่รู้สิ เธอมันประหลาดนี่</c.bg_transparent></c.thai>  707 
+
+707
+00:49:08,403 --> 00:49:09,488
+<c.thai><c.bg_transparent>&lrm;ไม่ใช่ นาย…</c.bg_transparent></c.thai>  708 
+
+708
+00:49:10,614 --> 00:49:11,865
+<c.thai><c.bg_transparent>&lrm;- นายดู…</c.bg_transparent> <c.bg_transparent>&lrm;- เปลี่ยนไปเหรอ</c.bg_transparent></c.thai>  709 
+
+709
+00:49:11,949 --> 00:49:14,576
+<c.thai><c.bg_transparent>&lrm;ใช่ สมัยนั้นผมเกรียน</c.bg_transparent></c.thai>  710 
+
+710
+00:49:14,660 --> 00:49:17,746
+<c.thai><c.bg_transparent>&lrm;และยังไม่ได้สักลายแจ่มๆ เหมือนตอนนี้</c.bg_transparent></c.thai>  711 
+
+711
+00:49:17,829 --> 00:49:19,456
+<c.thai><c.bg_transparent>&lrm;นายเล่นกีตาร์ใช่ไหม</c.bg_transparent></c.thai>  712 
+
+712
+00:49:19,539 --> 00:49:21,875
+<c.thai><c.bg_transparent>&lrm;ยังเล่นอยู่</c.bg_transparent></c.thai>  713 
+
+713
+00:49:22,459 --> 00:49:23,669
+<c.thai><c.bg_transparent>&lrm;มาดูเราแสดงสิ</c.bg_transparent></c.thai>  714 
+
+714
+00:49:23,752 --> 00:49:26,213
+<c.thai><c.bg_transparent>&lrm;เราแสดงที่เดอะไฮด์เอาต์ทุกวันอังคาร</c.bg_transparent></c.thai>  715 
+
+715
+00:49:26,296 --> 00:49:29,257
+<c.thai><c.bg_transparent>&lrm;เจ๋งดีนะ ที่จริงคนดูเยอะมาก</c.bg_transparent></c.thai>  716 
+
+716
+00:49:29,341 --> 00:49:31,551
+<c.thai><c.bg_transparent>&lrm;มีคนเมาประมาณห้าคน</c.bg_transparent></c.thai>  717 
+
+717
+00:49:32,803 --> 00:49:36,932
+<c.thai><c.bg_transparent>&lrm;ไม่ยิ่งใหญ่เท่าเมดิสันสแควร์การ์เด้น</c.bg_transparent> <c.bg_transparent>&lrm;แต่คนเราต้องมีจุดเริ่มต้นเนอะ</c.bg_transparent></c.thai>  718 
+
+718
+00:49:38,350 --> 00:49:41,144
+<c.thai><c.bg_transparent>&lrm;รู้ไหม นายไม่เหมือนที่ฉันนึกไว้เลย</c.bg_transparent></c.thai>  719 
+
+719
+00:49:41,228 --> 00:49:43,313
+<c.thai><c.bg_transparent>&lrm;- ใจร้ายและน่ากลัวเหรอ</c.bg_transparent> <c.bg_transparent>&lrm;- ใช่</c.bg_transparent></c.thai>  720 
+
+720
+00:49:43,397 --> 00:49:48,485
+<c.thai><c.bg_transparent>&lrm;อือ ที่จริงฉันก็คิดว่า</c.bg_transparent> <c.bg_transparent>&lrm;เธอจะใจร้ายและน่ากลัวเหมือนกัน</c.bg_transparent></c.thai>  721 
+
+721
+00:49:48,568 --> 00:49:49,403
+<c.thai><c.bg_transparent>&lrm;ฉันเนี่ยนะ</c.bg_transparent></c.thai>  722 
+
+722
+00:49:49,486 --> 00:49:50,529
+<c.thai><c.bg_transparent>&lrm;น่าสะพรึงกลัว</c.bg_transparent></c.thai>  723 
+
+723
+00:49:51,655 --> 00:49:52,614
+<c.thai><c.bg_transparent>&lrm;งั้น</c.bg_transparent></c.thai>  724 
+
+724
+00:49:53,490 --> 00:49:57,369
+<c.thai><c.bg_transparent>&lrm;ข่าวดีอีกข้อคือคำชมใช้กับฉันได้ผล เพราะงั้น…</c.bg_transparent></c.thai>  725 
+
+725
+00:49:58,495 --> 00:50:01,164
+<c.thai><c.bg_transparent>&lrm;ครึ่งออนซ์นี้ลดราคาให้ 25%</c.bg_transparent></c.thai>  726 
+
+726
+00:50:01,915 --> 00:50:05,627
+<c.thai><c.bg_transparent>&lrm;สิบห้าดอลลาร์ ขอบอก</c.bg_transparent> <c.bg_transparent>&lrm;ขายราคานี้ขาดทุนย่อยยับ</c.bg_transparent></c.thai>  727 
+
+727
+00:50:10,382 --> 00:50:11,758
+<c.thai><c.bg_transparent>&lrm;นายมีของ</c.bg_transparent></c.thai>  728 
+
+728
+00:50:13,051 --> 00:50:14,011
+<c.thai><c.bg_transparent>&lrm;ที่แบบ</c.bg_transparent></c.thai>  729 
+
+729
+00:50:15,178 --> 00:50:16,263
+<c.thai><c.bg_transparent>&lrm;แรงกว่านี้มั้ย</c.bg_transparent></c.thai>  730 
+
+730
+00:50:22,644 --> 00:50:23,895
+<c.thai><c.bg_transparent>&lrm;เก่งมากเคท</c.bg_transparent></c.thai>  731 
+
+731
+00:50:24,438 --> 00:50:26,773
+<c.thai><c.bg_transparent>&lrm;เยี่ยมมากพอล คะแนนดีขึ้นเยอะ</c.bg_transparent></c.thai>  732 
+
+732
+00:50:27,941 --> 00:50:28,900
+<c.thai><c.bg_transparent>&lrm;(สอบตก)</c.bg_transparent></c.thai>  733 
+
+733
+00:50:28,984 --> 00:50:30,819
+<c.thai><c.bg_transparent>&lrm;ครูผิดหวังมากนะเจน</c.bg_transparent></c.thai>  734 
+
+734
+00:50:30,902 --> 00:50:32,696
+<c.thai><c.bg_transparent>&lrm;เปิดเทอมมาคุยกับครูด้วย</c.bg_transparent></c.thai>  735 
+
+735
+00:50:45,834 --> 00:50:48,420
+<c.thai><c.bg_transparent>&lrm;(ทีมอีเกิ้ล)</c.bg_transparent></c.thai>  736 
+
+736
+00:50:54,217 --> 00:50:55,886
+<c.thai><c.bg_transparent>&lrm;อุ๊ยตาย</c.bg_transparent></c.thai>  737 
+
+737
+00:50:56,887 --> 00:50:59,139
+<c.thai><c.bg_transparent>&lrm;ขอโทษจริงๆ</c.bg_transparent></c.thai>  738 
+
+738
+00:50:59,222 --> 00:51:01,808
+<c.thai><c.bg_transparent>&lrm;หวังว่ามิสเตอร์ฟิบบลี่จะไม่เจ็บนะ</c.bg_transparent></c.thai>  739 
+
+739
+00:51:18,742 --> 00:51:19,701
+<c.thai><c.bg_transparent>&lrm;พระเจ้า</c.bg_transparent></c.thai>  740 
+
+740
+00:51:28,168 --> 00:51:29,252
+<c.thai><c.bg_transparent>&lrm;แองเจล่า!</c.bg_transparent></c.thai>  741 
+
+741
+00:51:41,473 --> 00:51:42,849
+<c.thai><c.bg_transparent>&lrm;ว้ายตาย</c.bg_transparent></c.thai>  742 
+
+742
+00:51:42,933 --> 00:51:44,643
+<c.thai><c.bg_transparent>&lrm;ทำบ้าอะไรของเธอยะ</c.bg_transparent></c.thai>  743 
+
+743
+00:51:52,484 --> 00:51:54,736
+<c.thai><c.bg_transparent>&lrm;นี่!</c.bg_transparent></c.thai>  744 
+
+744
+00:51:54,820 --> 00:51:56,863
+<c.thai><c.bg_transparent>&lrm;นี่ มีเรื่องอะไรกัน</c.bg_transparent></c.thai>  745 
+
+745
+00:51:56,947 --> 00:51:58,490
+<c.thai><c.bg_transparent>&lrm;เกิดอะไรขึ้น เจน</c.bg_transparent></c.thai>  746 
+
+746
+00:51:59,199 --> 00:52:00,033
+<c.thai><c.bg_transparent>&lrm;เจน</c.bg_transparent></c.thai>  747 
+
+747
+00:52:00,867 --> 00:52:02,119
+<c.thai><c.bg_transparent>&lrm;โดนเพื่อนแกล้งหรือเปล่า</c.bg_transparent></c.thai>  748 
+
+748
+00:52:04,746 --> 00:52:05,705
+<c.thai><c.bg_transparent>&lrm;หนูสะดุดล้ม</c.bg_transparent></c.thai>  749 
+
+749
+00:52:09,292 --> 00:52:10,502
+<c.thai><c.bg_transparent>&lrm;มันเป็นแค่อุบัติเหตุค่ะ</c.bg_transparent></c.thai>  750 
+
+750
+00:52:11,795 --> 00:52:13,922
+<c.thai><c.bg_transparent>&lrm;โอเคแองเจล่า มากับครูเดี๋ยวนี้</c.bg_transparent></c.thai>  751 
+
+751
+00:52:14,673 --> 00:52:16,049
+<c.thai><c.bg_transparent>&lrm;อะไร ทำไมล่ะ</c.bg_transparent></c.thai>  752 
+
+752
+00:52:16,133 --> 00:52:17,134
+<c.thai><c.bg_transparent>&lrm;ไป</c.bg_transparent></c.thai>  753 
+
+753
+00:52:17,217 --> 00:52:20,887
+<c.thai><c.bg_transparent>&lrm;หนูไม่ได้ทำอะไรซะหน่อย</c.bg_transparent> <c.bg_transparent>&lrm;บอกครูสิเจน บอกครูไปสิ!</c.bg_transparent></c.thai>  754 
+
+754
+00:52:27,269 --> 00:52:29,521
+<c.thai><c.bg_transparent>&lrm;บ้าเอ๊ย แอล</c.bg_transparent></c.thai>  755 
+
+755
+00:52:30,063 --> 00:52:31,314
+<c.thai><c.bg_transparent>&lrm;โธ่เอ๊ย</c.bg_transparent></c.thai>  756 
+
+756
+00:52:33,024 --> 00:52:34,025
+<c.thai><c.bg_transparent>&lrm;แอล</c.bg_transparent></c.thai>  757 
+
+757
+00:52:34,901 --> 00:52:36,319
+<c.thai><c.bg_transparent>&lrm;ฉันขอโทษนะ</c.bg_transparent></c.thai>  758 
+
+758
+00:52:37,696 --> 00:52:38,947
+<c.thai><c.bg_transparent>&lrm;ทุกอย่างจะโอเค</c.bg_transparent></c.thai>  759 
+
+759
+00:52:39,739 --> 00:52:41,408
+<c.thai><c.bg_transparent>&lrm;ก็ไม่ได้เสียหายเท่าไรนะ</c.bg_transparent></c.thai>  760 
+
+760
+00:52:42,367 --> 00:52:44,327
+<c.thai><c.bg_transparent>&lrm;เราจะซ่อมมันด้วยกันนะ</c.bg_transparent></c.thai>  761 
+
+761
+00:52:46,037 --> 00:52:47,581
+<c.thai><c.bg_transparent>&lrm;โอเคนะ โธ่เว้ย</c.bg_transparent></c.thai>  762 
+
+762
+00:53:10,854 --> 00:53:12,314
+<c.thai><c.bg_transparent>&lrm;มาเร็วเด็กๆ</c.bg_transparent></c.thai>  763 
+
+763
+00:53:12,397 --> 00:53:13,356
+<c.thai><c.bg_transparent>&lrm;อย่าไปจ้อง</c.bg_transparent></c.thai>  764 
+
+764
+00:53:13,440 --> 00:53:14,774
+<c.thai><c.bg_transparent>&lrm;สวัสดีค่ะ</c.bg_transparent></c.thai>  765 
+
+765
+00:53:15,275 --> 00:53:17,068
+<c.thai><c.bg_transparent>&lrm;แม่ขา เขาทำอะไรเหรอคะ</c.bg_transparent></c.thai>  766 
+
+766
+00:53:17,986 --> 00:53:19,613
+<c.thai><c.bg_transparent>&lrm;จำเป็นต้องทำขั้นนี้ด้วยเหรอ</c.bg_transparent></c.thai>  767 
+
+767
+00:53:19,696 --> 00:53:23,533
+<c.thai><c.bg_transparent>&lrm;ถ้าตุ๊กตากระเบื้องตัวนั้น</c.bg_transparent> <c.bg_transparent>&lrm;กำลังท้องลูกระเบิดอยู่ละก็</c.bg_transparent></c.thai>  768 
+
+768
+00:53:23,617 --> 00:53:25,660
+<c.thai><c.bg_transparent>&lrm;เธอได้ขอบใจฉันแน่</c.bg_transparent></c.thai>  769 
+
+769
+00:53:25,744 --> 00:53:28,830
+<c.thai><c.bg_transparent>&lrm;และจำไว้นะ อย่าหย่อนถังใบนั้น</c.bg_transparent></c.thai>  770 
+
+770
+00:53:28,914 --> 00:53:31,041
+<c.thai><c.bg_transparent>&lrm;- แต่ให้…</c.bg_transparent> <c.bg_transparent>&lrm;- ปล่อยมัน เข้าใจแล้ว</c.bg_transparent></c.thai>  771 
+
+771
+00:53:31,124 --> 00:53:34,085
+<c.thai><c.bg_transparent>&lrm;เราต้องทำลายตุ๊กตาให้สิ้นซาก</c.bg_transparent></c.thai>  772 
+
+772
+00:53:34,169 --> 00:53:36,880
+<c.thai><c.bg_transparent>&lrm;โดยใช้แรงให้มากที่สุด</c.bg_transparent></c.thai>  773 
+
+773
+00:53:36,963 --> 00:53:38,215
+<c.thai><c.bg_transparent>&lrm;เออ เข้าใจแล้ว</c.bg_transparent></c.thai>  774 
+
+774
+00:53:39,007 --> 00:53:40,300
+<c.thai><c.bg_transparent>&lrm;อีกอย่างนึง</c.bg_transparent></c.thai>  775 
+
+775
+00:53:40,926 --> 00:53:44,763
+<c.thai><c.bg_transparent>&lrm;จอยซ์ ยังอยู่ไหม ตอบหน่อยสิจอยซ์!</c.bg_transparent></c.thai>  776 
+
+776
+00:53:44,846 --> 00:53:47,307
+<c.thai><c.bg_transparent>&lrm;จอยซ์!</c.bg_transparent></c.thai>  777 
+
+777
+00:53:47,390 --> 00:53:49,267
+<c.thai><c.bg_transparent>&lrm;- จอยซ์!</c.bg_transparent> <c.bg_transparent>&lrm;- อะไร</c.bg_transparent></c.thai>  778 
+
+778
+00:53:50,602 --> 00:53:51,519
+<c.thai><c.bg_transparent>&lrm;เกิดอะไรขึ้น</c.bg_transparent></c.thai>  779 
+
+779
+00:53:51,603 --> 00:53:52,896
+<c.thai><c.bg_transparent>&lrm;มันแตก</c.bg_transparent></c.thai>  780 
+
+780
+00:53:53,563 --> 00:53:55,106
+<c.thai><c.bg_transparent>&lrm;เห็นเครื่องดักฟังไหม</c.bg_transparent></c.thai>  781 
+
+781
+00:53:55,190 --> 00:53:56,316
+<c.thai><c.bg_transparent>&lrm;มีสายไฟอะไรไหม</c.bg_transparent></c.thai>  782 
+
+782
+00:53:56,399 --> 00:53:59,778
+<c.thai><c.bg_transparent>&lrm;หรืออะไรก็ได้ที่ดูไม่เหมือนเครื่องในตุ๊กตา</c.bg_transparent></c.thai>  783 
+
+783
+00:53:59,861 --> 00:54:01,071
+<c.thai><c.bg_transparent>&lrm;เห็นอะไรแบบนั้นบ้างไหม</c.bg_transparent></c.thai>  784 
+
+784
+00:54:01,821 --> 00:54:05,200
+<c.thai><c.bg_transparent>&lrm;จอยซ์ หายไปไหน ไปไหนแล้วเนี่ย</c.bg_transparent></c.thai>  785 
+
+785
+00:54:05,283 --> 00:54:07,661
+<c.thai><c.bg_transparent>&lrm;ทำไมไม่ยอมตอบอีกแล้ว</c.bg_transparent></c.thai>  786 
+
+786
+00:54:08,787 --> 00:54:09,788
+<c.thai><c.bg_transparent>&lrm;จอยซ์!</c.bg_transparent></c.thai>  787 
+
+787
+00:54:11,289 --> 00:54:13,583
+<c.thai><c.bg_transparent>&lrm;(ฮ็อปยังไม่ตาย!)</c.bg_transparent></c.thai>  788 
+
+788
+00:54:16,086 --> 00:54:17,170
+<c.thai><c.bg_transparent>&lrm;คุณพระ</c.bg_transparent></c.thai>  789 
+
+789
+00:54:24,844 --> 00:54:27,013
+<c.thai><c.bg_transparent>&lrm;(โฮก)</c.bg_transparent></c.thai>  790 
+
+790
+00:54:28,139 --> 00:54:29,933
+<c.thai><c.bg_transparent>&lrm;ไทเกอร์สู้ๆ</c.bg_transparent></c.thai>  791 
+
+791
+00:54:31,893 --> 00:54:33,895
+<c.thai><c.bg_transparent>&lrm;ไทเกอร์สู้ตาย</c.bg_transparent></c.thai>  792 
+
+792
+00:54:37,816 --> 00:54:42,612
+<c.thai><c.bg_transparent>&lrm;(ม.ปลายฮอว์กินส์ยืนหนึ่ง</c.bg_transparent> <c.bg_transparent>&lrm;ทีมไทเกอร์ภาคภูมิใจ)</c.bg_transparent></c.thai>  793 
+
+793
+00:54:43,697 --> 00:54:45,282
+<c.thai><c.bg_transparent>&lrm;นายรำคาญไหมที่แบบว่า</c.bg_transparent></c.thai>  794 
+
+794
+00:54:45,365 --> 00:54:48,118
+<c.thai><c.bg_transparent>&lrm;เราอาจได้ตำแหน่งแชมป์</c.bg_transparent> <c.bg_transparent>&lrm;หลังนายเพิ่งเรียนจบไปหมาดๆ</c.bg_transparent></c.thai>  795 
+
+795
+00:54:48,201 --> 00:54:50,036
+<c.thai><c.bg_transparent>&lrm;ใช่ เป็นประเด็นที่น่าสนใจ</c.bg_transparent></c.thai>  796 
+
+796
+00:54:50,120 --> 00:54:52,831
+<c.thai><c.bg_transparent>&lrm;ขอบใจมากที่พูดถึงนะเบรนด้า</c.bg_transparent></c.thai>  797 
+
+797
+00:54:58,795 --> 00:55:01,631
+<c.thai><c.bg_transparent>&lrm;ทุกคนกรุณาลุกขึ้นยืนเคารพเพลงชาติ</c.bg_transparent></c.thai>  798 
+
+798
+00:55:03,967 --> 00:55:07,053
+<c.thai><c.bg_transparent>&lrm;คืนนี้จะมีแขกคนพิเศษมาร้องเพลงให้กับเรา</c.bg_transparent></c.thai>  799 
+
+799
+00:55:07,137 --> 00:55:09,514
+<c.thai><c.bg_transparent>&lrm;เดินทางมาไกลจากแนชวิลล์</c.bg_transparent></c.thai>  800 
+
+800
+00:55:09,597 --> 00:55:13,727
+<c.thai><c.bg_transparent>&lrm;แทมมี่ ทอมป์สันของเราเอง!</c.bg_transparent></c.thai>  801 
+
+801
+00:55:20,900 --> 00:55:22,152
+<c.thai><c.bg_transparent>&lrm;แทมมี่!</c.bg_transparent></c.thai>  802 
+
+802
+00:55:26,489 --> 00:55:28,033
+<c.thai><c.bg_transparent>&lrm;เรารักเธอ แทมมี่!</c.bg_transparent></c.thai>  803 
+
+803
+00:55:32,579 --> 00:55:39,002
+<c.thai><c.bg_transparent>&lrm;โอ้ ดูสิ เห็นไหม</c.bg_transparent></c.thai>  804 
+
+804
+00:55:40,337 --> 00:55:44,049
+<c.thai><c.bg_transparent>&lrm;แสงไสวยามรุ่งอรุณ…</c.bg_transparent></c.thai>  805 
+
+805
+00:55:44,132 --> 00:55:45,091
+<c.thai><c.bg_transparent>&lrm;บอกแล้วไง</c.bg_transparent></c.thai>  806 
+
+806
+00:55:45,884 --> 00:55:46,760
+<c.thai><c.bg_transparent>&lrm;มัพเพ็ต</c.bg_transparent></c.thai>  807 
+
+807
+00:55:47,427 --> 00:55:49,346
+<c.thai><c.bg_transparent>&lrm;เชื่อแล้ว เสียงเหมือนมัพเพ็ตจริงๆ</c.bg_transparent></c.thai>  808 
+
+808
+00:55:49,429 --> 00:55:50,889
+<c.thai><c.bg_transparent>&lrm;พระเจ้า เหมือนสุดๆ</c.bg_transparent></c.thai>  809 
+
+809
+00:55:50,972 --> 00:55:52,349
+<c.thai><c.bg_transparent>&lrm;เหมือนกบเคอร์มิท</c.bg_transparent></c.thai>  810 
+
+810
+00:55:52,432 --> 00:55:54,351
+<c.thai><c.bg_transparent>&lrm;ฉันว่าเหมือนมิสพิกกี้มากกว่า</c.bg_transparent></c.thai>  811 
+
+811
+00:55:56,519 --> 00:55:59,147
+<c.thai><c.bg_transparent>&lrm;ฉันเคยคิดว่านางเสียงดี</c.bg_transparent> <c.bg_transparent>&lrm;เพราะเคยแอบชอบแบบโคตร…</c.bg_transparent></c.thai>  812 
+
+812
+00:55:59,230 --> 00:56:00,440
+<c.thai><c.bg_transparent>&lrm;ว่าไงนะ</c.bg_transparent></c.thai>  813 
+
+813
+00:56:01,649 --> 00:56:04,819
+<c.thai><c.bg_transparent>&lrm;เราเคยเรียนวิชาที่ยากโคตรๆ ด้วยกัน</c.bg_transparent></c.thai>  814 
+
+814
+00:56:04,903 --> 00:56:07,739
+<c.thai><c.bg_transparent>&lrm;เราเรียนวิชาของครูคลิกด้วยกัน</c.bg_transparent></c.thai>  815 
+
+815
+00:56:08,365 --> 00:56:09,240
+<c.thai><c.bg_transparent>&lrm;อืม</c.bg_transparent></c.thai>  816 
+
+816
+00:56:11,409 --> 00:56:13,787
+<c.thai><c.bg_transparent>&lrm;- โทษที เมื่อกี้ถามอะไรหรือเปล่า</c.bg_transparent> <c.bg_transparent>&lrm;- เปล่า</c.bg_transparent></c.thai>  817 
+
+817
+00:56:13,870 --> 00:56:15,163
+<c.thai><c.bg_transparent>&lrm;อ๋อ โอเค</c.bg_transparent></c.thai>  818 
+
+818
+00:56:18,917 --> 00:56:22,379
+<c.thai><c.bg_transparent>&lrm;ว้าว เสียงดีเว่อร์มากเลยเนอะ</c.bg_transparent></c.thai>  819 
+
+819
+00:56:23,505 --> 00:56:28,093
+<c.thai><c.bg_transparent>&lrm;ไฟจรวดสว่างวาบ</c.bg_transparent></c.thai>  820 
+
+820
+00:56:28,176 --> 00:56:33,473
+<c.thai><c.bg_transparent>&lrm;ระเบิดราบในนภากาศ</c.bg_transparent></c.thai>  821 
+
+821
+00:56:34,224 --> 00:56:38,895
+<c.thai><c.bg_transparent>&lrm;พิสูจน์ว่าข้ามคืนนี้</c.bg_transparent></c.thai>  822 
+
+822
+00:56:38,978 --> 00:56:43,483
+<c.thai><c.bg_transparent>&lrm;ธงชาติเรายังคงอยู่</c.bg_transparent></c.thai>  823 
+
+823
+00:56:43,566 --> 00:56:49,197
+<c.thai><c.bg_transparent>&lrm;โอ้ ผืนธงดาราโบกสะบัด…</c.bg_transparent></c.thai>  824 
+
+824
+00:57:19,853 --> 00:57:21,104
+<c.thai><c.bg_transparent>&lrm;ไม่ได้เด็ดขาด</c.bg_transparent></c.thai>  825 
+
+825
+00:57:21,187 --> 00:57:23,606
+<c.thai><c.bg_transparent>&lrm;นายบอกให้หาคนมาแทน ก็นี่ไง</c.bg_transparent></c.thai>  826 
+
+826
+00:57:23,690 --> 00:57:26,860
+<c.thai><c.bg_transparent>&lrm;นี่ชมรมเฮลไฟร์ ไม่ใช่ชมรมเลี้ยงเด็ก</c.bg_transparent></c.thai>  827 
+
+827
+00:57:26,943 --> 00:57:29,237
+<c.thai><c.bg_transparent>&lrm;นี่อายุ 11 แล้วพี่ห้าวขาร็อค</c.bg_transparent></c.thai>  828 
+
+828
+00:57:29,320 --> 00:57:31,906
+<c.thai><c.bg_transparent>&lrm;ต๊ายตาย เด็กมันพูดได้วุ้ย</c.bg_transparent></c.thai>  829 
+
+829
+00:57:34,367 --> 00:57:37,871
+<c.thai><c.bg_transparent>&lrm;บอกมา ชื่ออะไรเหรอหนูน้อย</c.bg_transparent></c.thai>  830 
+
+830
+00:57:37,954 --> 00:57:39,289
+<c.thai><c.bg_transparent>&lrm;เอริก้า ซินแคลร์</c.bg_transparent></c.thai>  831 
+
+831
+00:57:41,207 --> 00:57:44,210
+<c.thai><c.bg_transparent>&lrm;นี่สินะน้องสาวคนดังของซินแคลร์</c.bg_transparent></c.thai>  832 
+
+832
+00:57:45,211 --> 00:57:46,463
+<c.thai><c.bg_transparent>&lrm;แสนรู้จัง</c.bg_transparent></c.thai>  833 
+
+833
+00:57:48,756 --> 00:57:50,091
+<c.thai><c.bg_transparent>&lrm;เธออยู่คลาสไหนเลเวลไหน</c.bg_transparent></c.thai>  834 
+
+834
+00:57:50,175 --> 00:57:51,342
+<c.thai><c.bg_transparent>&lrm;คนแคระเลเวลหนึ่งเหรอ</c.bg_transparent></c.thai>  835 
+
+835
+00:57:55,013 --> 00:57:56,931
+<c.thai><c.bg_transparent>&lrm;ฉันชื่อเลดี้แอปเปิ้ลแจ็ค</c.bg_transparent></c.thai>  836 
+
+836
+00:57:57,015 --> 00:57:59,934
+<c.thai><c.bg_transparent>&lrm;ฉันเป็นตัวดีอิสระ</c.bg_transparent> <c.bg_transparent>&lrm;ลูกครึ่งเอลฟ์จรจัด เลเวล 14</c.bg_transparent></c.thai>  837 
+
+837
+00:58:00,018 --> 00:58:02,437
+<c.thai><c.bg_transparent>&lrm;และฉันจะย่องผ่านอสูรทุกตัวที่นายเอามาสู้</c.bg_transparent></c.thai>  838 
+
+838
+00:58:02,520 --> 00:58:05,273
+<c.thai><c.bg_transparent>&lrm;แล้วแทงข้างหลังมันด้วยมีดคูครีอาบยาพิษ</c.bg_transparent></c.thai>  839 
+
+839
+00:58:05,356 --> 00:58:07,901
+<c.thai><c.bg_transparent>&lrm;และฉันจะยิ้มเยาะระหว่างที่ดูมันตาย</c.bg_transparent></c.thai>  840 
+
+840
+00:58:07,984 --> 00:58:10,278
+<c.thai><c.bg_transparent>&lrm;อย่างช้าๆ และทุกข์ทรมาน</c.bg_transparent></c.thai>  841 
+
+841
+00:58:10,361 --> 00:58:11,905
+<c.thai><c.bg_transparent>&lrm;แล้วสรุปเราจะเล่นเกม</c.bg_transparent></c.thai>  842 
+
+842
+00:58:11,988 --> 00:58:15,283
+<c.thai><c.bg_transparent>&lrm;หรือจะเจ๊าะแจ๊ะไปเรื่อยๆ</c.bg_transparent> <c.bg_transparent>&lrm;เหมือนชมรมอ่านหนังสือของแม่นาย</c.bg_transparent></c.thai>  843 
+
+843
+00:58:24,125 --> 00:58:25,585
+<c.thai><c.bg_transparent>&lrm;ขอต้อนรับสู่เฮลไฟร์</c.bg_transparent></c.thai>  844 
+
+844
+00:58:30,798 --> 00:58:32,509
+<c.thai><c.bg_transparent>&lrm;ป้องกันไว้</c.bg_transparent></c.thai>  845 
+
+845
+00:58:32,592 --> 00:58:33,885
+<c.thai><c.bg_transparent>&lrm;ดันกลับไป…</c.bg_transparent></c.thai>  846 
+
+846
+00:58:48,358 --> 00:58:50,818
+<c.thai><c.bg_transparent>&lrm;นี่ ประกบเอาไว้สิ</c.bg_transparent></c.thai>  847 
+
+847
+00:58:50,902 --> 00:58:52,570
+<c.thai><c.bg_transparent>&lrm;ไปประกบสิ เร็วๆ ไป!</c.bg_transparent></c.thai>  848 
+
+848
+00:58:55,114 --> 00:58:57,158
+<c.thai><c.bg_transparent>&lrm;ดูเหมือนจะมีแววใช้พาดหัวข่าวของฉัน</c.bg_transparent></c.thai>  849 
+
+849
+00:58:57,867 --> 00:59:01,079
+<c.thai><c.bg_transparent>&lrm;ชาวลัทธิสวมฮู้ดสวด…</c.bg_transparent></c.thai>  850 
+
+850
+00:59:02,455 --> 00:59:06,000
+<c.thai><c.bg_transparent>&lrm;"ลอร์ดเว็คนาจงเจริญ"</c.bg_transparent></c.thai>  851 
+
+851
+00:59:07,377 --> 00:59:11,130
+<c.thai><c.bg_transparent>&lrm;"ลอร์ดเว็คนาจงเจริญ"</c.bg_transparent></c.thai>  852 
+
+852
+00:59:11,714 --> 00:59:12,799
+<c.thai><c.bg_transparent>&lrm;พวกมันหันไปทางนาย</c.bg_transparent></c.thai>  853 
+
+853
+00:59:13,466 --> 00:59:15,385
+<c.thai><c.bg_transparent>&lrm;เปิดฮู้ดออก</c.bg_transparent></c.thai>  854 
+
+854
+00:59:16,135 --> 00:59:18,680
+<c.thai><c.bg_transparent>&lrm;นายจำหน้าคนส่วนใหญ่ได้จากที่มัคบาร์</c.bg_transparent></c.thai>  855 
+
+855
+00:59:19,222 --> 00:59:22,850
+<c.thai><c.bg_transparent>&lrm;แต่มีคนนึงที่ไม่เคยเจอมาก่อน</c.bg_transparent></c.thai>  856 
+
+856
+00:59:22,934 --> 00:59:25,812
+<c.thai><c.bg_transparent>&lrm;ผิวหนังของเขาเหี่ยวย่น</c.bg_transparent></c.thai>  857 
+
+857
+00:59:25,895 --> 00:59:27,397
+<c.thai><c.bg_transparent>&lrm;แห้งกรัง</c.bg_transparent></c.thai>  858 
+
+858
+00:59:27,897 --> 00:59:29,315
+<c.thai><c.bg_transparent>&lrm;และไม่ใช่แค่นี้</c.bg_transparent></c.thai>  859 
+
+859
+00:59:29,399 --> 00:59:33,152
+<c.thai><c.bg_transparent>&lrm;เขาไม่ได้แขนซ้ายด้วนเท่านั้น</c.bg_transparent></c.thai>  860 
+
+860
+00:59:33,236 --> 00:59:34,654
+<c.thai><c.bg_transparent>&lrm;แต่ตาซ้ายก็โบ๋</c.bg_transparent></c.thai>  861 
+
+861
+00:59:34,737 --> 00:59:38,241
+<c.thai><c.bg_transparent>&lrm;- อะไรนะ ไม่!</c.bg_transparent> <c.bg_transparent>&lrm;- ไม่จริง!</c.bg_transparent></c.thai>  862 
+
+862
+00:59:38,324 --> 00:59:40,243
+<c.thai><c.bg_transparent>&lrm;- เว็คนาตายไปแล้ว</c.bg_transparent> <c.bg_transparent>&lrm;- ถูกแคสสังหาร</c.bg_transparent></c.thai>  863 
+
+863
+00:59:40,326 --> 00:59:43,580
+<c.thai><c.bg_transparent>&lrm;นั่นแค่ที่คิดน่ะเพื่อนๆ นั่นแค่ที่คิด</c.bg_transparent></c.thai>  864 
+
+864
+00:59:43,663 --> 00:59:45,790
+<c.thai><c.bg_transparent>&lrm;แต่เว็คนายังมีชีวิต!</c.bg_transparent></c.thai>  865 
+
+865
+00:59:51,170 --> 00:59:52,589
+<c.thai><c.bg_transparent>&lrm;เฮ้ย เมื่อกี้มันอะไรวะ</c.bg_transparent></c.thai>  866 
+
+866
+00:59:53,506 --> 00:59:55,967
+<c.thai><c.bg_transparent>&lrm;เมื่อกี้มันอะไรวะ</c.bg_transparent> <c.bg_transparent>&lrm;ผมไม่ได้ทำอะไรเลย ไปว่าเขานู่น</c.bg_transparent></c.thai>  867 
+
+867
+00:59:56,050 --> 00:59:59,470
+<c.thai><c.bg_transparent>&lrm;นายหวาดกลัว เหนื่อยล้า บาดเจ็บ</c.bg_transparent></c.thai>  868 
+
+868
+00:59:59,554 --> 01:00:03,266
+<c.thai><c.bg_transparent>&lrm;นายจะวิ่งหนีเว็คนาและสาวกของเขา</c.bg_transparent></c.thai>  869 
+
+869
+01:00:04,267 --> 01:00:05,727
+<c.thai><c.bg_transparent>&lrm;หรือจะยืนหยัดต่อสู้</c.bg_transparent></c.thai>  870 
+
+870
+01:00:06,519 --> 01:00:07,604
+<c.thai><c.bg_transparent>&lrm;เลือกสิ</c.bg_transparent></c.thai>  871 
+
+871
+01:00:08,438 --> 01:00:09,564
+<c.thai><c.bg_transparent>&lrm;ซินแคลร์ ไปเล่น</c.bg_transparent></c.thai>  872 
+
+872
+01:00:10,398 --> 01:00:12,191
+<c.thai><c.bg_transparent>&lrm;ไปเล่นสิ ถึงเวลาลุย!</c.bg_transparent></c.thai>  873 
+
+873
+01:00:15,695 --> 01:00:16,946
+<c.thai><c.bg_transparent>&lrm;ฉันว่าเราสู้</c.bg_transparent></c.thai>  874 
+
+874
+01:00:18,197 --> 01:00:19,490
+<c.thai><c.bg_transparent>&lrm;สู้ถึงตาย</c.bg_transparent></c.thai>  875 
+
+875
+01:00:19,574 --> 01:00:20,700
+<c.thai><c.bg_transparent>&lrm;สู้ถึงตาย</c.bg_transparent></c.thai>  876 
+
+876
+01:00:20,783 --> 01:00:21,951
+<c.thai><c.bg_transparent>&lrm;สู้ถึงตาย</c.bg_transparent></c.thai>  877 
+
+877
+01:00:22,035 --> 01:00:27,123
+<c.thai><c.bg_transparent>&lrm;สู้ถึงตาย!</c.bg_transparent></c.thai>  878 
+
+878
+01:00:27,206 --> 01:00:32,462
+<c.thai><c.bg_transparent>&lrm;สู้ถึงตาย!</c.bg_transparent></c.thai>  879 
+
+879
+01:00:43,473 --> 01:00:45,016
+<c.thai><c.bg_transparent>&lrm;เย่!</c.bg_transparent></c.thai>  880 
+
+880
+01:00:54,901 --> 01:00:57,070
+<c.thai><c.bg_transparent>&lrm;- ไม่นะ</c.bg_transparent> <c.bg_transparent>&lrm;- กันไว้!</c.bg_transparent></c.thai>  881 
+
+881
+01:01:03,951 --> 01:01:05,078
+<c.thai><c.bg_transparent>&lrm;ชู้ตเลย!</c.bg_transparent></c.thai>  882 
+
+882
+01:01:07,747 --> 01:01:08,748
+<c.thai><c.bg_transparent>&lrm;เยส!</c.bg_transparent></c.thai>  883 
+
+883
+01:01:10,333 --> 01:01:11,250
+<c.thai><c.bg_transparent>&lrm;ใช่เลย!</c.bg_transparent></c.thai>  884 
+
+884
+01:01:18,841 --> 01:01:19,676
+<c.thai><c.bg_transparent>&lrm;(ทีมเหย้า 68)</c.bg_transparent></c.thai>  885 
+
+885
+01:01:20,885 --> 01:01:21,719
+<c.thai><c.bg_transparent>&lrm;(ทีมเยือน 69)</c.bg_transparent></c.thai>  886 
+
+886
+01:01:24,263 --> 01:01:25,098
+<c.thai><c.bg_transparent>&lrm;ขอเวลานอก</c.bg_transparent></c.thai>  887 
+
+887
+01:01:26,557 --> 01:01:27,600
+<c.thai><c.bg_transparent>&lrm;ขอเวลานอก!</c.bg_transparent></c.thai>  888 
+
+888
+01:01:28,267 --> 01:01:30,770
+<c.thai><c.bg_transparent>&lrm;พวกเรา ฉันไม่อยากพูดแบบนี้เลย</c.bg_transparent> <c.bg_transparent>&lrm;แต่เราต้องหนีแล้ว</c.bg_transparent></c.thai>  889 
+
+889
+01:01:30,853 --> 01:01:33,481
+<c.thai><c.bg_transparent>&lrm;- เห็นด้วย</c.bg_transparent> <c.bg_transparent>&lrm;- ไหนเมื่อกี้บอกว่า "สู้ถึงตาย"</c.bg_transparent></c.thai>  890 
+
+890
+01:01:33,564 --> 01:01:35,066
+<c.thai><c.bg_transparent>&lrm;อย่าตีความตรงตัวสิ</c.bg_transparent></c.thai>  891 
+
+891
+01:01:35,149 --> 01:01:37,902
+<c.thai><c.bg_transparent>&lrm;เว็คนาโจมตีเรายับเยิน</c.bg_transparent> <c.bg_transparent>&lrm;เหลือแค่สองคนฆ่ามันไม่ได้หรอก</c.bg_transparent></c.thai>  892 
+
+892
+01:01:37,985 --> 01:01:40,947
+<c.thai><c.bg_transparent>&lrm;นายก็ด้วยเหรอ</c.bg_transparent> <c.bg_transparent>&lrm;มันเหลือพลังชีวิตแค่ 15 แต้มเอง</c.bg_transparent></c.thai>  893 
+
+893
+01:01:41,030 --> 01:01:42,073
+<c.thai><c.bg_transparent>&lrm;อย่าปอดแหกสิ</c.bg_transparent></c.thai>  894 
+
+894
+01:01:42,156 --> 01:01:44,867
+<c.thai><c.bg_transparent>&lrm;ปอดแหกงั้นเหรอ</c.bg_transparent> <c.bg_transparent>&lrm;แค่เพราะเราไม่หลอกตัวเองเนี่ยนะ</c.bg_transparent></c.thai>  895 
+
+895
+01:01:44,951 --> 01:01:47,453
+<c.thai><c.bg_transparent>&lrm;- หลอกตัวเองอะไร เรียกว่าไม่ขี้ขลาดย่ะ</c.bg_transparent> <c.bg_transparent>&lrm;- นี่!</c.bg_transparent></c.thai>  896 
+
+896
+01:01:48,955 --> 01:01:53,251
+<c.thai><c.bg_transparent>&lrm;ขอพูดแทรกได้ไหม</c.bg_transparent> <c.bg_transparent>&lrm;สุภาพบุรุษกับเลดี้แอปเปิ้ลแจ็ค</c.bg_transparent></c.thai>  897 
+
+897
+01:01:53,960 --> 01:01:55,795
+<c.thai><c.bg_transparent>&lrm;แม้ฉันจะซูฮกที่พวกนายทุ่มเท</c.bg_transparent></c.thai>  898 
+
+898
+01:01:55,878 --> 01:01:58,756
+<c.thai><c.bg_transparent>&lrm;แต่รับฟังคำแนะนำของแกเร็ธผู้ยิ่งใหญ่จะดีกว่านะ</c.bg_transparent></c.thai>  899 
+
+899
+01:01:59,674 --> 01:02:02,176
+<c.thai><c.bg_transparent>&lrm;หนีเอาชีวิตรอดไม่เห็นจะน่าอายตรงไหน</c.bg_transparent></c.thai>  900 
+
+900
+01:02:03,094 --> 01:02:04,387
+<c.thai><c.bg_transparent>&lrm;อย่าพยายามเป็นผู้กล้าเลย</c.bg_transparent></c.thai>  901 
+
+901
+01:02:05,221 --> 01:02:07,098
+<c.thai><c.bg_transparent>&lrm;ไม่ใช่วันนี้ โอเคนะ</c.bg_transparent></c.thai>  902 
+
+902
+01:02:08,558 --> 01:02:09,517
+<c.thai><c.bg_transparent>&lrm;แป๊บนึง</c.bg_transparent></c.thai>  903 
+
+903
+01:02:10,893 --> 01:02:11,769
+<c.thai><c.bg_transparent>&lrm;นายว่าไงไมค์</c.bg_transparent></c.thai>  904 
+
+904
+01:02:11,853 --> 01:02:13,855
+<c.thai><c.bg_transparent>&lrm;นายกับแอปเปิ้ลแจ็คเหลืออีกกี่แต้ม</c.bg_transparent></c.thai>  905 
+
+905
+01:02:13,938 --> 01:02:14,772
+<c.thai><c.bg_transparent>&lrm;สิบสอง</c.bg_transparent></c.thai>  906 
+
+906
+01:02:15,356 --> 01:02:16,482
+<c.thai><c.bg_transparent>&lrm;ตรงนี้ ตอนส่งลูกเข้าสนาม</c.bg_transparent></c.thai>  907 
+
+907
+01:02:16,566 --> 01:02:19,193
+<c.thai><c.bg_transparent>&lrm;มันจะพยายามเอาสองคนมาบล็อกเจสัน</c.bg_transparent></c.thai>  908 
+
+908
+01:02:19,277 --> 01:02:20,945
+<c.thai><c.bg_transparent>&lrm;ซึ่งจะเปิดทางให้แพทริคทางซ้าย</c.bg_transparent></c.thai>  909 
+
+909
+01:02:21,028 --> 01:02:23,197
+<c.thai><c.bg_transparent>&lrm;ไม่ได้ โค้ชต้องให้ผมเป็นคนชู้ตสิ</c.bg_transparent></c.thai>  910 
+
+910
+01:02:23,281 --> 01:02:24,824
+<c.thai><c.bg_transparent>&lrm;งานนี้โคตรเสี่ยง</c.bg_transparent></c.thai>  911 
+
+911
+01:02:25,533 --> 01:02:27,452
+<c.thai><c.bg_transparent>&lrm;แต่พวกนายเป็นคนที่อยู่ในสมรภูมิ</c.bg_transparent></c.thai>  912 
+
+912
+01:02:27,535 --> 01:02:28,828
+<c.thai><c.bg_transparent>&lrm;เลือกเอาเองเลย</c.bg_transparent></c.thai>  913 
+
+913
+01:02:29,704 --> 01:02:32,623
+<c.thai><c.bg_transparent>&lrm;- ว่าไงเลดี้แอปเปิ้ลแจ็ค</c.bg_transparent> <c.bg_transparent>&lrm;- ต้องถามด้วยเหรอ</c.bg_transparent></c.thai>  914 
+
+914
+01:02:37,754 --> 01:02:38,588
+<c.thai><c.bg_transparent>&lrm;เอาวะ</c.bg_transparent></c.thai>  915 
+
+915
+01:02:40,298 --> 01:02:41,966
+<c.thai><c.bg_transparent>&lrm;ฆ่าไอ้ปีศาจสารเลวกันดีกว่า</c.bg_transparent></c.thai>  916 
+
+916
+01:02:42,049 --> 01:02:44,719
+<c.thai><c.bg_transparent>&lrm;ผู้ชนะหาทางชนะได้เสมอ ให้ฉันหาทางนะ</c.bg_transparent></c.thai>  917 
+
+917
+01:02:44,802 --> 01:02:46,721
+<c.thai><c.bg_transparent>&lrm;โอกาสทำสำเร็จมีแค่ 1 ต่อ 20</c.bg_transparent></c.thai>  918 
+
+918
+01:02:46,804 --> 01:02:49,724
+<c.thai><c.bg_transparent>&lrm;อย่ามาบอกว่าทำไม่ได้</c.bg_transparent></c.thai>  919 
+
+919
+01:02:49,807 --> 01:02:51,934
+<c.thai><c.bg_transparent>&lrm;เอาลูกมาให้ฉันก็พอ เอาลูกมาให้ฉัน</c.bg_transparent></c.thai>  920 
+
+920
+01:02:52,018 --> 01:02:53,394
+<c.thai><c.bg_transparent>&lrm;เอาลูกเต๋า 20 ด้านมา</c.bg_transparent></c.thai>  921 
+
+921
+01:03:11,662 --> 01:03:13,748
+<c.thai><c.bg_transparent>&lrm;พลาดเป้าจ้า!</c.bg_transparent></c.thai>  922 
+
+922
+01:03:13,831 --> 01:03:15,750
+<c.thai><c.bg_transparent>&lrm;- โธ่เว้ย!</c.bg_transparent> <c.bg_transparent>&lrm;- ไม่นะ!</c.bg_transparent></c.thai>  923 
+
+923
+01:03:40,983 --> 01:03:45,112
+<c.thai><c.bg_transparent>&lrm;- ขอร้องละ</c.bg_transparent> <c.bg_transparent>&lrm;- เลขสวยๆ!</c.bg_transparent></c.thai>  924 
+
+924
+01:03:45,196 --> 01:03:46,072
+<c.thai><c.bg_transparent>&lrm;ทอยเลย!</c.bg_transparent></c.thai>  925 
+
+925
+01:04:05,633 --> 01:04:07,593
+<c.thai><c.bg_transparent>&lrm;ขอร้องละ</c.bg_transparent></c.thai>  926 
+
+926
+01:04:07,677 --> 01:04:10,638
+<c.thai><c.bg_transparent>&lrm;ขอทีเถอะ!</c.bg_transparent></c.thai>  927 
+
+927
+01:04:34,203 --> 01:04:35,663
+<c.thai><c.bg_transparent>&lrm;- โจมตีคริติคอล!</c.bg_transparent> <c.bg_transparent>&lrm;- เย่!</c.bg_transparent></c.thai>  928 
+
+928
+01:04:35,746 --> 01:04:37,248
+<c.thai><c.bg_transparent>&lrm;ได้ไง!</c.bg_transparent></c.thai>  929 
+
+929
+01:04:43,504 --> 01:04:45,256
+<c.thai><c.bg_transparent>&lrm;เราเล่นเกมเพื่อการนี้แหละ</c.bg_transparent></c.thai>  930 
+
+930
+01:04:49,135 --> 01:04:50,970
+<c.thai><c.bg_transparent>&lrm;เยส!</c.bg_transparent></c.thai>  931 
+
+931
+01:05:05,526 --> 01:05:07,570
+<c.thai><c.bg_transparent>&lrm;ชัยชนะของนายเลย นายคนเดียว!</c.bg_transparent></c.thai>  932 
+
+932
+01:05:08,487 --> 01:05:09,697
+<c.thai><c.bg_transparent>&lrm;ใช่เลย</c.bg_transparent></c.thai>  933 
+
+933
+01:05:09,780 --> 01:05:11,407
+<c.thai><c.bg_transparent>&lrm;นี่เจ้ด จะไปด้วยไหม</c.bg_transparent></c.thai>  934 
+
+934
+01:05:11,490 --> 01:05:13,242
+<c.thai><c.bg_transparent>&lrm;ไปสิ ปาร์ตี้ร้านเบนนี่ส์เว้ยหนุ่มๆ!</c.bg_transparent></c.thai>  935 
+
+935
+01:05:13,326 --> 01:05:14,577
+<c.thai><c.bg_transparent>&lrm;เย่!</c.bg_transparent></c.thai>  936 
+
+936
+01:05:15,161 --> 01:05:16,329
+<c.thai><c.bg_transparent>&lrm;ใช่เลย!</c.bg_transparent></c.thai>  937 
+
+937
+01:05:20,625 --> 01:05:21,792
+<c.thai><c.bg_transparent>&lrm;ใช่เลย!</c.bg_transparent></c.thai>  938 
+
+938
+01:05:24,545 --> 01:05:26,130
+<c.thai><c.bg_transparent>&lrm;ลูคัส มาสิ</c.bg_transparent></c.thai>  939 
+
+939
+01:05:28,591 --> 01:05:30,301
+<c.thai><c.bg_transparent>&lrm;หลังจากปีที่น่าเศร้าสำหรับเมืองของเรา</c.bg_transparent></c.thai>  940 
+
+940
+01:05:30,384 --> 01:05:32,553
+<c.thai><c.bg_transparent>&lrm;ทีมไทเกอร์ได้ชนะตำแหน่งแชมป์</c.bg_transparent></c.thai>  941 
+
+941
+01:05:32,637 --> 01:05:34,597
+<c.thai><c.bg_transparent>&lrm;เป็นครั้งแรกใน 22 ปี</c.bg_transparent></c.thai>  942 
+
+942
+01:05:34,680 --> 01:05:36,641
+<c.thai><c.bg_transparent>&lrm;เป็นเกมที่สนุกจริงๆ อัลเลน</c.bg_transparent></c.thai>  943 
+
+943
+01:05:36,724 --> 01:05:40,686
+<c.thai><c.bg_transparent>&lrm;ปิดฉากด้วยลูคัส ซินแคลร์</c.bg_transparent> <c.bg_transparent>&lrm;ตัวสำรองของทีมที่ทำแต้มได้ตอนออดดังพอดี</c.bg_transparent></c.thai>  944 
+
+944
+01:05:40,770 --> 01:05:43,105
+<c.thai><c.bg_transparent>&lrm;ตอนนี้เขาคงรู้สึกดี…</c.bg_transparent></c.thai>  945 
+
+945
+01:05:50,655 --> 01:05:52,239
+<c.thai><c.bg_transparent>&lrm;เออๆ ได้ยินแล้ว</c.bg_transparent></c.thai>  946 
+
+946
+01:06:25,106 --> 01:06:26,816
+<c.thai><c.bg_transparent>&lrm;มาแล้วๆ</c.bg_transparent></c.thai>  947 
+
+947
+01:06:28,526 --> 01:06:29,819
+<c.thai><c.bg_transparent>&lrm;นี่จ้ะ</c.bg_transparent></c.thai>  948 
+
+948
+01:06:30,319 --> 01:06:31,445
+<c.thai><c.bg_transparent>&lrm;เก่งมาก</c.bg_transparent></c.thai>  949 
+
+949
+01:06:42,415 --> 01:06:45,459
+<c.thai><c.bg_transparent>&lrm;นี่คือปราสาทของฉัน</c.bg_transparent></c.thai>  950 
+
+950
+01:06:56,095 --> 01:06:57,096
+<c.thai><c.bg_transparent>&lrm;ก็ได้ๆ</c.bg_transparent></c.thai>  951 
+
+951
+01:06:57,680 --> 01:06:59,432
+<c.thai><c.bg_transparent>&lrm;อีกชิ้นเดียว แต่แค่นี้พอแล้วนะ</c.bg_transparent></c.thai>  952 
+
+952
+01:07:00,141 --> 01:07:01,100
+<c.thai><c.bg_transparent>&lrm;เก่งมาก</c.bg_transparent></c.thai>  953 
+
+953
+01:07:12,194 --> 01:07:13,821
+<c.thai><c.bg_transparent>&lrm;โทษทีที่บ้านเละ</c.bg_transparent></c.thai>  954 
+
+954
+01:07:15,031 --> 01:07:16,574
+<c.thai><c.bg_transparent>&lrm;แม่บ้านลาหยุดอาทิตย์นึง</c.bg_transparent></c.thai>  955 
+
+955
+01:07:16,657 --> 01:07:17,992
+<c.thai><c.bg_transparent>&lrm;นาย…</c.bg_transparent></c.thai>  956 
+
+956
+01:07:19,160 --> 01:07:20,286
+<c.thai><c.bg_transparent>&lrm;นายอยู่คนเดียวเหรอ</c.bg_transparent></c.thai>  957 
+
+957
+01:07:20,369 --> 01:07:21,370
+<c.thai><c.bg_transparent>&lrm;อยู่กับลุง</c.bg_transparent></c.thai>  958 
+
+958
+01:07:21,454 --> 01:07:24,206
+<c.thai><c.bg_transparent>&lrm;แต่ลุงทำงานกะกลางคืนที่โรงงาน</c.bg_transparent></c.thai>  959 
+
+959
+01:07:25,041 --> 01:07:27,418
+<c.thai><c.bg_transparent>&lrm;เงินเดือนดี๊ดี</c.bg_transparent></c.thai>  960 
+
+960
+01:07:27,501 --> 01:07:28,919
+<c.thai><c.bg_transparent>&lrm;ใช้เวลานานแค่ไหน</c.bg_transparent></c.thai>  961 
+
+961
+01:07:29,003 --> 01:07:29,920
+<c.thai><c.bg_transparent>&lrm;ว่าไงนะ</c.bg_transparent></c.thai>  962 
+
+962
+01:07:30,796 --> 01:07:33,883
+<c.thai><c.bg_transparent>&lrm;ยาเค นานไหมกว่าจะออกฤทธิ์</c.bg_transparent></c.thai>  963 
+
+963
+01:07:35,092 --> 01:07:37,845
+<c.thai><c.bg_transparent>&lrm;ก็แล้วแต่ว่าสูดทางจมูกหรือเปล่า</c.bg_transparent></c.thai>  964 
+
+964
+01:07:38,429 --> 01:07:39,388
+<c.thai><c.bg_transparent>&lrm;ถ้าสูด</c.bg_transparent></c.thai>  965 
+
+965
+01:07:39,930 --> 01:07:41,265
+<c.thai><c.bg_transparent>&lrm;งั้นก็</c.bg_transparent></c.thai>  966 
+
+966
+01:07:41,348 --> 01:07:43,434
+<c.thai><c.bg_transparent>&lrm;จะออกฤทธิ์เร็วมาก</c.bg_transparent></c.thai>  967 
+
+967
+01:07:44,060 --> 01:07:44,977
+<c.thai><c.bg_transparent>&lrm;เวรแล้วไง</c.bg_transparent></c.thai>  968 
+
+968
+01:07:45,061 --> 01:07:47,396
+<c.thai><c.bg_transparent>&lrm;- แน่ใจนะว่ามี</c.bg_transparent> <c.bg_transparent>&lrm;- แน่ใจ มีแน่</c.bg_transparent></c.thai>  969 
+
+969
+01:07:48,481 --> 01:07:49,398
+<c.thai><c.bg_transparent>&lrm;ที่ไหนสักแห่ง</c.bg_transparent></c.thai>  970 
+
+970
+01:07:55,279 --> 01:07:56,906
+<c.thai><c.bg_transparent>&lrm;ขอโทษที่กลับดึกนะจ๊ะสุดที่รัก</c.bg_transparent></c.thai>  971 
+
+971
+01:08:01,410 --> 01:08:02,536
+<c.thai><c.bg_transparent>&lrm;คนสวยของพี่</c.bg_transparent></c.thai>  972 
+
+972
+01:08:42,576 --> 01:08:45,246
+<c.thai><c.bg_transparent>&lrm;เอ็ดดี้ เจอหรือยัง</c.bg_transparent></c.thai>  973 
+
+973
+01:08:46,664 --> 01:08:47,540
+<c.thai><c.bg_transparent>&lrm;เอ็ดดี้</c.bg_transparent></c.thai>  974 
+
+974
+01:08:54,588 --> 01:08:55,631
+<c.thai><c.bg_transparent>&lrm;เอ็ดดี้</c.bg_transparent></c.thai>  975 
+
+975
+01:08:56,841 --> 01:08:58,008
+<c.thai><c.bg_transparent>&lrm;เอ็ดดี้</c.bg_transparent></c.thai>  976 
+
+976
+01:08:59,385 --> 01:09:00,219
+<c.thai><c.bg_transparent>&lrm;แม่</c.bg_transparent></c.thai>  977 
+
+977
+01:09:00,302 --> 01:09:02,972
+<c.thai><c.bg_transparent>&lrm;แค่กำลังขยายชุดให้ลูกน่ะจ้ะ</c.bg_transparent></c.thai>  978 
+
+978
+01:09:03,055 --> 01:09:06,809
+<c.thai><c.bg_transparent>&lrm;ลูกจะต้องดูสวยมากแน่ๆ</c.bg_transparent></c.thai>  979 
+
+979
+01:09:25,744 --> 01:09:26,745
+<c.thai><c.bg_transparent>&lrm;คริสซี่!</c.bg_transparent></c.thai>  980 
+
+980
+01:09:26,829 --> 01:09:28,956
+<c.thai><c.bg_transparent>&lrm;- ไม่!</c.bg_transparent> <c.bg_transparent>&lrm;- คริสซี่ เปิดประตูสิ!</c.bg_transparent></c.thai>  981 
+
+981
+01:09:29,039 --> 01:09:32,168
+<c.thai><c.bg_transparent>&lrm;- ไม่!</c.bg_transparent> <c.bg_transparent>&lrm;- ปล่อยสิ!</c.bg_transparent></c.thai>  982 
+
+982
+01:09:32,793 --> 01:09:33,836
+<c.thai><c.bg_transparent>&lrm;คริสซี่!</c.bg_transparent></c.thai>  983 
+
+983
+01:09:42,970 --> 01:09:44,054
+<c.thai><c.bg_transparent>&lrm;พ่อ</c.bg_transparent></c.thai>  984 
+
+984
+01:09:45,723 --> 01:09:47,474
+<c.thai><c.bg_transparent>&lrm;พ่อ!</c.bg_transparent></c.thai>  985 
+
+985
+01:09:54,523 --> 01:09:55,399
+<c.thai><c.bg_transparent>&lrm;อยู่นี่เอง</c.bg_transparent></c.thai>  986 
+
+986
+01:09:56,984 --> 01:09:57,902
+<c.thai><c.bg_transparent>&lrm;เจอแล้ว</c.bg_transparent></c.thai>  987 
+
+987
+01:09:58,485 --> 01:10:01,447
+<c.thai><c.bg_transparent>&lrm;อีกไม่กี่อึดใจก็จะพบกับบรมสุข</c.bg_transparent></c.thai>  988 
+
+988
+01:10:04,491 --> 01:10:05,367
+<c.thai><c.bg_transparent>&lrm;คริสซี่</c.bg_transparent></c.thai>  989 
+
+989
+01:10:08,704 --> 01:10:09,830
+<c.thai><c.bg_transparent>&lrm;คริสซี่</c.bg_transparent></c.thai>  990 
+
+990
+01:10:11,248 --> 01:10:12,124
+<c.thai><c.bg_transparent>&lrm;ฮัลโหล</c.bg_transparent></c.thai>  991 
+
+991
+01:10:14,501 --> 01:10:15,711
+<c.thai><c.bg_transparent>&lrm;คริสซี่</c.bg_transparent></c.thai>  992 
+
+992
+01:10:17,129 --> 01:10:18,172
+<c.thai><c.bg_transparent>&lrm;โอเค คริสซี่ ตื่นได้แล้ว</c.bg_transparent></c.thai>  993 
+
+993
+01:10:19,089 --> 01:10:20,507
+<c.thai><c.bg_transparent>&lrm;นี่ ฮัลโหล</c.bg_transparent></c.thai>  994 
+
+994
+01:10:21,091 --> 01:10:22,927
+<c.thai><c.bg_transparent>&lrm;คริสซี่ ฮัลโหล</c.bg_transparent></c.thai>  995 
+
+995
+01:10:23,010 --> 01:10:24,011
+<c.thai><c.bg_transparent>&lrm;นี่ คริสซี่</c.bg_transparent></c.thai>  996 
+
+996
+01:10:33,479 --> 01:10:34,563
+<c.thai><c.bg_transparent>&lrm;คริสซี่</c.bg_transparent></c.thai>  997 
+
+997
+01:10:59,088 --> 01:11:00,297
+<c.thai><c.bg_transparent>&lrm;คริสซี่</c.bg_transparent></c.thai>  998 
+
+998
+01:11:06,679 --> 01:11:08,222
+<c.thai><c.bg_transparent>&lrm;ไม่นะ ไม่</c.bg_transparent></c.thai>  999 
+
+999
+01:11:08,722 --> 01:11:11,016
+<c.thai><c.bg_transparent>&lrm;ช่วยด้วย!</c.bg_transparent></c.thai>  1000 
+
+1000
+01:11:11,100 --> 01:11:12,810
+<c.thai><c.bg_transparent>&lrm;ใครก็ได้ช่วยด้วย!</c.bg_transparent></c.thai>  1001 
+
+1001
+01:11:12,893 --> 01:11:14,937
+<c.thai><c.bg_transparent>&lrm;ตื่นได้แล้วนะ ฮัลโหล ได้ยินไหม</c.bg_transparent></c.thai>  1002 
+
+1002
+01:11:15,020 --> 01:11:16,772
+<c.thai><c.bg_transparent>&lrm;ตื่นได้แล้วคริสซี่</c.bg_transparent></c.thai>  1003 
+
+1003
+01:11:17,356 --> 01:11:18,732
+<c.thai><c.bg_transparent>&lrm;คริสซี่ ตื่นสิ</c.bg_transparent></c.thai>  1004 
+
+1004
+01:11:18,816 --> 01:11:21,610
+<c.thai><c.bg_transparent>&lrm;ไม่ชอบแบบนี้เลยนะคริสซี่ ตื่นสิ!</c.bg_transparent></c.thai>  1005 
+
+1005
+01:11:21,694 --> 01:11:23,112
+<c.thai><c.bg_transparent>&lrm;ช่วยด้วย!</c.bg_transparent></c.thai>  1006 
+
+1006
+01:11:23,195 --> 01:11:24,405
+<c.thai><c.bg_transparent>&lrm;คริสซี่</c.bg_transparent></c.thai>  1007 
+
+1007
+01:11:27,783 --> 01:11:29,034
+<c.thai><c.bg_transparent>&lrm;ไม่</c.bg_transparent></c.thai>  1008 
+
+1008
+01:11:58,022 --> 01:12:00,024
+<c.thai><c.bg_transparent>&lrm;คริสซี่!</c.bg_transparent></c.thai>  1009 
+
+1009
+01:12:00,107 --> 01:12:02,443
+<c.thai><c.bg_transparent>&lrm;คริสซี่ ตื่นสิคริสซี่!</c.bg_transparent></c.thai>  1010 
+
+1010
+01:12:04,695 --> 01:12:07,781
+<c.thai><c.bg_transparent>&lrm;อย่าร้องไห้เลยคริสซี่</c.bg_transparent></c.thai>  1011 
+
+1011
+01:12:09,491 --> 01:12:11,118
+<c.thai><c.bg_transparent>&lrm;ถึงเวลาแล้ว</c.bg_transparent></c.thai>  1012 
+
+1012
+01:12:12,244 --> 01:12:13,996
+<c.thai><c.bg_transparent>&lrm;ที่ความทุกข์ของแก…</c.bg_transparent></c.thai>  1013 
+
+1013
+01:12:16,290 --> 01:12:17,916
+<c.thai><c.bg_transparent>&lrm;จะสิ้นสุดลง</c.bg_transparent></c.thai>  1014 
+
+1014
+01:12:23,922 --> 01:12:24,923
+<c.thai><c.bg_transparent>&lrm;คริสซี่!</c.bg_transparent></c.thai>  1015 
+
+1015
+01:12:28,927 --> 01:12:29,845
+<c.thai><c.bg_transparent>&lrm;อะไร…</c.bg_transparent></c.thai>  1016 
+
+1016
+01:12:38,187 --> 01:12:39,646
+<c.thai><c.bg_transparent>&lrm;คริสซี่ พระเจ้าช่วย!</c.bg_transparent></c.thai>  1017 
+
+1017
+01:15:25,604 --> 01:15:29,566
+<c.thai><c.bg_transparent>&lrm;คำบรรยายโดย นันทวัน ริดเดล</c.bg_transparent></c.thai>  
+
