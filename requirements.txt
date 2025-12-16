@@ -7,3 +7,4 @@ tqdm
 colorama
 lxml
 cloudscraper
+clint
