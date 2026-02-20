@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 14 * * *"   # 22:00 ไทย -> 15:00 UTC
-    #- cron: "0 */1 * * *"   # รันทุก 6 ชม.
+    #- cron: "0 */1 * * *"   # รันทุก 6 ชม.  
 
 jobs:
   run-python:
