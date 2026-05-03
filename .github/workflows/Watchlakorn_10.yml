@@ -3,7 +3,7 @@ name: run Watchlakorn สาระความรู้
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 16 * * *"   # 22:00 ไทย -> 15:00 UTC
+   # - cron: "0 16 * * *"   # 22:00 ไทย -> 15:00 UTC
     #- cron: "0 */1 * * *"   # รันทุก 6 ชม.
 
 jobs:
