@@ -2,8 +2,8 @@ name: run Watchlakorn ละครเก่า
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 15 * * *"   # 22:00 ไทย -> 15:00 UTC
+  #schedule:
+    #- cron: "0 15 * * *"   # 22:00 ไทย -> 15:00 UTC
     #- cron: "0 */1 * * *"   # รันทุก 6 ชม.
 
 jobs:
